@@ -1,0 +1,89 @@
+How you met me.. Lada A. Adamic, Thomas M. Lento, Andrew T. Fiore, ICWSM'12 short paper.
+
+ The Role of Social Networks in Information Diffusion., Eytan Bakshy, Itamar Rosenn, Cameron Marlow, Lada A. Adamic, WWW'12.
+
+Group Membership and Diffusion in Virtual Worlds.,David A. Huffaker, Chun-Yuen Teng, Matthew P. Simmons, Liuling Gong, Lada A. Adamic, IEEE SocialCom 2011.
+                            
+
+Coevolution of network structure and content., Liuling Gong, Chun-Yuen Teng, Avishay Livne, Celso Brunneti, Lada Adamic, WebSci 2011. 
+
+Limiting the Spread of Highly Resistant Hospital Acquired Microorganisms Via Critical Care Transfers: A Simulation Study., Umanka Karkada, Lada Adamic, Jeremy Kahn, Theodore Iwashyna, Int Care Med 2011; 37(10): 1633-1640. 
+
+ Memes Online: Extracted, Subtracted, Injected, and Recollected., Matthew P. Simmons, Lada A. Adamic, Eytan Adar, ICWSM 2011. 
+
+ Rating Friends Without Making Enemies., Lada A. Adamic, Debra Lauterbach, Chun-Yuen Teng, Mark S. Ackerman, ICWSM 2011. 
+
+ The Party is Over Here: Structure and Content in the 2010 Election., Avishay Livne, Matthew P. Simmons, Eytan Adar, Lada A. Adamic, ICWSM 2011. 
+
+ Culture Matters: A Survey Study of Social Q&A Behavior., Jiang Yang, Meredith Ringel Morris, Jaime Teevan, Lada A. Adamic, Mark S. Ackerman, ICWSM 2011. 
+
+
+                                      
+                                    Virtual Gifts and Guanxi: Supporting Social Exchange in a Chinese Online Community, 
+Yang, Jiang, Ackerman Mark S., and Adamic Lada A. 
+, CSCW, (2011)
+.
+
+
+                                      
+                                    Seller activity in a virtual marketplace, 
+Huffaker, David A., Simmons Matthew, Bakshy Eytan, and Adamic Lada A. 
+, First Monday, 07/2010, Volume 15, Issue 7, (2010)
+.
+
+
+                                      
+                                    I rate you. You rate me. Should we do so publicly?, 
+Teng, Chun-Yuen, Lauterbach Debra, and Adamic Lada A. 
+, 06/2010, WOSN, Boston, MA, (2010)
+.
+
+
+                                      
+                                    Activity Lifespan: An Analysis of User Survival Patterns in Online Knowledge Sharing Communities, 
+Yang, Jiang, Wei Xiao, Ackerman Mark S., and Adamic Lada A. 
+, 05/2010, Washington, D.C, (2010)
+.
+
+
+                                      
+                                    Longevity in Second Life, 
+Teng, Chun-Yuen, and Adamic Lada A. 
+, 05/2010, ICWSM, Washington D.C., (2010)
+.
+
+
+                                      
+                                    The Social Dynamics of Economic Activity in a VirtualWorld, 
+Bakshy, Eytan, Simmons Matthew P., Huffaker David A., Teng Chun-Yuen, and Adamic Lada A. 
+, ICWSM, Washington, D.C. , (2010)
+.
+
+
+                                      
+                                    Diffusion dynamics of games on online social networks, 
+Wei, Xiao, Yang Jiang, Adamic Lada A., de AraÃºjo Ricardo Matsumura, and Rekhi Manu 
+, WOSN, (2010)
+.
+
+
+                                      
+                                    Individual focus and knowledge contribution, 
+Adamic, Lada A., Wei Xiao, Yang Jiang, Gerrish Sean, Nam Kevin K., and Clarkson Gavin S. 
+, First Monday, 03/2010, Volume 15, Issue 3, (2010)
+.
+
+
+                                      
+                                    The Impact of Boundary Spanning Scholarly Publications and Patents, 
+Shi, Xiaolin, Adamic Lada A., Tseng Belle L., and Clarkson Gavin S. 
+, PLoS ONE, 08/2009, Volume 4, Issue 8, p.e6547, (2009)
+.
+
+
+                                      
+                                    Questions in, Knowledge iN?  A Study of Naver's Question Answering Community, 
+Nam, Kevin K., Ackerman Mark S., and Adamic Lada A. 
+, CHI'09, 09/2008, Boston, MA, (2009)
+.
+

@@ -1,0 +1,3 @@
+Filtrace a segmentace obrazu
+
+Projekt do kurzu HSC, ktery je zameren na filtraci a segmentaci obrazu. Filtrace je realizovana pomoci medianoveho filtru, zatimco segmentace je realizovana prahovani. Cilem projektu je spravne rozdelit tuto vstupni ulohu mezi MCU a FPGA na pripravku FITkit.

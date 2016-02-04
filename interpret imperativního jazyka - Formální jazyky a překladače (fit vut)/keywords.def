@@ -1,0 +1,42 @@
+/*
+ * keywords.def:   Implementace interpretu imperativniho jazyka IFJ12
+ *
+ * Team:           Daniel Berek <xberek00@stud.fit.vutbr.cz>
+ *                 Dusan Fodor  <xfodor01@stud.fit.vutbr.cz>
+ *                 Pavol Jurcik <xjurci06@stud.fit.vutbr.cz>
+ *                 Peter Pritel <xprite01@stud.fit.vutbr.cz>
+ *                 Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+ *
+ * Author(s):      Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+ * Date:           $Format:%aD$
+ *
+ * This file is part of ifj12_b2i.
+ */
+
+#define X_KEYWORD \
+X(WHILE, "while") \
+X(IF, "if") \
+X(ELSE, "else") \
+X(FUNCTION, "function") \
+X(RETURN, "return") \
+X(END, "end") \
+X(TRUE, "true") \
+X(FALSE, "false") \
+X(NIL, "nil") \
+X(LOOP, "loop") \
+X(AND, "and") \
+X(OR, "or") \
+X(NOT, "not") \
+X(IN, "in") \
+X(NOTIN, "notin")
+
+#define X_KEYWORD_RESERVED \
+X(AS, "as") \
+X(DEF, "def") \
+X(DIRECTIVE, "directive") \
+X(EXPORT, "export") \
+X(FROM, "from") \
+X(IMPORT, "import") \
+X(LAUNCH, "launch") \
+X(LOAD, "load") \
+X(MACRO, "macro")

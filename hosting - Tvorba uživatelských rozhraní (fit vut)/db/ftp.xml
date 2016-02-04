@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ftp>
+  <account name="mojefirma" login="test@test.cz" max_users="5" capacity="1">
+     <user name="jmeno" perm="rw" quota="" />
+  </account>
+</ftp>

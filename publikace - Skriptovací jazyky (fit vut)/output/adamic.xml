@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibtexml.dtd" >
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="adamic2012you">
+<bibtex:inproceedings>
+<bibtex:title>How You Met Me.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+<bibtex:person>Lento, Thomas M</bibtex:person>
+<bibtex:person>Fiore, Andrew T</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>ICWSM</bibtex:booktitle>
+<bibtex:year>2012</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="bakshy2012role">
+<bibtex:inproceedings>
+<bibtex:title>The role of social networks in information diffusion</bibtex:title>
+<bibtex:author>
+<bibtex:person>Bakshy, Eytan</bibtex:person>
+<bibtex:person>Rosenn, Itamar</bibtex:person>
+<bibtex:person>Marlow, Cameron</bibtex:person>
+<bibtex:person>Adamic, Lada</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the 21st international conference on World Wide Web</bibtex:booktitle>
+<bibtex:pages>519-528</bibtex:pages>
+<bibtex:year>2012</bibtex:year>
+<bibtex:organization>ACM</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="huffaker2011group">
+<bibtex:inproceedings>
+<bibtex:title>Group Membership and Diffusion in Virtual Worlds</bibtex:title>
+<bibtex:author>
+<bibtex:person>Huffaker, David A</bibtex:person>
+<bibtex:person>Teng, Chun-Yuen</bibtex:person>
+<bibtex:person>Simmons, Matthew P</bibtex:person>
+<bibtex:person>Gong, Liuling</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Privacy, security, risk and trust (passat), 2011 ieee third international conference on and 2011 ieee third international conference on social computing (socialcom)</bibtex:booktitle>
+<bibtex:pages>331-338</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:organization>IEEE</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="teng2012coevolution">
+<bibtex:inproceedings>
+<bibtex:title>Coevolution of network structure and content</bibtex:title>
+<bibtex:author>
+<bibtex:person>Teng, Chun-Yuen</bibtex:person>
+<bibtex:person>Gong, Liuling</bibtex:person>
+<bibtex:person>Eecs, Avishay Livne</bibtex:person>
+<bibtex:person>Brunetti, Celso</bibtex:person>
+<bibtex:person>Adamic, Lada</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the 3rd Annual ACM Web Science Conference</bibtex:booktitle>
+<bibtex:pages>288-297</bibtex:pages>
+<bibtex:year>2012</bibtex:year>
+<bibtex:organization>ACM</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="karkada2011limiting">
+<bibtex:article>
+<bibtex:title>Limiting the spread of highly resistant hospital-acquired microorganisms via critical care transfers: a simulation study</bibtex:title>
+<bibtex:author>
+<bibtex:person>Karkada, Umanka H</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+<bibtex:person>Kahn, Jeremy M</bibtex:person>
+<bibtex:person>Iwashyna, Theodore J</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Intensive care medicine</bibtex:journal>
+<bibtex:volume>37</bibtex:volume>
+<bibtex:number>10</bibtex:number>
+<bibtex:pages>1633-1640</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="simmons2011memes">
+<bibtex:inproceedings>
+<bibtex:title>Memes Online: Extracted, Subtracted, Injected, and Recollected.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Simmons, Matthew P</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+<bibtex:person>Adar, Eytan</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>ICWSM</bibtex:booktitle>
+<bibtex:year>2011</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="adamic2011rating">
+<bibtex:inproceedings>
+<bibtex:title>Rating Friends Without Making Enemies.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+<bibtex:person>Lauterbach, Debra</bibtex:person>
+<bibtex:person>Teng, ChunYuen</bibtex:person>
+<bibtex:person>Ackerman, Mark S</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>ICWSM</bibtex:booktitle>
+<bibtex:year>2011</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="livne2011party">
+<bibtex:inproceedings>
+<bibtex:title>The Party Is Over Here: Structure and Content in the 2010 Election.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Livne, Avishay</bibtex:person>
+<bibtex:person>Simmons, Matthew P</bibtex:person>
+<bibtex:person>Adar, Eytan</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>ICWSM</bibtex:booktitle>
+<bibtex:year>2011</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="yang2011culture">
+<bibtex:article>
+<bibtex:title>Culture Matters: A Survey Study of Social Q&amp;A Behavior.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Yang, Jiang</bibtex:person>
+<bibtex:person>Morris, Meredith Ringel</bibtex:person>
+<bibtex:person>Teevan, Jaime</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+<bibtex:person>Ackerman, Mark S</bibtex:person>
+</bibtex:author>
+<bibtex:journal>ICWSM</bibtex:journal>
+<bibtex:volume>11</bibtex:volume>
+<bibtex:pages>409-416</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="yang2011virtual">
+<bibtex:inproceedings>
+<bibtex:title>Virtual gifts and guanxi: supporting social exchange in a chinese online community</bibtex:title>
+<bibtex:author>
+<bibtex:person>Yang, Jiang</bibtex:person>
+<bibtex:person>Ackerman, Mark S</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the ACM 2011 conference on Computer supported cooperative work</bibtex:booktitle>
+<bibtex:pages>45-54</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:organization>ACM</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="huffaker2010seller">
+<bibtex:article>
+<bibtex:title>Seller activity in a virtual marketplace</bibtex:title>
+<bibtex:author>
+<bibtex:person>Huffaker, David A</bibtex:person>
+<bibtex:person>Simmons, Matthew</bibtex:person>
+<bibtex:person>Bakshy, Eytan</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+</bibtex:author>
+<bibtex:journal>First Monday</bibtex:journal>
+<bibtex:volume>15</bibtex:volume>
+<bibtex:number>7</bibtex:number>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="teng2010rate">
+<bibtex:inproceedings>
+<bibtex:title>I rate you. You rate me. Should we do so publicly</bibtex:title>
+<bibtex:author>
+<bibtex:person>Teng, Chun-Yuen</bibtex:person>
+<bibtex:person>Lauterbach, Debra</bibtex:person>
+<bibtex:person>Adamic, L</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the 3rd Workshop on Online Social Networks, Boston</bibtex:booktitle>
+<bibtex:year>2010</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="yang2010activity">
+<bibtex:inproceedings>
+<bibtex:title>Activity Lifespan: An Analysis of User Survival Patterns in Online Knowledge Sharing Communities.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Yang, Jiang</bibtex:person>
+<bibtex:person>Wei, Xiao</bibtex:person>
+<bibtex:person>Ackerman, Mark S</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>ICWSM</bibtex:booktitle>
+<bibtex:year>2010</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="teng2010longevity">
+<bibtex:article>
+<bibtex:title>Longevity in Second Life</bibtex:title>
+<bibtex:author>
+<bibtex:person>Teng, Chun-Yuen</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Ann Arbor</bibtex:journal>
+<bibtex:volume>1001</bibtex:volume>
+<bibtex:pages>48103</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="teng2010longevity">
+<bibtex:article>
+<bibtex:title>Longevity in Second Life</bibtex:title>
+<bibtex:author>
+<bibtex:person>Teng, Chun-Yuen</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Ann Arbor</bibtex:journal>
+<bibtex:volume>1001</bibtex:volume>
+<bibtex:pages>48103</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="wei2010diffusion">
+<bibtex:inproceedings>
+<bibtex:title>Diffusion dynamics of games on online social networks</bibtex:title>
+<bibtex:author>
+<bibtex:person>Wei, Xiao</bibtex:person>
+<bibtex:person>Yang, Jiang</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+<bibtex:person>de Ara\'ujo, Ricardo Matsumura</bibtex:person>
+<bibtex:person>Rekhi, Manu</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the 3rd conference on Online social networks</bibtex:booktitle>
+<bibtex:pages>2-2</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+<bibtex:organization>USENIX Association</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="adamic2010individual">
+<bibtex:article>
+<bibtex:title>Individual focus and knowledge contribution</bibtex:title>
+<bibtex:author>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+<bibtex:person>Wei, Xiao</bibtex:person>
+<bibtex:person>Yang, Jiang</bibtex:person>
+<bibtex:person>Gerrish, Sean</bibtex:person>
+<bibtex:person>Nam, Kevin K</bibtex:person>
+<bibtex:person>Clarkson, Gavin S</bibtex:person>
+</bibtex:author>
+<bibtex:journal>arXiv preprint arXiv:1002.0561</bibtex:journal>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="shi2009impact">
+<bibtex:article>
+<bibtex:title>The impact of boundary spanning scholarly publications and patents</bibtex:title>
+<bibtex:author>
+<bibtex:person>Shi, Xiaolin</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+<bibtex:person>Tseng, Belle L</bibtex:person>
+<bibtex:person>Clarkson, Gavin S</bibtex:person>
+</bibtex:author>
+<bibtex:journal>PloS one</bibtex:journal>
+<bibtex:volume>4</bibtex:volume>
+<bibtex:number>8</bibtex:number>
+<bibtex:pages>e6547</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>Public Library of Science</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="nam2009questions">
+<bibtex:inproceedings>
+<bibtex:title>Questions in, knowledge in?: a study of naver's question answering community</bibtex:title>
+<bibtex:author>
+<bibtex:person>Nam, Kevin Kyung</bibtex:person>
+<bibtex:person>Ackerman, Mark S</bibtex:person>
+<bibtex:person>Adamic, Lada A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the SIGCHI conference on human factors in computing systems</bibtex:booktitle>
+<bibtex:pages>779-788</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+<bibtex:organization>ACM</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+  <!-- manual cleanup may be required... -->
+</bibtex:file>
+

@@ -1,0 +1,19 @@
+#!/bin/bash
+gnuplot <<EOF
+set terminal pngcairo size 800,600 enhanced
+set output "$1.png"
+
+set title "Graf zatizenosti exitu"
+set auto x
+set yrange [0:*]
+set xtic rotate by 90 right scale 0 font ",8"
+set xlabel "exit [km]"
+set ylabel "vozidel"
+
+set style data histogram
+set style fill solid 0.5 border -1
+set style histogram cluster gap 1
+
+plot "$1.dat" u 3:xtic( stringcolumn(2) . " ". stringcolumn(1) ) ti "Najezdu", \
+           "" u 4 ti "Vyjezdu"
+EOF

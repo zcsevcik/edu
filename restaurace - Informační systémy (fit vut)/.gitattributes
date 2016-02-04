@@ -1,0 +1,18 @@
+* text=auto
+.gitignore export-ignore text
+.gitattributes export-ignore text
+
+*.css text eol=lf
+*.htm text eol=lf
+*.html text eol=lf
+
+*.php text eol=lf export-subst
+*.sql text eol=lf export-subst
+*.xslt text eol=lf export-subst
+
+*.db3 binary
+
+*.png binary
+*.jpg binary
+*.gif binary
+

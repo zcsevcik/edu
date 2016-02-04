@@ -1,0 +1,385 @@
+commit efb5e142d83165528900f77b02d2918bf82d0dd1
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 22:58:20 2013 +0200
+
+    pridano nacitani partii v zakladni notaci
+
+commit fedd9367d3f4f3a6389c59365ed75aca422aa3ea
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 21:55:25 2013 +0200
+
+    uprava doxyfile
+
+commit 95128f4059681858e2b04e8c59250359ff36c43f
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 21:41:40 2013 +0200
+
+    sitova konzolovka
+
+commit 24fdfd13f0bd60512b272b6e8f222ad7da94860b
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 20:47:27 2013 +0200
+
+    konzole predelana
+
+commit 2dd78728b910ff448218be4990554d89dbe29986
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 16:31:30 2013 +0200
+
+    oprava kompilacnich problemu na gnu/debian 7
+
+commit b2c98150257dc5fb3a7aee58d48096cd1cf07509
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 16:10:52 2013 +0200
+
+    zapomenuta ladici chybka
+
+commit 8741ad694d3b5c63adb6e74398955bb6afd1ce5d
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 16:09:08 2013 +0200
+
+    pridany dalsi 2 examply
+
+commit b87e68548477dca786d306762f4678681d6ba352
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 15:50:51 2013 +0200
+
+    gui sitova hra
+
+commit 650fa9dbe4adee0e6b148fd718d9cdc5559fdcf9
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed May 8 12:23:18 2013 +0200
+
+    dodelana multilocal hra
+
+commit fa75966d5303f31296afd24dc8c4081b385cc3cd
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Tue May 7 18:32:58 2013 +0200
+
+    pridan soubor BODY.txt
+
+commit 84cc8c47f5ae3d33dd1fa3044aaf3beaebe1285e
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Tue May 7 18:23:19 2013 +0200
+
+    funkcni player vs bot
+
+commit 381f5ac9499600defef12ff32cd92336a2f1a9df
+Author: Radek Ševčík <zcsevcik@gmail.com>
+Date:   Tue May 7 14:09:26 2013 +0200
+
+    pridan vyber barvy pro bota
+
+commit 38909122200b094b9c156a50934194718091370e
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Tue May 7 12:27:16 2013 +0200
+
+    doladen replay
+
+commit 286faf5f91abed7ccf24177f08fb6e70576f1429
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Mon May 6 14:00:07 2013 +0200
+
+    uplne funkcni gui replay
+
+commit da503b5b104b95b3485698bea4621dd0182ae6b7
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Mon May 6 00:10:29 2013 +0200
+
+    mala implementace gui menu a prehravani tahu
+
+commit 00ac65d09b2655e81c893b17a4243c0ad33b22db
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Mon May 6 00:09:37 2013 +0200
+
+    pridan Game_io
+
+commit c877236f863705f3384ac13b50e9cad3af80429f
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sun May 5 17:12:11 2013 +0200
+
+    restruktualizace adresaru a makefile
+
+commit 0a64ed9639c13d2ade8458ad24f96ebfe71d62f0
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sun May 5 00:23:44 2013 +0200
+
+    implementace site
+
+commit 4672793f7a13d2df74706041d0065476dc34a9f4
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Fri May 3 16:53:22 2013 +0200
+
+    std::vector::reserve
+
+commit 8954f655e9e678ea5172d84d7f2f6952a304385c
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu May 2 13:41:41 2013 +0200
+
+    implementace konce hry
+
+commit a0c01f55f70af80431efb2402288b6e349d60f44
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu May 2 12:20:07 2013 +0200
+
+    refactor Ai::Color
+
+commit 803506975a18341a95b4d5aa95659ffcc0c4b437
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Mon Apr 29 15:24:48 2013 +0200
+
+    implementace Random AI
+
+commit df6ab6951b22e8f7c37a380f3dc030b20ee82641
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Mon Apr 29 15:23:14 2013 +0200
+
+    Game::getPiece(Square)
+
+commit ec2deb922574a5104f2a399ea14e6b460b0debe5
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sun Apr 28 19:09:52 2013 +0200
+
+    implementace ConApp
+
+commit a872784ff03945cbb3d57bfbe74da9cdc8d4c5bc
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sun Apr 28 17:10:39 2013 +0200
+
+    kontrola povinnych tahu
+
+commit 512e62edf3463b141fdc4a6fac3731ccfd042805
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sun Apr 28 16:23:55 2013 +0200
+
+    Game::pulls
+
+commit 80ae40499c4566dffb985e26f5a7622cc4628d0e
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sun Apr 28 13:40:27 2013 +0200
+
+    undefined reference to Log::LEVEL_X
+
+commit a97625ab107e9f74f236f00237b7b9422cdcb9fa
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 25 13:21:14 2013 +0200
+
+    pridan 1. example
+
+commit 636babcd5096822951327f69c49f53a80cc4bb6b
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 25 13:10:01 2013 +0200
+
+    implementace prehravani tahu
+
+commit cd6e126634056390584ac36b7592db153c52d09a
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 25 12:11:24 2013 +0200
+
+    trochu sections este nikomu neuskodilo
+
+commit d63cf79050383ef6b4e699c9bd4346aa3ab2e783
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 25 11:38:26 2013 +0200
+
+    uprava makefiles
+
+commit 20877a2fcb6053f859591e5a030269b9af0110e7
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 25 13:09:18 2013 +0200
+
+    oprava Game::undoMove
+
+commit 1b07bef965543f319ca7a8f5e1c38860406bcd86
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 25 12:57:59 2013 +0200
+
+    oprava promote, demote
+
+commit 36de7e83486c322e3b2eb20f6520943f0e5e306a
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 25 11:26:52 2013 +0200
+
+    Game::load
+
+commit ad7515742afa773f18457fa73a995214bc978c58
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 25 13:20:09 2013 +0200
+
+    uprava gitignore
+
+commit c8ea6f22c11c72e7d087d2faef1ab6d053f9cf0e
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sat Apr 20 21:58:26 2013 +0200
+
+    eol
+
+commit bfba89aa16198636966e2fbe5a28918d90807038
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sat Apr 20 21:41:34 2013 +0200
+
+    pridany git attrib
+
+commit d8b8ffdc8321a20c344cbc5f7cb95f9753dfaf60
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sat Apr 20 21:41:20 2013 +0200
+
+    refactor MsgFactory
+
+commit 1aed97f7ccdd1b3ab4f0dea71a091e9e6e8ab6f5
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sat Apr 20 17:16:11 2013 +0200
+
+    predelany logy do c++
+
+commit 6157956a62bf792a3309e4453177c2309060154a
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Sat Apr 20 01:10:56 2013 +0200
+
+    nacitani .xml souboru
+
+commit 9d37e0a0c811315f3e3bc24b33f3ab98e47cb0e2
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Fri Apr 19 20:39:55 2013 +0200
+
+    nacitani binarnich souboru
+
+commit 1c8d7739af0e3bf8f92626ef2c94bde16213c8d7
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Fri Apr 19 18:05:25 2013 +0200
+
+    pridan Game::dtor, kvuli std::unique_ptr
+
+commit 99102cd78895dad20f1a2934855bb80b4fc0d220
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Fri Apr 19 17:31:13 2013 +0200
+
+    repozicovani Game.cpp
+
+commit 5eb9073cf7553f30a28c34abcca4aff9e89153ac
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Fri Apr 19 17:29:42 2013 +0200
+
+    refactor Game::impl::prepareTurn
+
+commit 560bbe2d4f0bde58ff95cf6aadc4515ed2939521
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Fri Apr 19 17:06:17 2013 +0200
+
+    refaktorizace kodu Game::impl::getAvailableMoves
+
+commit 6c3d2435cd6b4cb4946734ef0c261722c919b5e6
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Fri Apr 19 16:13:05 2013 +0200
+
+    opravena chybka kompilace
+
+commit bf3406bc1c8be5cd3596c1c4cb717c4b7baad254
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 18 12:54:06 2013 +0200
+
+    dodelano brani a tahy damou
+
+commit 5e9f4d2d723c98949c563eb6c93d3038cef59101
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Apr 17 23:51:07 2013 +0200
+
+    mozne presuny pro kamen, TODO: brani a dama
+
+commit 5737e838c2b8bd7dc84616c86f5674122788bd73
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Mon Apr 15 13:15:12 2013 +0200
+
+    undo moves
+
+commit c57c50a4a242c211585d46cfcdb373ec16335fb6
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Mon Apr 15 13:13:49 2013 +0200
+
+    default Turn::cctor
+
+commit b029e5cf3d4778f631019ee9ed5b97d57338350e
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Mon Apr 15 13:13:11 2013 +0200
+
+    Qt c++11 QPOSITION macro bug
+
+commit c45c30e2e0ea2229d19bda4213da6801858b7d33
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 11 13:43:23 2013 +0200
+
+    verejny cctor desky
+
+commit 32b231c738cd9a878837b5d0bb3c4887f4017cb6
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Thu Apr 11 13:37:19 2013 +0200
+
+    logika hry
+
+commit 9f0cde305178042e6c2620db7ade8eb0548e08e4
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Fri Mar 29 20:08:06 2013 +0100
+
+    pakety
+
+commit 0582ed569913a7c819dd630e34a4f0f50735807a
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 27 15:04:19 2013 +0100
+
+    opravena cesta u Qt
+
+commit 37c8939c881a9a4b787954ea9c741a7c7cfff538
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 27 14:39:03 2013 +0100
+
+    oprava linku s QtGui
+
+commit 690fdbd9b3155481fc6752482fbd7ffada370120
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 27 14:33:38 2013 +0100
+
+    makefile changedir
+
+commit c0ca5fc963dbaf1d8561b3a7ba001f91317e7240
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 27 14:30:56 2013 +0100
+
+    makefile s qt libs
+
+commit 224968028116ccf6d16cd9e3ddb29d52051b0723
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 13 15:01:16 2013 +0100
+
+    make run
+
+commit 8d4f189c5257855dfd0995b2e41d99f23a002980
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 13 14:59:11 2013 +0100
+
+    oprava make clean
+
+commit c3bba889f31786a15108abbdc7bdc9113341adc0
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 13 14:58:10 2013 +0100
+
+    oddelen makefile gui od cli
+
+commit dd05a9af2748e9fba400de57bdedbd73a1b2afdb
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 13 14:48:15 2013 +0100
+
+    uprava
+
+commit a7b190accfc93f3ec7d7b62fb5fc0bd945ae9453
+Author: Radek Sevcik <xsevci44@stud.fit.vutbr.cz>
+Date:   Wed Mar 13 14:40:43 2013 +0100
+
+    Initial commit
+
+commit 590e0d1423a72fea6176cdbf1b18edeb0453223e
+Author: Zbynek Malinkovic <zbyna.m@gmail.com>
+Date:   Wed Mar 13 15:07:23 2013 +0100
+
+    Initial commit
+    
+    Signed-off-by: Zbynek Malinkovic <zbyna.m@gmail.com>

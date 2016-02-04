@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>WndMain</class>
+ <widget class="QMainWindow" name="WndMain">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>215</width>
+    <height>204</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>ICP Dama 2013</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QTabWidget" name="gameTabs">
+      <property name="tabPosition">
+       <enum>QTabWidget::South</enum>
+      </property>
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <property name="tabsClosable">
+       <bool>true</bool>
+      </property>
+      <widget class="QWidget" name="newGameTab">
+       <attribute name="title">
+        <string>Nová hra</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QStackedWidget" name="stackedWidget">
+          <property name="currentIndex">
+           <number>0</number>
+          </property>
+          <widget class="QWidget" name="mainPage">
+           <layout class="QFormLayout" name="formLayout">
+            <property name="fieldGrowthPolicy">
+             <enum>QFormLayout::AllNonFixedFieldsGrow</enum>
+            </property>
+            <item row="0" column="0" colspan="2">
+             <widget class="QPushButton" name="singleBtn">
+              <property name="text">
+               <string>Hra pro jednoho</string>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="0" colspan="2">
+             <widget class="QPushButton" name="multiBtn">
+              <property name="text">
+               <string>Hra pro dva</string>
+              </property>
+             </widget>
+            </item>
+            <item row="2" column="0" colspan="2">
+             <widget class="QPushButton" name="replayBtn">
+              <property name="text">
+               <string>Přehrání partií</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="multiGamePage">
+           <layout class="QFormLayout" name="formLayout_2">
+            <item row="0" column="0" colspan="2">
+             <widget class="QPushButton" name="multiLocalBtn">
+              <property name="text">
+               <string>Dva hráči místně</string>
+              </property>
+             </widget>
+            </item>
+            <item row="1" column="0" colspan="2">
+             <widget class="QPushButton" name="multiHostBtn">
+              <property name="text">
+               <string>Síťová hra (host)</string>
+              </property>
+             </widget>
+            </item>
+            <item row="2" column="0" colspan="2">
+             <widget class="QPushButton" name="multiJoinBtn">
+              <property name="text">
+               <string>Síťová hra (iniciátor)</string>
+              </property>
+             </widget>
+            </item>
+           </layout>
+          </widget>
+          <widget class="QWidget" name="selectPage">
+           <layout class="QFormLayout" name="formLayout_3">
+            <item row="0" column="0">
+             <widget class="QGroupBox" name="colorBox">
+              <property name="enabled">
+               <bool>true</bool>
+              </property>
+              <property name="minimumSize">
+               <size>
+                <width>0</width>
+                <height>60</height>
+               </size>
+              </property>
+              <property name="title">
+               <string>Hrát za</string>
+              </property>
+              <layout class="QFormLayout" name="formLayout_4">
+               <item row="0" column="0">
+                <widget class="QToolButton" name="whiteBtn">
+                 <property name="enabled">
+                  <bool>true</bool>
+                 </property>
+                 <property name="styleSheet">
+                  <string notr="true">background-color: rgb(255, 255, 255);</string>
+                 </property>
+                 <property name="text">
+                  <string/>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="checked">
+                  <bool>true</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+               <item row="0" column="1">
+                <widget class="QToolButton" name="blackBtn">
+                 <property name="styleSheet">
+                  <string notr="true">background-color: rgb(0, 0, 0);</string>
+                 </property>
+                 <property name="text">
+                  <string/>
+                 </property>
+                 <property name="checkable">
+                  <bool>true</bool>
+                 </property>
+                 <property name="checked">
+                  <bool>false</bool>
+                 </property>
+                 <property name="autoExclusive">
+                  <bool>true</bool>
+                 </property>
+                </widget>
+               </item>
+              </layout>
+             </widget>
+            </item>
+            <item row="0" column="1">
+             <layout class="QVBoxLayout" name="verticalLayout_3">
+              <item>
+               <widget class="QPushButton" name="newGameBtn">
+                <property name="text">
+                 <string>Nová hra</string>
+                </property>
+               </widget>
+              </item>
+              <item>
+               <widget class="QPushButton" name="loadGameBtn">
+                <property name="text">
+                 <string>Načíst hru</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+           </layout>
+          </widget>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>215</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="gameMenu">
+    <property name="title">
+     <string>Hra</string>
+    </property>
+    <addaction name="newAction"/>
+    <addaction name="separator"/>
+    <addaction name="saveAction"/>
+    <addaction name="separator"/>
+    <addaction name="quitAction"/>
+   </widget>
+   <widget class="QMenu" name="helpMenu">
+    <property name="title">
+     <string>Nápověda</string>
+    </property>
+    <addaction name="aboutAction"/>
+    <addaction name="aboutQtAction"/>
+   </widget>
+   <addaction name="gameMenu"/>
+   <addaction name="helpMenu"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="aboutAction">
+   <property name="text">
+    <string>O aplikaci</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::AboutRole</enum>
+   </property>
+  </action>
+  <action name="aboutQtAction">
+   <property name="text">
+    <string>O Qt</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::AboutQtRole</enum>
+   </property>
+  </action>
+  <action name="quitAction">
+   <property name="text">
+    <string>U&amp;končit</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+Q</string>
+   </property>
+   <property name="menuRole">
+    <enum>QAction::QuitRole</enum>
+   </property>
+  </action>
+  <action name="saveAction">
+   <property name="text">
+    <string>Uložit</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+  </action>
+  <action name="newAction">
+   <property name="text">
+    <string>Nová hra</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+N</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>quitAction</sender>
+   <signal>triggered()</signal>
+   <receiver>WndMain</receiver>
+   <slot>close()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>211</x>
+     <y>182</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>singleBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onSingleBtnPressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>263</x>
+     <y>64</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>416</x>
+     <y>110</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>multiBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onMultiBtnPressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>220</x>
+     <y>95</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>420</x>
+     <y>181</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>replayBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onReplayBtnPressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>259</x>
+     <y>124</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>420</x>
+     <y>248</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>multiLocalBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onMultiLocalPressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>273</x>
+     <y>62</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>417</x>
+     <y>83</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>multiHostBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onMultiHostPressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>225</x>
+     <y>92</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>418</x>
+     <y>140</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>multiJoinBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onMultiJoinPressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>303</x>
+     <y>118</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>419</x>
+     <y>209</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>newGameBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onNewGamePressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>347</x>
+     <y>67</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>420</x>
+     <y>70</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>loadGameBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onLoadGamePressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>376</x>
+     <y>98</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>407</x>
+     <y>341</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>whiteBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onColorWhitePressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>46</x>
+     <y>83</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>5</x>
+     <y>101</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>blackBtn</sender>
+   <signal>clicked()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onColorBlackPressed()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>77</x>
+     <y>85</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>5</x>
+     <y>157</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>gameTabs</sender>
+   <signal>tabCloseRequested(int)</signal>
+   <receiver>WndMain</receiver>
+   <slot>onTabClosing(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>107</x>
+     <y>100</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>107</x>
+     <y>100</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>aboutAction</sender>
+   <signal>triggered()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onAboutTriggered()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>107</x>
+     <y>101</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>newAction</sender>
+   <signal>triggered()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onNewTriggered()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>69</x>
+     <y>55</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>107</x>
+     <y>101</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>saveAction</sender>
+   <signal>triggered()</signal>
+   <receiver>WndMain</receiver>
+   <slot>onSaveTriggered()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>-1</x>
+     <y>-1</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>107</x>
+     <y>101</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>gameTabs</sender>
+   <signal>currentChanged(int)</signal>
+   <receiver>WndMain</receiver>
+   <slot>onTabChanged(int)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>107</x>
+     <y>102</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>107</x>
+     <y>101</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>onSingleBtnPressed()</slot>
+  <slot>onMultiBtnPressed()</slot>
+  <slot>onReplayBtnPressed()</slot>
+  <slot>onMultiLocalPressed()</slot>
+  <slot>onMultiHostPressed()</slot>
+  <slot>onMultiJoinPressed()</slot>
+  <slot>onNewGamePressed()</slot>
+  <slot>onLoadGamePressed()</slot>
+  <slot>onColorWhitePressed()</slot>
+  <slot>onColorBlackPressed()</slot>
+  <slot>onTabClosing(int)</slot>
+  <slot>onAboutQtTriggered()</slot>
+  <slot>onAboutTriggered()</slot>
+  <slot>onNewTriggered()</slot>
+  <slot>onSaveTriggered()</slot>
+  <slot>onTabChanged(int)</slot>
+ </slots>
+</ui>

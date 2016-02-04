@@ -1,0 +1,88 @@
+
+ 9 Kvě 2014
+ Převod webových stránek s publikacemi do formátu BibTeXML
+ ISJ - Skriptovací jazyky
+
+ Radek Ševčík
+ Fakulta informačních technologií
+ Vysokého učení technického v Brně
+
+ POPIS APLIKACE
+ --------------
+
+ Program slouží k převodu  publikací  umístěných  na  webových
+ stránkách do formátu XML.
+
+ PŘEHLED
+ -------
+
+ Pro formáty publikací jsou vytvořeny některé normy, příkladem
+ může  být  ISO 690, MLA, APA, aj. Většina  autorů  však  tyto
+ normy  striktně  nedodržuje,  důsledkem  mohou  být chybějicí
+ interpunkční  znaménka,  což  následný   rozbor   textu  činí
+ složitým.
+
+ Analyzovat  každý  řetězec  na  webové  stránce je nesmyslné,
+ autoři  své  publikace  uzavírají  do  jistých html elementů.
+ Toho  lze  při získávání  publikačních dat  využít  a je tedy
+ důležité mít transformační předpis pro danou webovou stránku.
+ Aplikací transformačního předpisu ve formátu .xslt se získají
+ jednotlivé publikace.
+
+ Po získání  seznamu publikací  se provede analýza specifickou
+ funkcí pro danou webovou stránku. Výsledkem analýzy je seznam
+ titulů,  který se pokusí  vyhledat ve službě  Google Scholar.
+ Pokud se titul najde, vrátí se ze služby publikace ve formátu
+ BibTeX.  Při neúspěchu se  program pokusí vygenerovat  BibTeX
+ sám  za  použití  minimalistické  verze  a  to  jmen  autorů,
+ názvu  titulu a  roku.  Někteří  autoři  ke  svým  publikacím
+ poskytují formát BibTeX přímo,  ten se programem upřednostní.
+
+ Seznam publikací se poté z formátu BibTeX převede  do formátu
+ BibTeXML.
+
+ ZÁVISLOSTI PROGRAMU
+ -------------------
+
+ Python 2.7
+ BeautifulSoup
+ lxml (libxml2)
+ urllib2
+
+ scholar (Christian Kreibich)
+ bibtex2xml (Vidar Bronken Gundersen, Sara Sprenkle)
+
+ PODPOROVANÍ AUTOŘI
+ ------------------
+
+ adamic (Lada Adamic)
+ adar (Eytan Adar)
+ alegria (Inaki Alegria)
+ alexandersson (Jan Alexandersson)
+ allen (James F. Allen)
+ alonso (Miguel A. Alonso)
+ assaleh (Tony Abou-Assaleh)
+ hermansky (Hynek Hermansky)
+ zendulka (Jaroslav Zendulka)
+
+ SPUŠTĚNÍ PROGRAMU
+ -----------------
+
+ Program se spustí skriptem  ./xsevci44 AUTOR.  Argument AUTOR
+ je název (viz. podporovaní autoři) před závorkou.
+
+ např.: ./xsevci44 hermansky
+
+ Výstupem programu jsou publikace formátu BibTeXML.
+
+ RYCHLOST PROGRAMU
+ -----------------
+
+ Testováno na serveru eva.
+
+ adar:      0m25.110s
+ alexandersson: 1m0.269s
+ assaleh:   0m2.953s
+ hermansky: 0m0.968s
+ zendulka:  0m1.299s
+

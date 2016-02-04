@@ -1,0 +1,20 @@
+/*
+ * baud.def:       TQS1-TQS3 adapter.
+ *
+ * Date:           $Format:%aD$
+ * Author(s):      Radek Sevcik <zcsevcik@gmail.com>
+ *
+ * This file is part of tqs-adapter.
+ */
+
+#define X_BAUDRATES \
+X(CBR_300, 300UL, 0x02) \
+X(CBR_1200, 1200UL, 0x03) \
+X(CBR_2400, 2400UL, 0x04) \
+X(CBR_4800, 4800UL, 0x05) \
+X(CBR_9600, 9600UL, 0x06) \
+X(CBR_19200, 19200UL, 0x07) \
+X(CBR_38400, 38400UL, 0x08) \
+X(CBR_57600, 57600UL, 0x09) \
+X(CBR_115200, 115200UL, 0x0A)
+

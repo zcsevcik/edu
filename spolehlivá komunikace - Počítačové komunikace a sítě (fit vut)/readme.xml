@@ -1,0 +1,48 @@
+<ipk-projekt-3>
+<autor>Radek Ševčík</autor>
+<login>xsevci44@stud.fit.vutbr.cz</login>
+<datum>14.04.2012</datum>
+<soubory>
+<soubor jmeno="alloca.h" autor="Free Software Foundation, Inc."/>
+<soubor jmeno="base64.c" autor="Simon Josefsson"/>
+<soubor jmeno="base64.h" autor="Simon Josefsson"/>
+<soubor jmeno="config.h" autor="Radek Ševčík"/>
+<soubor jmeno="log.c" autor="Radek Ševčík"/>
+<soubor jmeno="log.h" autor="Radek Ševčík"/>
+<soubor jmeno="Makefile" autor="Radek Ševčík"/>
+<soubor jmeno="rdt.c" autor="Radek Ševčík"/>
+<soubor jmeno="rdt.h" autor="Radek Ševčík"/>
+<soubor jmeno="rdtclient.c" autor="Radek Ševčík"/>
+<soubor jmeno="rdtserver.c" autor="Radek Ševčík"/>
+<soubor jmeno="sock.c" autor="Radek Ševčík"/>
+<soubor jmeno="sock.h" autor="Radek Ševčík"/>
+<soubor jmeno="udt.c" autor="Radek Ševčík"/>
+<soubor jmeno="udt.h" autor="Radek Ševčík"/>
+</soubory>
+<protokol>
+
+NAVÁZÁNÍ A UKONČENÍ KOMUNIKACE
+Klient započne komunikaci s příznakem SYN a náhodným sekvenčním číslem.
+Po přijetí potvrzení ze strany serveru může začít klient vysílat.
+Jakmile klient odešle všechna data a má je potvrzená, odešle paket s příznakem
+FIN a po jeho potvrzení ze strany serveru je komunikace ukončena.
+Server se ukončí signálem SIGTERM.
+Technologie: 2-way handshake
+
+ŘÍZENÍ TOKU
+Server informuje klienta příznakem WND, kolik může ještě přijmout paketů,
+aniž by nějaký odmítl. Klient používá techniku exponenciálního zvětšování
+počtu odeslaných paketů zaráz při každém potvrzeném paketu a při timeoutu
+začíná zase od 1. Jakmile dostane server paket s očekávaným sekvenčním číslem,
+započne zpracování posloupnosti za sebou jdoucích paketů.
+Technologie: slow-start
+  
+SPOLEHLIVOST
+Každý paket odesílaný klientem je opatřen příznakem SEQ a sekvenčním číslem
+paketu. Server po přijetí každého paketu odpoví příznakem ACK s očekávaným
+číslem dalšího paketu. Pokud klient nedostane po určité době odpověď, odešle
+paket znovu.
+Technologie: selective repeat
+
+</protokol>
+</ipk-projekt-3>

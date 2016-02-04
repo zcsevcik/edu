@@ -1,0 +1,1544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibtexml.dtd" >
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="alegriawikipedia">
+<bibtex:article>
+<bibtex:title>Wikipedia and Machine Translation: killing two birds with one stone</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Cabezon, Unai</bibtex:person>
+<bibtex:person>de Beto\ no, Unai Fernandez</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+<bibtex:person>Zubiaga, Arkaitz</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="etxeberria2014learning">
+<bibtex:article>
+<bibtex:title>Learning to map variation-standard forms using a limited parallel corpus and the standard morphology</bibtex:title>
+<bibtex:author>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Hulden, Mans</bibtex:person>
+<bibtex:person>Uria, Larraitz</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del Lenguaje Natural</bibtex:journal>
+<bibtex:volume>52</bibtex:volume>
+<bibtex:pages>13-20</bibtex:pages>
+<bibtex:year>2014</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2014wikipedia">
+<bibtex:article>
+<bibtex:title>Wikipedia eta itzulpen automatikoa:\guillemotleftharri batez bizpalau xori\guillemotright</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Cabez\'on, Unai</bibtex:person>
+<bibtex:person>de Beto\ no, Unai Fernandez</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+<bibtex:person>Zubiaga, Arkaitz</bibtex:person>
+</bibtex:author>
+<bibtex:journal>EKAIA Euskal Herriko Unibertsitateko Zientzi eta Teknologi Aldizkaria</bibtex:journal>
+<bibtex:number>26</bibtex:number>
+<bibtex:year>2014</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegriacascada">
+<bibtex:article>
+<bibtex:title>Una cascada de transductores simples para normalizar tweets</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2013openmt2">
+<bibtex:article>
+<bibtex:title>“OpenMT2 eta Euskal Wikipedia” wikiproiektuaren emaitzak.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Cabez\'on, Unai</bibtex:person>
+<bibtex:person>FERNANDEZ, DE BETO\ NO U</bibtex:person>
+<bibtex:person>Gonzalez, Galder</bibtex:person>
+<bibtex:person>Iturbe, Mikel</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>MAYOR, A</bibtex:person>
+<bibtex:person>SARASOLA, K</bibtex:person>
+<bibtex:person>ZUBIAGA, A</bibtex:person>
+</bibtex:author>
+<bibtex:journal>IX. Informatika Euskaldunen Bilkura, IEB2013. Udako Euskal Unibertsitatea. Donostia</bibtex:journal>
+<bibtex:year>2013</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="leturia2013morphological">
+<bibtex:article>
+<bibtex:title>Morphological query expansion and language-filtering words for improving Basque web retrieval</bibtex:title>
+<bibtex:author>
+<bibtex:person>Leturia, Igor</bibtex:person>
+<bibtex:person>Gurrutxaga, Antton</bibtex:person>
+<bibtex:person>Areta, Nerea</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Ezeiza, Aitzol</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Language resources and evaluation</bibtex:journal>
+<bibtex:volume>47</bibtex:volume>
+<bibtex:number>2</bibtex:number>
+<bibtex:pages>425-448</bibtex:pages>
+<bibtex:year>2013</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="agirrezabalusing">
+<bibtex:article>
+<bibtex:title>Using foma for language-based games</bibtex:title>
+<bibtex:author>
+<bibtex:person>Agirrezabal, Manex</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Hulden, Mans</bibtex:person>
+</bibtex:author>
+<bibtex:publisher>Citeseer</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegriaputting">
+<bibtex:article>
+<bibtex:title>Putting a Less Resourced Language in the Forefront: the Case of Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>de Ilarraza, Arantza Diaz</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gurrutxaga2012measuring">
+<bibtex:inproceedings>
+<bibtex:title>Measuring the compositionality of NV expressions in Basque by means of distributional similarity techniques.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Gurrutxaga, Antton</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>LREC</bibtex:booktitle>
+<bibtex:pages>2389-2394</bibtex:pages>
+<bibtex:year>2012</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="agirrezabal2012finite">
+<bibtex:inproceedings>
+<bibtex:title>Finite-state technology in a verse-making tool</bibtex:title>
+<bibtex:author>
+<bibtex:person>Agirrezabal, Manex</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Arrieta, Bertol</bibtex:person>
+<bibtex:person>Hulden, Mans</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>10th International Workshop on Finite State Methods and Natural Language Processing</bibtex:booktitle>
+<bibtex:pages>35</bibtex:pages>
+<bibtex:year>2012</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="agirrezabal2012bad">
+<bibtex:inproceedings>
+<bibtex:title>BAD: An assistant tool for making verses in Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Agirrezabal, Manex</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Arrieta, Bertol</bibtex:person>
+<bibtex:person>Hulden, Mans</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the 6th Workshop on Language Technology for Cultural Heritage, Social Sciences, and Humanities</bibtex:booktitle>
+<bibtex:pages>13-17</bibtex:pages>
+<bibtex:year>2012</bibtex:year>
+<bibtex:organization>Association for Computational Linguistics</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2011valuable">
+<bibtex:incollection>
+<bibtex:title>Valuable language resources and applications supporting the use of Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Aranzabe, Maxux</bibtex:person>
+<bibtex:person>Arregi, Xabier</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>de Ilarraza, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Human Language Technology. Challenges for Computer Science and Linguistics</bibtex:booktitle>
+<bibtex:pages>327-338</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2011teknologia">
+<bibtex:article>
+<bibtex:title>Teknologia garatzeko estrategiak baliabide urriko hizkuntzetarako: euskararen eta Ixa taldearen adibidea</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>Diaz de Ilarraza, Arantza</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+<bibtex:person>Aduriz, Itziar</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Linguam&#225;tica</bibtex:journal>
+<bibtex:volume>3</bibtex:volume>
+<bibtex:number>1</bibtex:number>
+<bibtex:pages>13-31</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="de2011syntactic">
+<bibtex:article>
+<bibtex:title>Syntactic error detection and correction in date expressions using finite-state transducers</bibtex:title>
+<bibtex:author>
+<bibtex:person>DE ILARRAZA, ARANTZA D?? AZ</bibtex:person>
+<bibtex:person>Gojenola, Koldo</bibtex:person>
+<bibtex:person>Oronoz, Maite</bibtex:person>
+<bibtex:person>ALEGRIA, IAKI</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Natural Language Engineering</bibtex:journal>
+<bibtex:volume>17</bibtex:volume>
+<bibtex:number>2</bibtex:number>
+<bibtex:pages>145</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:publisher>Cambridge Univ Press</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2011strategies">
+<bibtex:article>
+<bibtex:title>Strategies to develop Language Technologies for Less-Resourced Languages based on the case of Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>De Ilarraza, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+<bibtex:person>others</bibtex:person>
+</bibtex:author>
+<bibtex:year>2011</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="fernandez2011semantic">
+<bibtex:inproceedings>
+<bibtex:title>Semantic relatedness for named entity disambiguation using a small wikipedia</bibtex:title>
+<bibtex:author>
+<bibtex:person>Fernandez, Izaskun</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Text, Speech and Dialogue</bibtex:booktitle>
+<bibtex:pages>276-283</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:organization>Springer</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="uria2011recursos">
+<bibtex:inproceedings>
+<bibtex:title>Recursos y m\'etodos de sustituci\'on l\'exica en las variantes dialectales en euskera</bibtex:title>
+<bibtex:author>
+<bibtex:person>Uria, Larraitz</bibtex:person>
+<bibtex:person>Hulden, Mans</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the Workshop on Iberian Cross-Language NLP tasks (ICL-2011)</bibtex:booktitle>
+<bibtex:pages>70-76</bibtex:pages>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="soraluze2011recognition">
+<bibtex:inproceedings>
+<bibtex:title>Recognition and Classification of Numerical Entities in Basque.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Soraluze, Ander</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Ansa, Olatz</bibtex:person>
+<bibtex:person>Arregi, Olatz</bibtex:person>
+<bibtex:person>Arregi, Xabier</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>RANLP</bibtex:booktitle>
+<bibtex:pages>764-769</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:organization>Citeseer</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="etxeberria2012ortografia">
+<bibtex:article>
+<bibtex:title>Ortografia-erroreak eta konpetentzia-erroreak Webeko euskarazko testuetan</bibtex:title>
+<bibtex:author>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Leturia, Igor</bibtex:person>
+</bibtex:author>
+<bibtex:journal>EKAIA Euskal Herriko Unibertsitateko Zientzi eta Teknologi Aldizkaria</bibtex:journal>
+<bibtex:number>24</bibtex:number>
+<bibtex:year>2012</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegriaopenmt">
+<bibtex:article>
+<bibtex:title>OpenMT-2: Wikipedia eta Itzulpen Automatikoa biak elkarri laguntzen</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Cabez\'on, Unai</bibtex:person>
+<bibtex:person>de Beto\ no, Unai Fernandez</bibtex:person>
+<bibtex:person>Gonzalez, Galder</bibtex:person>
+<bibtex:person>Iturbe, Mikel</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+<bibtex:person>Zubiaga, Arkaitz</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2011matxin">
+<bibtex:article>
+<bibtex:title>Matxin-Informatika: versi\'on del traductor Matxin adaptada al dominio de la inform&#225;tica</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Cabez\'on, Unai</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>47</bibtex:volume>
+<bibtex:pages>323-324</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="mayor2011matxin">
+<bibtex:article>
+<bibtex:title>Matxin, an open-source rule-based machine translation system for Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>De Ilarraza, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Machine translation</bibtex:journal>
+<bibtex:volume>25</bibtex:volume>
+<bibtex:number>1</bibtex:number>
+<bibtex:pages>53-82</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="hulden2011learning">
+<bibtex:inproceedings>
+<bibtex:title>Learning word-level dialectal variation as phonological replacement rules using a limited parallel corpus</bibtex:title>
+<bibtex:author>
+<bibtex:person>Hulden, Mans</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Maritxalar, Montse</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the First Workshop on Algorithms and Resources for Modelling of Dialects and Language Varieties</bibtex:booktitle>
+<bibtex:pages>39-48</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:organization>Association for Computational Linguistics</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="hulden7first">
+<bibtex:article>
+<bibtex:title>First experiments with developing an unsupervised method for learning morphology of variants</bibtex:title>
+<bibtex:author>
+<bibtex:person>Hulden, Mans</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Maritxalar, Montse</bibtex:person>
+</bibtex:author>
+<bibtex:journal>IV Jornadas TIMM Tratamiento de la Informaci\'on Multiling&#252;e y Multimodal 7 y 8 de abril de 2011</bibtex:journal>
+<bibtex:pages>75</bibtex:pages>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gurrutxaga2011automatic">
+<bibtex:inproceedings>
+<bibtex:title>Automatic extraction of NV expressions in Basque: basic issues on cooccurrence techniques</bibtex:title>
+<bibtex:author>
+<bibtex:person>Gurrutxaga, Antton</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the Workshop on Multiword Expressions: from Parsing and Generation to the Real World</bibtex:booktitle>
+<bibtex:pages>2-7</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:organization>Association for Computational Linguistics</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="zelaia2011multiclass">
+<bibtex:article>
+<bibtex:title>A multiclass/multilabel document categorization system: Combining multiple classifiers in a reduced dimension</bibtex:title>
+<bibtex:author>
+<bibtex:person>Zelaia, Ana</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Arregi, Olatz</bibtex:person>
+<bibtex:person>Sierra, Basilio</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Applied Soft Computing</bibtex:journal>
+<bibtex:volume>11</bibtex:volume>
+<bibtex:number>8</bibtex:number>
+<bibtex:pages>4981-4990</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:publisher>Elsevier</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2010porting">
+<bibtex:incollection>
+<bibtex:title>Porting Basque morphological grammars to foma, an open-source tool</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Hulden, Mans</bibtex:person>
+<bibtex:person>Maritxalar, Montserrat</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Finite-State Methods and Natural Language Processing</bibtex:booktitle>
+<bibtex:pages>105-113</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="bermudezsegunda">
+<bibtex:article>
+<bibtex:title>La segunda y tercera ediciones del Diccionario B&#225;sico Escolar</bibtex:title>
+<bibtex:author>
+<bibtex:person>Berm\'udez, Elo\'\ina Miyares</bibtex:person>
+<bibtex:person>Miyares, Leonel Ruiz</bibtex:person>
+<bibtex:person>Su&#225;rez, Cristina \'Alamo</bibtex:person>
+<bibtex:person>P\'erez, Celia</bibtex:person>
+<bibtex:person>Zubillaga, Xabier Artola</bibtex:person>
+<bibtex:person>Loinaz, I\ naki Alegr\'\ia</bibtex:person>
+<bibtex:person>Iparragirre, Xabier Arregi</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2010errores">
+<bibtex:article>
+<bibtex:title>Errores ortogr&#225;ficos y de competencia en textos de la web en euskera</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Leturia, Igor</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>45</bibtex:volume>
+<bibtex:pages>137-144</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2010errores">
+<bibtex:article>
+<bibtex:title>Errores ortogr&#225;ficos y de competencia en textos de la web en euskera</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Leturia, Igor</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>45</bibtex:volume>
+<bibtex:pages>137-144</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2010errores">
+<bibtex:article>
+<bibtex:title>Errores ortogr&#225;ficos y de competencia en textos de la web en euskera</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Leturia, Igor</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>45</bibtex:volume>
+<bibtex:pages>137-144</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2010errores">
+<bibtex:article>
+<bibtex:title>Errores ortogr&#225;ficos y de competencia en textos de la web en euskera</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Leturia, Igor</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>45</bibtex:volume>
+<bibtex:pages>137-144</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2010errores">
+<bibtex:article>
+<bibtex:title>Errores ortogr&#225;ficos y de competencia en textos de la web en euskera</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Leturia, Igor</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>45</bibtex:volume>
+<bibtex:pages>137-144</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2010morphological">
+<bibtex:inproceedings>
+<bibtex:title>A Morphological Processor Based on Foma for Biscayan (a Basque dialect).</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Aranbarri, Garbi\ ne</bibtex:person>
+<bibtex:person>Ceberio, Klara</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Laskurain, Bittor</bibtex:person>
+<bibtex:person>Urizar, Ruben</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>LREC</bibtex:booktitle>
+<bibtex:year>2010</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2011valuable">
+<bibtex:incollection>
+<bibtex:title>Valuable language resources and applications supporting the use of Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Aranzabe, Maxux</bibtex:person>
+<bibtex:person>Arregi, Xabier</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>de Ilarraza, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Human Language Technology. Challenges for Computer Science and Linguistics</bibtex:booktitle>
+<bibtex:pages>327-338</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="agirre2009tresna">
+<bibtex:article>
+<bibtex:title>Tresna linguistikoak informazioa atzitzeko</bibtex:title>
+<bibtex:author>
+<bibtex:person>Agirre, Eneko</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Dokumentazio zerbitzuak Euskal Herriko komunikabideetan= Los servicios de documentaci\'on en los medios de comunicaci\'on del Pa\'\is Vasco</bibtex:journal>
+<bibtex:pages>101-112</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>Euskal Herriko Unibertsitatea= Universidad del Pa\'\is Vasco</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2010porting">
+<bibtex:incollection>
+<bibtex:title>Porting Basque morphological grammars to foma, an open-source tool</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Etxeberria, Izaskun</bibtex:person>
+<bibtex:person>Hulden, Mans</bibtex:person>
+<bibtex:person>Maritxalar, Montserrat</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Finite-State Methods and Natural Language Processing</bibtex:booktitle>
+<bibtex:pages>105-113</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="penas2010overview">
+<bibtex:incollection>
+<bibtex:title>Overview of ResPubliQA 2009: question answering evaluation over European legislation</bibtex:title>
+<bibtex:author>
+<bibtex:person>Pe\ nas, Anselmo</bibtex:person>
+<bibtex:person>Forner, Pamela</bibtex:person>
+<bibtex:person>Sutcliffe, Richard</bibtex:person>
+<bibtex:person>Rodrigo, \'Alvaro</bibtex:person>
+<bibtex:person>For\uascu, Corina</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Giampiccolo, Danilo</bibtex:person>
+<bibtex:person>Moreau, Nicolas</bibtex:person>
+<bibtex:person>Osenova, Petya</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Multilingual Information Access Evaluation I. Text Retrieval Experiments</bibtex:booktitle>
+<bibtex:pages>174-196</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="sarasolaopenmt">
+<bibtex:article>
+<bibtex:title>OpenMT: Open Source Machine Translation Using Hybrid Methods</bibtex:title>
+<bibtex:author>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Areta, Nerea</bibtex:person>
+<bibtex:person>Saralegi, Xabier</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="martinez2009matxin">
+<bibtex:article>
+<bibtex:title>Matxin"</bibtex:title>
+euskararako lehenengo itzultzaile automatikoa},
+<bibtex:author>
+<bibtex:person>Martinez, Aingeru Mayor</bibtex:person>
+<bibtex:person>Loinaz, I\ naki Alegr\'\ia</bibtex:person>
+<bibtex:person>de Ilarraza S&#225;nchez, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Ayestaran, Mikel Lersundi</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Senez: itzulpen aldizkaria</bibtex:journal>
+<bibtex:number>37</bibtex:number>
+<bibtex:pages>197-220</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>EIZIE, Euskal Itzultzaile Zuzentzaile eta Interpreteen Elkartea</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2009ihardetsi">
+<bibtex:inproceedings>
+<bibtex:title>Ihardetsi: A Question Answering system for Basque built on reused linguistic processors</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Ansa, Olatz</bibtex:person>
+<bibtex:person>Arregi, Xabier</bibtex:person>
+<bibtex:person>Otegi, Arantxa</bibtex:person>
+<bibtex:person>Soraluze, Ander</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proc. SALTMIL 2009 workshop: Information Retrieval and Information Extraction for Less Resourced Languages</bibtex:booktitle>
+<bibtex:pages>37-43</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="zelaia2009exploring">
+<bibtex:inproceedings>
+<bibtex:title>Exploring Basque Document Categorization for Educational Purposes using LSI.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Zelaia, Ana</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Arregi, Olatz</bibtex:person>
+<bibtex:person>Lasa, Ana Arruarte</bibtex:person>
+<bibtex:person>de Ilarraza S&#225;nchez, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Elorriaga, Jon A</bibtex:person>
+<bibtex:person>Sierra, Basilio</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>CSEDU (1)</bibtex:booktitle>
+<bibtex:pages>5-10</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="mayor2009evaluacion">
+<bibtex:article>
+<bibtex:title>Evaluaci\'on de un sistema de traducci\'on autom&#225;tica basado en reglas o por qu\'e BLEU s\'olo sirve para lo que sirve</bibtex:title>
+<bibtex:author>
+<bibtex:person>Mayor Mart\'\inez, Aingeru</bibtex:person>
+<bibtex:person>Alegr\'\ia Loinaz, I\ naki</bibtex:person>
+<bibtex:person>D\'\iaz de Ilarraza S&#225;nchez, Arantza</bibtex:person>
+<bibtex:person>Labaka Intxauspe, Gorka</bibtex:person>
+<bibtex:person>Lersundi Ayestaran, Mikel</bibtex:person>
+<bibtex:person>Sarasola Gabiola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>Sociedad Espa\ nola para el Procesamiento del Lenguaje Natural</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="urizar2011euskarazko">
+<bibtex:article>
+<bibtex:title>Euskarazko hitz anitzeko unitate lexikalen tratamendu konputazionala</bibtex:title>
+<bibtex:author>
+<bibtex:person>Urizar, Ruben</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Odriozola, Juan Carlos</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Anuario del Seminario de Filolog\'\ia Vasca" Julio de Urquijo"</bibtex:journal>
+},
+<bibtex:volume>43</bibtex:volume>
+<bibtex:number>1-2</bibtex:number>
+<bibtex:pages>891-908</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="agirre2009tresna">
+<bibtex:article>
+<bibtex:title>Tresna linguistikoak informazioa atzitzeko</bibtex:title>
+<bibtex:author>
+<bibtex:person>Agirre, Eneko</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Dokumentazio zerbitzuak Euskal Herriko komunikabideetan= Los servicios de documentaci\'on en los medios de comunicaci\'on del Pa\'\is Vasco</bibtex:journal>
+<bibtex:pages>101-112</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>Euskal Herriko Unibertsitatea= Universidad del Pa\'\is Vasco</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2008translating">
+<bibtex:inproceedings>
+<bibtex:title>Translating Named Entities using Comparable Corpora</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Fernandez, Izaskun</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the Workshop on Comparable Corpora, LREC’08</bibtex:booktitle>
+<bibtex:pages>11-17</bibtex:pages>
+<bibtex:year>2008</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2008strategies">
+<bibtex:inproceedings>
+<bibtex:title>Strategies for sustainable MT for Basque: incremental design, reusability, standardization and open-source.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Arregi, Xabier</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>de Ilarraza, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>IJCNLP</bibtex:booktitle>
+<bibtex:pages>59-64</bibtex:pages>
+<bibtex:year>2008</bibtex:year>
+<bibtex:organization>Citeseer</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2008spelling">
+<bibtex:inproceedings>
+<bibtex:title>Spelling Correction: from Two-Level Morphology to Open Source.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Ceberio, Klara</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Soroa, Aitor</bibtex:person>
+<bibtex:person>Hernandez, Gregorio</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>LREC</bibtex:booktitle>
+<bibtex:year>2008</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2008spanish">
+<bibtex:inproceedings>
+<bibtex:title>Spanish-to-Basque MultiEngine Machine Translation for a restricted domain</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Casillas, Arantza</bibtex:person>
+<bibtex:person>Diaz de Ilarraza, A</bibtex:person>
+<bibtex:person>Igartua, Jon</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proc. of the 8th Conference of the Association for Machine Translation in the Americas (AMTA-2008)</bibtex:booktitle>
+<bibtex:pages>57-69</bibtex:pages>
+<bibtex:year>2008</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegriasoftware">
+<bibtex:article>
+<bibtex:title>Software Libre EHra eta eu-ra</bibtex:title>
+<bibtex:author>Alegria, I\ naki </bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="forner2009overview">
+<bibtex:incollection>
+<bibtex:title>Overview of the clef 2008 multilingual question answering track</bibtex:title>
+<bibtex:author>
+<bibtex:person>Forner, Pamela</bibtex:person>
+<bibtex:person>Pe\ nas, Anselmo</bibtex:person>
+<bibtex:person>Agirre, Eneko</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>For\uascu, Corina</bibtex:person>
+<bibtex:person>Moreau, Nicolas</bibtex:person>
+<bibtex:person>Osenova, Petya</bibtex:person>
+<bibtex:person>Prokopidis, Prokopis</bibtex:person>
+<bibtex:person>Rocha, Paulo</bibtex:person>
+<bibtex:person>Sacaleanu, Bogdan</bibtex:person>
+<bibtex:person>others</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Evaluating Systems for Multilingual and Multimodal Information Access</bibtex:booktitle>
+<bibtex:pages>262-295</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2008mixing">
+<bibtex:inproceedings>
+<bibtex:title>Mixing Approaches to MT for Basque: Selecting the best output from RBMT, EBMT and SMT</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Casillas, Arantza</bibtex:person>
+<bibtex:person>de Ilarraza, A Diaz</bibtex:person>
+<bibtex:person>Igartua, Jon</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+<bibtex:person>Saralegi, Xabier</bibtex:person>
+<bibtex:person>Laskurain, B</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>MATMT2008 workshop on mixing approaches to machine translation, proceedings, Donostia-San Sebastian, Spain</bibtex:booktitle>
+<bibtex:pages>27-34</bibtex:pages>
+<bibtex:year>2008</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="aldezabal2008language">
+<bibtex:misc>
+<bibtex:title>Language technology is an effective tool to promote use of basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Aldezabal, Izaskun</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Arriola, J</bibtex:person>
+<bibtex:person>de Ilarraza, A D\iaz</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:year>2008</bibtex:year>
+<bibtex:publisher>AILA</bibtex:publisher>
+</bibtex:misc>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2008itzulpen">
+<bibtex:article>
+<bibtex:title>Itzulpen automatikoa: aukerak, arazoak eta erronkak</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegr\'\ia Loinaz, I\ naki</bibtex:person>
+<bibtex:person>D\'\iaz de Ilarraza S&#225;nchez, Arantza</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi Ayestaran, Mikel</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Bat: Soziolinguistika aldizkaria</bibtex:journal>
+<bibtex:number>66</bibtex:number>
+<bibtex:pages>107-121</bibtex:pages>
+<bibtex:year>2008</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2008hizkuntza">
+<bibtex:article>
+<bibtex:title>Hizkuntza-teknologia Ixa taldean, euskararen erabilera errazteko eta sustatzeko aplikazioak</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegr\'\ia Loinaz, I\ naki</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>D\'\iaz de Ilarraza S&#225;nchez, Arantza</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Bat: Soziolinguistika aldizkaria</bibtex:journal>
+<bibtex:number>66</bibtex:number>
+<bibtex:pages>41-59</bibtex:pages>
+<bibtex:year>2008</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegriaeuskara">
+<bibtex:article>
+<bibtex:title>Euskara software librean</bibtex:title>
+<bibtex:author>Alegria, I\ naki </bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="con2008chunk">
+<bibtex:article>
+<bibtex:title>Chunk and clause identification for Basque by filtering and ranking with perceptrons</bibtex:title>
+<bibtex:author>con el Perceptron, Ranking</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje Natural</bibtex:journal>
+<bibtex:number>41</bibtex:number>
+<bibtex:pages>5-12</bibtex:pages>
+<bibtex:year>2008</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2euspell">
+<bibtex:article>
+<bibtex:title>Euspell: correcci\'on ortogr&#225;fica del euskera en software libre</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Ceberio, Klara</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Soroa, Aitor</bibtex:person>
+<bibtex:person>Hernandez, Gregorio</bibtex:person>
+<bibtex:person>Ixa, Grupo</bibtex:person>
+<bibtex:person>Unibertsitatea, Euskal Herriko</bibtex:person>
+<bibtex:person>Eleka, SL</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Este libro se distribuye bajo licencia Creative Commons Reconocimiento CompartirIgual 2.5 Espa</bibtex:journal>
+<bibtex:pages>213</bibtex:pages>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="areta2007zt">
+<bibtex:article>
+<bibtex:title>ZT Corpus: Annotation and tools for Basque corpora</bibtex:title>
+<bibtex:author>
+<bibtex:person>Areta, Nerea</bibtex:person>
+<bibtex:person>Gurrutxaga, Antton</bibtex:person>
+<bibtex:person>Leturia, Igor</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>Diaz de Ilarraza, A</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Sologaistoa, Aitor</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Proceedings of Corpus Linguistics 2007</bibtex:journal>
+<bibtex:year>2007</bibtex:year>
+<bibtex:publisher>Citeseer</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2007transfer">
+<bibtex:incollection>
+<bibtex:title>Transfer-based MT from Spanish into Basque: reusability, standardization and open source</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>De Ilarraza, Arantza Diaz</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computational Linguistics and Intelligent Text Processing</bibtex:booktitle>
+<bibtex:pages>374-384</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="taldea2007testu">
+<bibtex:article>
+<bibtex:title>Testu-corpusak: ezaugarriak, eraketa eta tresnak</bibtex:title>
+<bibtex:author>
+<bibtex:person>Taldea, Ixa</bibtex:person>
+<bibtex:person>Fundazioa, Elhuyar</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Hizkuntza komunikazioaren eta teknologiaren garaian</bibtex:journal>
+<bibtex:year>2007</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="de2011syntactic">
+<bibtex:article>
+<bibtex:title>Syntactic error detection and correction in date expressions using finite-state transducers</bibtex:title>
+<bibtex:author>
+<bibtex:person>DE ILARRAZA, ARANTZA D?? AZ</bibtex:person>
+<bibtex:person>Gojenola, Koldo</bibtex:person>
+<bibtex:person>Oronoz, Maite</bibtex:person>
+<bibtex:person>ALEGRIA, IAKI</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Natural Language Engineering</bibtex:journal>
+<bibtex:volume>17</bibtex:volume>
+<bibtex:number>2</bibtex:number>
+<bibtex:pages>145</bibtex:pages>
+<bibtex:year>2011</bibtex:year>
+<bibtex:publisher>Cambridge Univ Press</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="agirre2007mcr">
+<bibtex:article>
+<bibtex:title>Mcr for clir</bibtex:title>
+<bibtex:author>
+<bibtex:person>Agirre, Eneko</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Rigau, German</bibtex:person>
+<bibtex:person>Vossen, Piek</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>38</bibtex:volume>
+<bibtex:pages>3-15</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="leturia2007eusbila">
+<bibtex:inproceedings>
+<bibtex:title>EusBila, a search service designed for the agglutinative nature of Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Leturia, Igor</bibtex:person>
+<bibtex:person>Gurrutxaga, Antton</bibtex:person>
+<bibtex:person>Areta, Nerea</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Ezeiza, Aitzol</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of Improving non-English web searching (iNEWS’07) workshop</bibtex:booktitle>
+<bibtex:pages>47-54</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="leturia2007corpeus">
+<bibtex:inproceedings>
+<bibtex:title>CorpEus, a ‘web as corpus’ tool designed for the agglutinative nature of Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Leturia, Igor</bibtex:person>
+<bibtex:person>Gurrutxaga, Antton</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Ezeiza, Aitzol</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Building and exploring web corpora, Proceedings of the 3rd Web as Corpus workshop</bibtex:booktitle>
+<bibtex:pages>69-81</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2006using">
+<bibtex:inproceedings>
+<bibtex:title>Using machine learning techniques to build a comma checker for Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Arrieta, Bertol</bibtex:person>
+<bibtex:person>Diaz de Ilarraza, Arantza</bibtex:person>
+<bibtex:person>Izagirre, Eli</bibtex:person>
+<bibtex:person>Maritxalar, Montse</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the COLING/ACL on Main conference poster sessions</bibtex:booktitle>
+<bibtex:pages>1-8</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+<bibtex:organization>Association for Computational Linguistics</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="areta2006structure">
+<bibtex:inproceedings>
+<bibtex:title>Structure, Annotation and Tools in the Basque ZT Corpus</bibtex:title>
+<bibtex:author>
+<bibtex:person>Areta, Nerea</bibtex:person>
+<bibtex:person>Gurrutxaga, Antton</bibtex:person>
+<bibtex:person>Leturia, Igor</bibtex:person>
+<bibtex:person>Polin, Ziortza</bibtex:person>
+<bibtex:person>Saiz, Rafael</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>de Ilarraza, Arantza D\iaz</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Sologaistoa, Aitor</bibtex:person>
+<bibtex:person>others</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>International Conference on Language Resources and Evaluations (LREC 2006). Genoa</bibtex:booktitle>
+<bibtex:year>2006</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="loinaz2006opentrad">
+<bibtex:article>
+<bibtex:title>OpenTrad: Traducci\'on autom&#225;tica de c\'odigo abierto para las lenguas del Estado espa\ nol</bibtex:title>
+<bibtex:author>
+<bibtex:person>Loinaz, I\ naki Alegr\'\ia</bibtex:person>
+<bibtex:person>Arantzabal, I\ naki</bibtex:person>
+<bibtex:person>Forcada, Mikel L</bibtex:person>
+<bibtex:person>Guinovart, Xavier G\'omez</bibtex:person>
+<bibtex:person>Padr\'o</bibtex:person>
+</bibtex:author>
+ Lluis and Campos, Jos{\'e} Ramom Pichel and Wali{\ n}o, Josu},
+<bibtex:journal>Procesamiento del Lenguaje Natural</bibtex:journal>
+<bibtex:volume>27</bibtex:volume>
+<bibtex:pages>357-360</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2006named">
+<bibtex:inproceedings>
+<bibtex:title>Named entities translation based on comparable corpora</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Fernandez, Izaskun</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Multi-Word-Expressions in a Multilingual Context Workshop on EACL06</bibtex:booktitle>
+<bibtex:pages>1-8</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="vossen2006meaningful">
+<bibtex:inproceedings>
+<bibtex:title>Meaningful results for Information Retrieval in the MEANING project</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vossen, Piek</bibtex:person>
+<bibtex:person>Rigau, German</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Agirre, Eneko</bibtex:person>
+<bibtex:person>Farwell, David</bibtex:person>
+<bibtex:person>Fuentes, Manuel</bibtex:person>
+<bibtex:person>others</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proc. of the 3rd Global Wordnet Conference</bibtex:booktitle>
+<bibtex:pages>22-26</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2006lessons">
+<bibtex:article>
+<bibtex:title>Lessons from the development of a named entity recognizer for Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegr\ia, I</bibtex:person>
+<bibtex:person>Arregi, O</bibtex:person>
+<bibtex:person>Ezeiza, N</bibtex:person>
+<bibtex:person>Fernandez, I</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:number>36</bibtex:number>
+<bibtex:pages>25-37</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gurrutxaga2006elexbi">
+<bibtex:article>
+<bibtex:title>Elexbi, a basic tool for bilingual term extraction from Spanish-Basque parallel corpora</bibtex:title>
+<bibtex:author>
+<bibtex:person>Gurrutxaga, A</bibtex:person>
+<bibtex:person>Saralegi, X</bibtex:person>
+<bibtex:person>Ugartetxea, S</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Actes du 12 e Congr\`es international de lexicographie (EURALEX, 06)</bibtex:journal>
+<bibtex:pages>159-165</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2006different">
+<bibtex:article>
+<bibtex:title>Different issues in the design and development of the electronic Cuban Basic School Dictionary</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegr\'\ia, I\ naki</bibtex:person>
+<bibtex:person>Arregi, Xabier</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>Astiz, Mikel</bibtex:person>
+<bibtex:person>Miyares, Leonel Ruiz</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Linguistics in the Twenty First Century, edited by Elo\'\ina Miyares Berm\'udez and Leonel Ruiz Miyares. Cambridge Scholars Press, Cambridge, United Kingdom, in cooperation with Centro de Ling&#252;\'\istica Aplicada, Santiago de Cuba, Cuba</bibtex:journal>
+<bibtex:pages>273-288</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2006building">
+<bibtex:inproceedings>
+<bibtex:title>Building an electronic version of the Cuban Basic School Dictionary</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegr\'\ia, I\ naki</bibtex:person>
+<bibtex:person>Arregi, Xabier</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>Astiz, Mikel</bibtex:person>
+<bibtex:person>Miyares, L Ruiz</bibtex:person>
+<bibtex:person>others</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings XII EURALEX International Congress, Turin, Italia</bibtex:booktitle>
+<bibtex:volume>1</bibtex:volume>
+<bibtex:pages>243-250</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2006fst">
+<bibtex:incollection>
+<bibtex:title>An FST grammar for verb chain transfer in a Spanish-Basque MT System</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>De Ilarraza, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Finite-state methods and natural language processing</bibtex:booktitle>
+<bibtex:pages>295-296</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="zelaia2006multiclassifier">
+<bibtex:inproceedings>
+<bibtex:title>A multiclassifier based document categorization system: profiting from the singular value decomposition dimensionality reduction technique</bibtex:title>
+<bibtex:author>
+<bibtex:person>Zelaia, Ana</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Arregi, Olatz</bibtex:person>
+<bibtex:person>Sierra, Basilio</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the Workshop on Learning Structured Information in Natural Language Applications</bibtex:booktitle>
+<bibtex:pages>25-32</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2006dictionary">
+<bibtex:inproceedings>
+<bibtex:title>A Dictionary Content Management System</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegr\'\ia, I\ naki</bibtex:person>
+<bibtex:person>Arregi, Xabier</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>Astiz, Mikel</bibtex:person>
+<bibtex:person>Ruiz Miyares, L</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of EURALEX</bibtex:booktitle>
+<bibtex:year>2006</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="fundazioazientzia">
+<bibtex:article>
+<bibtex:title>Zientzia eta Teknologiaren corpusa</bibtex:title>
+<bibtex:author>Fundazioa, Elhuyar </bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gurrutxagaeuskara">
+<bibtex:article>
+<bibtex:title>Euskara-gaztelania terminologia Elebidunaren Erauzle Automatikoa Itzulpen-memorietatik terminologia elebiduna automatikoki erauzteko prototipoa</bibtex:title>
+<bibtex:author>
+<bibtex:person>Gurrutxaga, Antton</bibtex:person>
+<bibtex:person>Pagoaga, Amaiur</bibtex:person>
+<bibtex:person>Saralegi, Xabier</bibtex:person>
+<bibtex:person>Ugartetxea, Sahats</bibtex:person>
+<bibtex:person>Fundazioa, Elhuyar</bibtex:person>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2005erauzterm">
+<bibtex:article>
+<bibtex:title>Erauzterm: euskarazko terminoak erauzteko tresna erdiautomatikoa</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I</bibtex:person>
+<bibtex:person>Gurrutxaga, A</bibtex:person>
+<bibtex:person>Saralegi, X</bibtex:person>
+<bibtex:person>Ugartetxea, S</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Mendebalde Kultur Alkartea, IX. Jardunaldiak: Euskera zientifiko-teknikoa</bibtex:journal>
+<bibtex:year>2005</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="zelaia2005analyzing">
+<bibtex:article>
+<bibtex:title>Analyzing the effect of dimensionality reduction in document categorization for basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Zelaia, Ana</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Arregi, Olatz</bibtex:person>
+<bibtex:person>Sierra, Basilio</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Culture</bibtex:journal>
+<bibtex:volume>600</bibtex:volume>
+<bibtex:pages>202</bibtex:pages>
+<bibtex:year>2005</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="corbi2005open">
+<bibtex:article>
+<bibtex:title>An open-source shallow-transfer machine translation engine for the Romance languages of Spain</bibtex:title>
+<bibtex:author>
+<bibtex:person>Corb\'\i Bellot, Antonio Miguel</bibtex:person>
+<bibtex:person>Forcada Zubizarreta, Mikel L</bibtex:person>
+<bibtex:person>Ortiz Rojas, Sergio</bibtex:person>
+<bibtex:person>P\'erez Ortiz, Juan Antonio</bibtex:person>
+<bibtex:person>Ram\'\irez S&#225;nchez, Gema</bibtex:person>
+<bibtex:person>S&#225;nchez Mart\'\inez, Felipe</bibtex:person>
+<bibtex:person>Alegr\'\ia Loinaz, I\ naki</bibtex:person>
+<bibtex:person>Mayor Mart\'\inez, Aingeru</bibtex:person>
+<bibtex:person>Sarasola Gabiola, Kepa</bibtex:person>
+<bibtex:person>others</bibtex:person>
+</bibtex:author>
+<bibtex:year>2005</bibtex:year>
+<bibtex:publisher>European Association for Machine Translation</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2005open">
+<bibtex:inproceedings>
+<bibtex:title>An open architecture for transfer-based machine translation between Spanish and Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>De Ilarraza, A D\'\iaz</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+<bibtex:person>Forcada, M</bibtex:person>
+<bibtex:person>Ortiz, S</bibtex:person>
+<bibtex:person>Padr\'o</bibtex:person>
+</bibtex:author>
+ Llu{\'\i}s and others},
+<bibtex:booktitle>Proceedings of the MT Summit X Workshop. Workshop on Open-Source Machine Traslation</bibtex:booktitle>
+<bibtex:pages>7-14</bibtex:pages>
+<bibtex:year>2005</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2006fst">
+<bibtex:incollection>
+<bibtex:title>An FST grammar for verb chain transfer in a Spanish-Basque MT System</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>De Ilarraza, Arantza D\'\iaz</bibtex:person>
+<bibtex:person>Labaka, Gorka</bibtex:person>
+<bibtex:person>Lersundi, Mikel</bibtex:person>
+<bibtex:person>Mayor, Aingeru</bibtex:person>
+<bibtex:person>Sarasola, Kepa</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Finite-state methods and natural language processing</bibtex:booktitle>
+<bibtex:pages>295-296</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2004representation">
+<bibtex:inproceedings>
+<bibtex:title>Representation and treatment of multiword expressions in Basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Ansa, Olatz</bibtex:person>
+<bibtex:person>Artola, Xabier</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Gojenola, Koldo</bibtex:person>
+<bibtex:person>Urizar, Ruben</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the Workshop on Multiword Expressions: Integrating Processing</bibtex:booktitle>
+<bibtex:pages>48-55</bibtex:pages>
+<bibtex:year>2004</bibtex:year>
+<bibtex:organization>Association for Computational Linguistics</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2004linguistic">
+<bibtex:article>
+<bibtex:title>Linguistic and statistical approaches to basque term extraction</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegr\'\ia, I\ naki</bibtex:person>
+<bibtex:person>Gurrutxaga, A</bibtex:person>
+<bibtex:person>Lizaso, P</bibtex:person>
+<bibtex:person>Saralegi, X</bibtex:person>
+<bibtex:person>Ugartetxea, S</bibtex:person>
+<bibtex:person>Urizar, R</bibtex:person>
+</bibtex:author>
+<bibtex:journal>GLAT-2004: The Production Of Specialized Texts</bibtex:journal>
+<bibtex:year>2004</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2004design">
+<bibtex:article>
+<bibtex:title>Design and development of a named entity recognizer for an agglutinative language</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Arregi, Olatz</bibtex:person>
+<bibtex:person>Balza, Irene</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Fernandez, Izaskun</bibtex:person>
+<bibtex:person>Urizar, Ruben</bibtex:person>
+</bibtex:author>
+<bibtex:journal>IJCNLP-04</bibtex:journal>
+<bibtex:year>2004</bibtex:year>
+<bibtex:publisher>Citeseer</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2003robustez">
+<bibtex:inproceedings>
+<bibtex:title>Robustez y flexibilidad de un lematizador/etiquetador</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ NAKI</bibtex:person>
+<bibtex:person>Aranzabe, M</bibtex:person>
+<bibtex:person>Ezeiza, AITZOL</bibtex:person>
+<bibtex:person>Ezeiza, N</bibtex:person>
+<bibtex:person>Urizar, R</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>VIII Simposio Internacional de Comunicaci\'on Social</bibtex:booktitle>
+<bibtex:pages>21-24</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2003named">
+<bibtex:article>
+<bibtex:title>Named entity recognition and classification for texts in basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Balza, I</bibtex:person>
+<bibtex:person>Ezeiza, N</bibtex:person>
+<bibtex:person>Fernandez, I</bibtex:person>
+<bibtex:person>Urizar, R</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Proceedings of JOTRI II</bibtex:journal>
+<bibtex:year>2003</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="aduriz2003finite">
+<bibtex:inproceedings>
+<bibtex:title>Finite state applications for basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Aduriz, Itziar</bibtex:person>
+<bibtex:person>Aldezabal, Izaskun</bibtex:person>
+<bibtex:person>Alegria, Inaki</bibtex:person>
+<bibtex:person>Arriola, J</bibtex:person>
+<bibtex:person>Diaz de Ilarraza, A</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Gojenola, Koldo</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>EACL 2003 Workshop on Finite-State Methods in Natural Language Processing</bibtex:booktitle>
+<bibtex:pages>3-11</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="memoriaeuskararen">
+<bibtex:article>
+<bibtex:title>Euskararen presentzia interneten neurtu nahian</bibtex:title>
+<bibtex:author>
+<bibtex:person>MEMORIA, Iazko</bibtex:person>
+<bibtex:person>Neurketak, Herrietako Kale Erabileraren</bibtex:person>
+<bibtex:person>Aurreratuak, Euskararen Normalizazio Kasu</bibtex:person>
+<bibtex:person>eta euskara Gasteizen, Gazteak</bibtex:person>
+<bibtex:person>Aldizkaria, BAT-Soziolinguistika</bibtex:person>
+<bibtex:person>Telebista, Soziolinguistika</bibtex:person>
+<bibtex:person>Jardunaldiak, Euskal Soziolinguistika</bibtex:person>
+<bibtex:person>Sariak, HAUSNARTU-Euskal Soziolinguistika</bibtex:person>
+<bibtex:person>Eskuliburua, Soziolinguistika</bibtex:person>
+<bibtex:person>GPSa, Erabileraren</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alegria2002using">
+<bibtex:incollection>
+<bibtex:title>Using finite state technology in natural language processing of basque</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alegria, I\ naki</bibtex:person>
+<bibtex:person>Aranzabe, Maxux</bibtex:person>
+<bibtex:person>Ezeiza, Nerea</bibtex:person>
+<bibtex:person>Ezeiza, Aitzol</bibtex:person>
+<bibtex:person>Urizar, Ruben</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Implementation and Application of Automata</bibtex:booktitle>
+<bibtex:pages>1-12</bibtex:pages>
+<bibtex:year>2002</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="alegria-id0">
+<bibtex:techreport>
+<bibtex:author>
+<bibtex:person>Aldezabal Izaskun</bibtex:person>
+<bibtex:person>Alegria Iñaki</bibtex:person>
+<bibtex:person>Ansa Olatz</bibtex:person>
+<bibtex:person>Arregi Xabier</bibtex:person>
+<bibtex:person>Artola Xabier</bibtex:person>
+<bibtex:person>Díaz de Ilarraza Arantza</bibtex:person>
+<bibtex:person>Ezeiza Nerea</bibtex:person>
+<bibtex:person>Gojenola Koldo</bibtex:person>
+<bibtex:person>Hernández Gregorio</bibtex:person>
+<bibtex:person>Mayor Aingeru</bibtex:person>
+<bibtex:person>Oronoz Maite</bibtex:person>
+<bibtex:person>Soroa Aitor</bibtex:person>
+</bibtex:author>
+<bibtex:title>Hizkuntza prozesatzeko tresnen integrazioa, SGML erabiliz</bibtex:title>
+<bibtex:booktitle>UPV/EHU/LSI/TR 2-2002</bibtex:booktitle>
+<bibtex:year>2002</bibtex:year>
+, annote={ http://ixa.si.ehu.es/Ixa/Argitalpenak/Barne_txostenak/1023890498/publikoak/integrazioa-abstract.doc}
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="alegria-id1">
+<bibtex:techreport>
+<bibtex:author>Alegria Iñaki</bibtex:author>
+<bibtex:title>Morfologia de los estados finitos</bibtex:title>
+<bibtex:booktitle>UPV/EHU-LSI TR 10-95.</bibtex:booktitle>
+<bibtex:year>1995</bibtex:year>
+, annote={ http://ixa.si.ehu.es/Ixa/Argitalpenak/Barne_txostenak/1001000792/publikoak/TR-10-95.ps}
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="alegria-id3">
+<bibtex:techreport>
+<bibtex:author>
+<bibtex:person>Alegria Iñaki</bibtex:person>
+<bibtex:person>J. Bastarrika</bibtex:person>
+</bibtex:author>
+<bibtex:title>Unix hizkuntz erabilpenetarako</bibtex:title>
+<bibtex:booktitle>FISS-D-48.1-ATC-91. 1991ko urria</bibtex:booktitle>
+<bibtex:year>1991</bibtex:year>
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="alegria-id4">
+<bibtex:phdthesis>
+<bibtex:author>Alegria Iñaki</bibtex:author>
+<bibtex:title>Euskal morfologiaren tratamendu automatikorako tresnak</bibtex:title>
+<bibtex:booktitle>Informatika Fakultatea, UPV-EHU, 1995eko uztaila</bibtex:booktitle>
+<bibtex:year>1995</bibtex:year>
+, annote={ http://ixa.si.ehu.es/Ixa/Argitalpenak/Tesiak/1001066269/publikoak/tesia-pdf-karpeta-zip}
+</bibtex:phdthesis>
+</bibtex:entry>
+
+  <!-- manual cleanup may be required... -->
+</bibtex:file>
+

@@ -1,0 +1,17 @@
+* text eol=lf
+
+howto export-ignore
+doc export-ignore
+.gitattributes export-ignore text
+.gitignore export-ignore text
+
+Makefile export-subst text eol=lf
+*.c export-subst text eol=lf
+*.h export-subst text eol=lf
+*.def export-subst text eol=lf
+
+*.png binary
+*.pdf binary
+*.ppt binary
+*.zip binary
+

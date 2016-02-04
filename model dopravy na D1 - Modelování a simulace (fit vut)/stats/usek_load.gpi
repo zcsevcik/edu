@@ -1,0 +1,31 @@
+#!/bin/bash
+gnuplot <<EOF
+set terminal pngcairo size 800,600 enhanced
+set output "$1.png"
+
+set xrange [0:376]
+set yrange [0:*]
+set xlabel "usek [km]"
+set zeroaxis
+
+set xtics add ("Praha" 0)
+set xtics add ("Brno" 200)
+set xtics add ("PL" 376)
+
+set style data histogram
+set style fill transparent solid 0.5 border -1
+set style histogram cluster gap 1
+
+set multiplot layout 2,1
+
+unset grid
+set ylabel "pocet aut"
+plot for [i=0:1] "$1.dat" index i u 1:3 w boxes title columnhead(1)
+
+unset key
+set grid
+set ylabel "prumerna rychlost [km/h]"
+plot for [i=0:1] "$1.dat" index i u 1:5 w lines smooth csplines lw 1 title columnhead(1)
+
+unset multiplot
+EOF

@@ -1,0 +1,25 @@
+
+.telo{
+	width: 580px;
+	height: auto;
+	border: 1px solid #976648;
+	margin: 10px;
+}
+
+.telo h3{
+	padding: 10px;
+}
+.tabulka{
+	margin: 15px;
+	font-style: italic;
+	line-height:1.5;
+	
+}
+
+.legenda {width: 20px; height 20px; border: 1px solid #976648;}
+.salonek {border: 2px solid black; padding: 10px; margin-bottom: 10px;}
+.stul {width: 40px; height: 40px; border: 1px solid black; float: left; margin-right: 10px; color: black; font-weight: bold; font-size: 14px; text-align: center;}
+.cleaner {clear: both;}
+
+.disabled {background-color: gray;}
+

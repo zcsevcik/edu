@@ -1,0 +1,62 @@
+##
+## Makefile.msvc12: Makefile for Visual Studio C++ 2013
+##
+## Author(s):   Ševčík Radek, Bc. <xsevci44@stud.fit.vutbr.cz>
+## Date:        2014/11/04
+##
+## Soft Computing (SFC)
+## Vizualizace Juliových množin
+##
+## Faculty of Information Technology
+## Brno University of Technology
+##
+## This file is part of sfc2014.
+##
+
+OUTPUT = sfc2014.exe
+
+libdir = ..\lib
+glut_dir = $(libdir)\freeglut
+glut_inc = $(glut_dir)\include
+glut_lib = $(glut_dir)\lib\freeglut.lib
+glew_dir = $(libdir)\glew-1.11.0
+glew_inc = $(glew_dir)\include
+glew_lib = $(glew_dir)\lib\Release\Win32\glew32.lib
+
+
+all: $(OUTPUT)
+
+clean:
+	del $(OUTPUT) main.obj palletes.obj shaders.obj sfc2014.res
+
+INCLUDES = /I $(glew_inc) /I $(glut_inc)
+LIBS = $(glew_lib) \
+       $(glut_lib) \
+       opengl32.lib \
+
+CFLAGS = /W3 /arch:SSE2 /O2 /GA
+CVARS = $(INCLUDES) \
+    /DNTDDI_VERSION=NTDDI_WINXPSP3 \
+    /D_WIN32_WINNT=_WIN32_WINNT_WINXP \
+    /DWINVER=_WIN32_WINNT_WINXP \
+    /D_WIN32_IE=_WIN32_IE_IE80 \
+    /DWIN32_LEAN_AND_MEAN \
+
+CONFLAGS = /MD
+CDEBUG =
+LDEBUG =
+
+# /TP (/TC) -> compile as C++ code, because msvc is not C99 compliant
+.c.obj:
+	$(CC) $(CDEBUG) $(CFLAGS) $(CVARS) /nologo /TP /c /Fo$@ $<
+
+.rc.res:
+	$(RC) /nologo /Fo $@ $<
+
+$(OUTPUT): main.obj palletes.obj shaders.obj sfc2014.res
+	$(CC) $(LDEBUG) $(CONFLAGS) /nologo /Fe$@ $** $(LIBS) /link /SUBSYSTEM:WINDOWS,5.01
+
+main.obj: main.c palletes.h params.h shaders.h
+palletes.obj: palletes.c palletes.h
+shaders.obj: shaders.c shaders.h
+sfc2014.res: sfc2014.rc

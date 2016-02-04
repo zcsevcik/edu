@@ -1,0 +1,257 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<title>Obarvení grafů: Dokumentace struktury _vertex_st</title>
+
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+
+
+
+</head>
+<body>
+<div id="top"><!-- do not remove this div! -->
+
+
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  
+  
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Obarvení grafů
+   &#160;<span id="projectnumber">2011</span>
+   </div>
+   <div id="projectbrief">IAL - náhradní projekt č. 6</div>
+  </td>
+  
+  
+  
+ </tr>
+ </tbody>
+</table>
+</div>
+
+<!-- Generováno programem Doxygen 1.7.6.1 -->
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Hlavní&#160;stránka</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Třídy</span></a></li>
+      <li><a href="files.html"><span>Soubory</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Datové&#160;struktury</span></a></li>
+      <li><a href="classes.html"><span>Rejstřík&#160;datových&#160;struktur</span></a></li>
+      <li><a href="functions.html"><span>Datové&#160;položky</span></a></li>
+    </ul>
+  </div>
+</div>
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Datové položky</a> &#124;
+<a href="#related">Související funkce</a>  </div>
+  <div class="headertitle">
+<div class="title">Dokumentace struktury _vertex_st</div>  </div>
+</div><!--header-->
+<div class="contents">
+<!-- doxytag: class="_vertex_st" -->
+<p>Struktura vrcholu.  
+ <a href="struct__vertex__st.html#details">...</a></p>
+<table class="memberdecls">
+<tr><td colspan="2"><h2><a name="pub-attribs"></a>
+Datové položky</h2></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">unsigned long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__vertex__st.html#af9702a94889d9e3c9906b775c60a5496">order</a></td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Poradove cislo vrcholu.  <a href="#af9702a94889d9e3c9906b775c60a5496"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">struct <a class="el" href="struct__vertex__st.html">_vertex_st</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__vertex__st.html#a0ac4d443499849d6212f0596516e730a">next</a></td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Ukazatel na dalsi vrchol v linearnim seznamu.  <a href="#a0ac4d443499849d6212f0596516e730a"></a><br/></td></tr>
+<tr><td colspan="2"><h2><a name="related"></a>
+Související funkce</h2></td></tr>
+<tr><td class="ititle" colspan="2"><p>(Uvedené funkce nejsou členskými funkcemi.) </p>
+</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__vertex__st.html#a3fe53641b43b7e88f956bdb4fdb1f160">ial_vertex_new</a> (unsigned long <a class="el" href="struct__vertex__st.html#af9702a94889d9e3c9906b775c60a5496">order</a>)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vytvori novy vrchol.  <a href="#a3fe53641b43b7e88f956bdb4fdb1f160"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__vertex__st.html#ab72ed684875c58042f2462f92e5ae830">ial_vertex_free</a> (<a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *vertex)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Odstrani vrchol.  <a href="#ab72ed684875c58042f2462f92e5ae830"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__vertex__st.html#a113052f6d80236d61910520fb9c1ee8d">ial_vertex_join</a> (<a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *to, <a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *from)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Spoji dva vrcholy v linearnim seznamu.  <a href="#a113052f6d80236d61910520fb9c1ee8d"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__vertex__st.html#a6823863ce7f371e58b898b4d661f5979">ial_vertex_next</a> (<a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *vertex)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrati dalsi vrchol v linearnim seznamu.  <a href="#a6823863ce7f371e58b898b4d661f5979"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">unsigned long&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__vertex__st.html#a324ae2a14d045e8a651498102972ddf4">ial_vertex_number</a> (<a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *vertex)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrati poradove cislo vrcholu.  <a href="#a324ae2a14d045e8a651498102972ddf4"></a><br/></td></tr>
+</table>
+<hr/><a name="details" id="details"></a><h2>Detailní popis</h2>
+<div class="textblock"><p>Struktura vrcholu. </p>
+</div><hr/><h2>Dokumentace k friends</h2>
+<a class="anchor" id="ab72ed684875c58042f2462f92e5ae830"></a><!-- doxytag: member="_vertex_st::ial_vertex_free" ref="ab72ed684875c58042f2462f92e5ae830" args="(vertex_t *vertex)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="struct__vertex__st.html#ab72ed684875c58042f2462f92e5ae830">ial_vertex_free</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td>
+          <td class="paramname"><em>vertex</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Odstrani vrchol. </p>
+
+</div>
+</div>
+<a class="anchor" id="a113052f6d80236d61910520fb9c1ee8d"></a><!-- doxytag: member="_vertex_st::ial_vertex_join" ref="a113052f6d80236d61910520fb9c1ee8d" args="(vertex_t *to, vertex_t *from)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="struct__vertex__st.html#a113052f6d80236d61910520fb9c1ee8d">ial_vertex_join</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td>
+          <td class="paramname"><em>to</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td>
+          <td class="paramname"><em>from</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Spoji dva vrcholy v linearnim seznamu. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">to</td><td>Vrchol, kam se pripoji druhy vrchol. </td></tr>
+    <tr><td class="paramname">from</td><td>Vrchol, ktery se bude pripojovat. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>true v pripade uspechu; jinak false. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a3fe53641b43b7e88f956bdb4fdb1f160"></a><!-- doxytag: member="_vertex_st::ial_vertex_new" ref="a3fe53641b43b7e88f956bdb4fdb1f160" args="(unsigned long order)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> * <a class="el" href="struct__vertex__st.html#a3fe53641b43b7e88f956bdb4fdb1f160">ial_vertex_new</a> </td>
+          <td>(</td>
+          <td class="paramtype">unsigned long&#160;</td>
+          <td class="paramname"><em>order</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vytvori novy vrchol. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">order</td><td>Poradove cislo vrcholu. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Vrchol nebo NULL. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a6823863ce7f371e58b898b4d661f5979"></a><!-- doxytag: member="_vertex_st::ial_vertex_next" ref="a6823863ce7f371e58b898b4d661f5979" args="(vertex_t *vertex)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> * <a class="el" href="struct__vertex__st.html#a6823863ce7f371e58b898b4d661f5979">ial_vertex_next</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td>
+          <td class="paramname"><em>vertex</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrati dalsi vrchol v linearnim seznamu. </p>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Nasledujici vrchol nebo NULL. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a324ae2a14d045e8a651498102972ddf4"></a><!-- doxytag: member="_vertex_st::ial_vertex_number" ref="a324ae2a14d045e8a651498102972ddf4" args="(vertex_t *vertex)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">unsigned long <a class="el" href="struct__vertex__st.html#a324ae2a14d045e8a651498102972ddf4">ial_vertex_number</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td>
+          <td class="paramname"><em>vertex</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrati poradove cislo vrcholu. </p>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Poradove cislo. </dd></dl>
+
+</div>
+</div>
+<hr/><h2>Dokumentace k položkám</h2>
+<a class="anchor" id="a0ac4d443499849d6212f0596516e730a"></a><!-- doxytag: member="_vertex_st::next" ref="a0ac4d443499849d6212f0596516e730a" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">struct <a class="el" href="struct__vertex__st.html">_vertex_st</a>* <a class="el" href="struct__vertex__st.html#a0ac4d443499849d6212f0596516e730a">_vertex_st::next</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Ukazatel na dalsi vrchol v linearnim seznamu. </p>
+
+</div>
+</div>
+<a class="anchor" id="af9702a94889d9e3c9906b775c60a5496"></a><!-- doxytag: member="_vertex_st::order" ref="af9702a94889d9e3c9906b775c60a5496" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">unsigned long <a class="el" href="struct__vertex__st.html#af9702a94889d9e3c9906b775c60a5496">_vertex_st::order</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Poradove cislo vrcholu. </p>
+<p>Slouzi k identifikaci vrcholu v linearnim seznamu. </p>
+
+</div>
+</div>
+<hr/>Dokumentace pro tuto strukturu (struct) byla generována z následujícího souboru:<ul>
+<li><a class="el" href="vertex_8c.html">vertex.c</a></li>
+</ul>
+</div><!-- contents -->
+
+
+<hr class="footer"/><address class="footer"><small>
+Generováno programem &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.7.6.1
+</small></address>
+
+</body>
+</html>

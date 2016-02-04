@@ -1,0 +1,443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<title>Obarvení grafů: Dokumentace struktury _matrix_st</title>
+
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+
+
+
+</head>
+<body>
+<div id="top"><!-- do not remove this div! -->
+
+
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  
+  
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Obarvení grafů
+   &#160;<span id="projectnumber">2011</span>
+   </div>
+   <div id="projectbrief">IAL - náhradní projekt č. 6</div>
+  </td>
+  
+  
+  
+ </tr>
+ </tbody>
+</table>
+</div>
+
+<!-- Generováno programem Doxygen 1.7.6.1 -->
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Hlavní&#160;stránka</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Třídy</span></a></li>
+      <li><a href="files.html"><span>Soubory</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Datové&#160;struktury</span></a></li>
+      <li><a href="classes.html"><span>Rejstřík&#160;datových&#160;struktur</span></a></li>
+      <li><a href="functions.html"><span>Datové&#160;položky</span></a></li>
+    </ul>
+  </div>
+</div>
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Datové položky</a> &#124;
+<a href="#related">Související funkce</a>  </div>
+  <div class="headertitle">
+<div class="title">Dokumentace struktury _matrix_st</div>  </div>
+</div><!--header-->
+<div class="contents">
+<!-- doxytag: class="_matrix_st" -->
+<p>Struktura matice.  
+ <a href="struct__matrix__st.html#details">...</a></p>
+<table class="memberdecls">
+<tr><td colspan="2"><h2><a name="pub-attribs"></a>
+Datové položky</h2></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">bool *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#aa366552a89fcf23572dae214e095d846">m</a></td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Matice sousednosti.  <a href="#aa366552a89fcf23572dae214e095d846"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#a1d615e2a1a8a0cd13f2453a5ab8a1d9a">vertices</a></td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Pocet vrcholu v matici.  <a href="#a1d615e2a1a8a0cd13f2453a5ab8a1d9a"></a><br/></td></tr>
+<tr><td colspan="2"><h2><a name="related"></a>
+Související funkce</h2></td></tr>
+<tr><td class="ititle" colspan="2"><p>(Uvedené funkce nejsou členskými funkcemi.) </p>
+</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#a42122427d060c276bb6b08bd19e9d186">ial_matrix_new</a> (size_t <a class="el" href="struct__matrix__st.html#a1d615e2a1a8a0cd13f2453a5ab8a1d9a">vertices</a>)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vytvori ctvercovou matici sousednosti.  <a href="#a42122427d060c276bb6b08bd19e9d186"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#abd7af4e2798bdf472bff85f7ab8875c1">ial_matrix_free</a> (<a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Odstrani matici.  <a href="#abd7af4e2798bdf472bff85f7ab8875c1"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#a4683f08f74a4677fedcc0331dd83e92d">ial_matrix_get_vertices</a> (const <a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrati pocet vrcholu v matici.  <a href="#a4683f08f74a4677fedcc0331dd83e92d"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#ac4d6f7b3785f3002af05f4b98148932c">ial_matrix_get</a> (const <a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix, size_t row, size_t col)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrati prvek matice.  <a href="#ac4d6f7b3785f3002af05f4b98148932c"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#a0ab3761fddb69529bcc46bb3492f8f8f">ial_matrix_set</a> (<a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix, size_t row, size_t col, bool value)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Nastavi prvek matice.  <a href="#a0ab3761fddb69529bcc46bb3492f8f8f"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#ab47de48d6993e9ad5ba4cd4d428d1e63">ial_matrix_set_all</a> (<a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix, size_t <a class="el" href="struct__matrix__st.html#a1d615e2a1a8a0cd13f2453a5ab8a1d9a">vertices</a>, const bool *values)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Nastavi vsechny prvky matice z dvourozmerneho pole.  <a href="#ab47de48d6993e9ad5ba4cd4d428d1e63"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#ab69f9c7766ec558d01b339bb03be0901">ial_matrix_delete</a> (<a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix, size_t vertex)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Odstrani urcity radek a sloupec z matice.  <a href="#ab69f9c7766ec558d01b339bb03be0901"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#a16f6f55f959638880f71a01bfce33ced">ial_matrix_join</a> (<a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix, size_t vertex_lhs, size_t vertex_rhs)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Spoji hrany dvou vrcholu v matici.  <a href="#a16f6f55f959638880f71a01bfce33ced"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">const bool *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__matrix__st.html#a5071d52b73123063f11abf990707f844">_matrix_raw</a> (const <a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrati interni reprezentaci dat matice.  <a href="#a5071d52b73123063f11abf990707f844"></a><br/></td></tr>
+</table>
+<hr/><a name="details" id="details"></a><h2>Detailní popis</h2>
+<div class="textblock"><p>Struktura matice. </p>
+</div><hr/><h2>Dokumentace k friends</h2>
+<a class="anchor" id="a5071d52b73123063f11abf990707f844"></a><!-- doxytag: member="_matrix_st::_matrix_raw" ref="a5071d52b73123063f11abf990707f844" args="(const matrix_t *matrix)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">const bool * <a class="el" href="struct__matrix__st.html#a5071d52b73123063f11abf990707f844">_matrix_raw</a> </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrati interni reprezentaci dat matice. </p>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>interni data pri uspechu; jinak NULL. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="ab69f9c7766ec558d01b339bb03be0901"></a><!-- doxytag: member="_matrix_st::ial_matrix_delete" ref="ab69f9c7766ec558d01b339bb03be0901" args="(matrix_t *matrix, size_t vertex)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="struct__matrix__st.html#ab69f9c7766ec558d01b339bb03be0901">ial_matrix_delete</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>vertex</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Odstrani urcity radek a sloupec z matice. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">vertex</td><td>Vrchol k odstraneni. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>true pri uspechu; jinak false. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="abd7af4e2798bdf472bff85f7ab8875c1"></a><!-- doxytag: member="_matrix_st::ial_matrix_free" ref="abd7af4e2798bdf472bff85f7ab8875c1" args="(matrix_t *matrix)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="struct__matrix__st.html#abd7af4e2798bdf472bff85f7ab8875c1">ial_matrix_free</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Odstrani matici. </p>
+
+</div>
+</div>
+<a class="anchor" id="ac4d6f7b3785f3002af05f4b98148932c"></a><!-- doxytag: member="_matrix_st::ial_matrix_get" ref="ac4d6f7b3785f3002af05f4b98148932c" args="(const matrix_t *matrix, size_t row, size_t col)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="struct__matrix__st.html#ac4d6f7b3785f3002af05f4b98148932c">ial_matrix_get</a> </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>row</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>col</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrati prvek matice. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">row</td><td>Urcuje radek matice. </td></tr>
+    <tr><td class="paramname">col</td><td>Urcuje sloupec matice. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Prvek matice na indexu s hodnotou 0 nebo 1; pri chybe vrati -1. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a4683f08f74a4677fedcc0331dd83e92d"></a><!-- doxytag: member="_matrix_st::ial_matrix_get_vertices" ref="a4683f08f74a4677fedcc0331dd83e92d" args="(const matrix_t *matrix)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">size_t <a class="el" href="struct__matrix__st.html#a4683f08f74a4677fedcc0331dd83e92d">ial_matrix_get_vertices</a> </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrati pocet vrcholu v matici. </p>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Pocet vrcholu. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a16f6f55f959638880f71a01bfce33ced"></a><!-- doxytag: member="_matrix_st::ial_matrix_join" ref="a16f6f55f959638880f71a01bfce33ced" args="(matrix_t *matrix, size_t vertex_lhs, size_t vertex_rhs)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="struct__matrix__st.html#a16f6f55f959638880f71a01bfce33ced">ial_matrix_join</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>vertex_lhs</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>vertex_rhs</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Spoji hrany dvou vrcholu v matici. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">vertex_lhs</td><td>Vrchol, do ktereho se ulozi vysledek spojeni. </td></tr>
+    <tr><td class="paramname">vertex_rhs</td><td>Druhy vrchol, se kterym se spojuje. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>true pri uspechu; jinak false. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a42122427d060c276bb6b08bd19e9d186"></a><!-- doxytag: member="_matrix_st::ial_matrix_new" ref="a42122427d060c276bb6b08bd19e9d186" args="(size_t vertices)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> * <a class="el" href="struct__matrix__st.html#a42122427d060c276bb6b08bd19e9d186">ial_matrix_new</a> </td>
+          <td>(</td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>vertices</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vytvori ctvercovou matici sousednosti. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">vertices</td><td>Pocet vrcholu. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Matici nebo NULL. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a0ab3761fddb69529bcc46bb3492f8f8f"></a><!-- doxytag: member="_matrix_st::ial_matrix_set" ref="a0ab3761fddb69529bcc46bb3492f8f8f" args="(matrix_t *matrix, size_t row, size_t col, bool value)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="struct__matrix__st.html#a0ab3761fddb69529bcc46bb3492f8f8f">ial_matrix_set</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>row</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>col</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>value</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Nastavi prvek matice. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">row</td><td>Urcuje radek matice. </td></tr>
+    <tr><td class="paramname">col</td><td>Urcuje sloupec matice. </td></tr>
+    <tr><td class="paramname">value</td><td>Hodnota. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>true pri uspechu; jinak false. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="ab47de48d6993e9ad5ba4cd4d428d1e63"></a><!-- doxytag: member="_matrix_st::ial_matrix_set_all" ref="ab47de48d6993e9ad5ba4cd4d428d1e63" args="(matrix_t *matrix, size_t vertices, const bool *values)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="struct__matrix__st.html#ab47de48d6993e9ad5ba4cd4d428d1e63">ial_matrix_set_all</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>vertices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const bool *&#160;</td>
+          <td class="paramname"><em>values</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Nastavi vsechny prvky matice z dvourozmerneho pole. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">vertices</td><td>Pocet vrcholu. </td></tr>
+    <tr><td class="paramname">values</td><td>Dvourozmerne pole prvku matice. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>true pri uspechu; jinak false. </dd></dl>
+
+</div>
+</div>
+<hr/><h2>Dokumentace k položkám</h2>
+<a class="anchor" id="aa366552a89fcf23572dae214e095d846"></a><!-- doxytag: member="_matrix_st::m" ref="aa366552a89fcf23572dae214e095d846" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool* <a class="el" href="struct__matrix__st.html#aa366552a89fcf23572dae214e095d846">_matrix_st::m</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Matice sousednosti. </p>
+<p>Implementovana jako trojuhelnikove pole. </p>
+
+</div>
+</div>
+<a class="anchor" id="a1d615e2a1a8a0cd13f2453a5ab8a1d9a"></a><!-- doxytag: member="_matrix_st::vertices" ref="a1d615e2a1a8a0cd13f2453a5ab8a1d9a" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">size_t <a class="el" href="struct__matrix__st.html#a1d615e2a1a8a0cd13f2453a5ab8a1d9a">_matrix_st::vertices</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Pocet vrcholu v matici. </p>
+
+</div>
+</div>
+<hr/>Dokumentace pro tuto strukturu (struct) byla generována z následujícího souboru:<ul>
+<li><a class="el" href="matrix_8c.html">matrix.c</a></li>
+</ul>
+</div><!-- contents -->
+
+
+<hr class="footer"/><address class="footer"><small>
+Generováno programem &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.7.6.1
+</small></address>
+
+</body>
+</html>

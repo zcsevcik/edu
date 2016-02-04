@@ -1,0 +1,434 @@
+[bib]@BOOK{Abou-Assaleh2009b, title = {Quantifying Uncertainty in Reasoning and Question Answering: Probabilistic Relaxed Unification Formalism and Applications in Automated Question-Answering Systems}, 
+   author = {Tony Abou-Assaleh}, 
+   year = {2009}, 
+   publisher = {VDM Verlag Dr. M\"{u}ller}, 
+   address = {Saarbr\"{u}cken, Germany}, 
+   isbn = {978-3-639-17140-2}, 
+   owner = {taa}, 
+   timestamp = {2009.10.02}
+}[/bib]Abou-Assaleh, T. (2009). Quantifying Uncertainty in Reasoning and Question Answering: Probabilistic Relaxed Unification Formalism and Applications in Automated Question-Answering Systems. Saarbrücken, Germany: VDM Verlag Dr. Müller.
+
+[bib]@PROCEEDINGS{Abou-Assaleh2004d, title = {Proceedings of the 3rd Dalhousie Computer Science In-house Conference (DCSI'04)}, 
+   year = {2004}, 
+   editor = {Tony Abou-Assaleh}, 
+   address = {Dalhousie University, Halifax, Nova Scotia, Canada}, 
+   month = {October}, 
+   file = {Proceedings:/papers/abou-assaleh_dcsi04_proceedings.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib](2004). Proceedings of the 3rd Dalhousie Computer Science In-house Conference (DCSI’04). Dalhousie University, Halifax, Nova Scotia, Canada.
+
+[bib]@INCOLLECTION{Abou-Assaleh2008a, 
+   author = {Tony Abou-Assaleh and Tapajyoti Das}, 
+   title = {Combating Spamdexing: Incorporating Heuristics in Link-Based Ranking}, 
+   booktitle = {Algorithms and Models for the Web-Graph: Fourth International Workshop, WAW 2006, Banff, Canada, November 30 - December 1, 2006, Revised Papers}, 
+   publisher = {Springer-Verlag}, 
+   year = {2008}, 
+   editor = {Aiello, William and Broder, Andrei and Janssen, Jeannette and Milios, Evangelos}, 
+   volume = {4936}, 
+   series = {Lecture Notes in Computer Science}, 
+   pages = {97--106}, 
+   address = {Berlin Heidelberg}, 
+   month = {May}, 
+   owner = {taa}, 
+   timestamp = {2008.03.05}
+}[/bib]Abou-Assaleh, T., & Das, T. (2008). Combating Spamdexing: Incorporating Heuristics in Link-Based Ranking. In W. Aiello, A. Broder & J. Janssen & E. Milios (Eds.), (Vol. 4936, pp. 97-106). Berlin Heidelberg: Springer-Verlag.
+
+[bib]@ARTICLE{Abou-Assaleh2003, 
+   author = {Tony Abou-Assaleh and Nick Cercone}, 
+   title = {Relaxed Unification -- Proposal}, 
+   journal = {Applied Mathematics Letters}, 
+   year = {2003}, 
+   volume = {16}, 
+   pages = {747-751}, 
+   number = {5}, 
+   month = {July}, 
+   note = {Accepted May 2002}, 
+   file = {Article:/papers/abou-assaleh_aml.ps:PostScript}, 
+   owner = {taa}, 
+   publisher = {New York, NY: Elsevier Science}
+}[/bib]Abou-Assaleh, T., & Cercone, N. (2003). Relaxed Unification — Proposal. Applied Mathematics Letters, 16(5), 747-751.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2009, 
+   author = {Philip O'Brien and Xiao Luo and Tony Abou-Assaleh and Weizheng Gao and Shujie Li}, 
+   title = {Personalization of Content Ranking in the Context of Local Search}, 
+   booktitle = {Proceedings of the 2009 IEEE/WIC/ACM international conference on Web Intelligence (WI2009)}, 
+   year = {2009}, 
+   month = {September 15-18}, 
+   publisher = {ACM}, 
+   address = {New York, NY, USA}, 
+   location = {Milan, Italy}, 
+   file = {Slides (PPT):/papers/abou-assaleh_wi2009.ppt:PowerPoint;Slides (PDF):/papers/abou-assaleh_wi2009.pdf:PDF}, 
+   owner = {taa} timestamp = {2009.09.24}
+}[/bib]O’Brien, P., Luo, X., Abou-Assaleh, T., Gao, W., & Li, S. (2009). Personalization of Content Ranking in the Context of Local Search. In Proceedings of the 2009 IEEE/WIC/ACM international conference on Web Intelligence (WI2009), New York, NY, USA.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2007a, 
+   author = {Tony Abou-Assaleh and Weizheng Gao}, 
+   title = {Geographic ranking for a local search engine}, 
+   booktitle = {SIGIR '07: Proceedings of the 30th annual international ACM SIGIR conference on Research and development in information retrieval}, 
+   year = {2007}, 
+   pages = {911--911}, 
+   address = {New York, NY, USA}, 
+   month = {July 23-27}, 
+   organization = {SIGIR}, 
+   publisher = {ACM}, 
+   doi = {http://doi.acm.org/10.1145/1277741.1277979}, 
+   isbn = {978-1-59593-597-7}, 
+   location = {Amsterdam, The Netherlands}, 
+   owner = {taa}, 
+   timestamp = {2008.03.05}
+}[/bib]Abou-Assaleh, T., & Gao, W. (2007). Geographic ranking for a local search engine. In SIGIR ’07: Proceedings of the 30th annual international ACM SIGIR conference on Research and development in information retrieval, New York, NY, USA.
+
+[bib]@INPROCEEDINGS{O'Brien2007, 
+   author = {Philip O'Brien and Tony Abou-Assaleh}, 
+   title = {Focused ranking in a vertical search engine}, 
+   booktitle = {SIGIR '07: Proceedings of the 30th annual international ACM SIGIR conference on Research and development in information retrieval}, 
+   year = {2007}, 
+   pages = {912--912}, 
+   address = {New York, NY, USA}, 
+   month = {July 23-27}, 
+   organization = {SIGIR}, 
+   publisher = {ACM}, 
+   doi = {http://doi.acm.org/10.1145/1277741.1277980}, 
+   isbn = {978-1-59593-597-7}, 
+   location = {Amsterdam, The Netherlands}
+}[/bib]O’Brien, P., & Abou-Assaleh, T. (2007). Focused ranking in a vertical search engine. In SIGIR ’07: Proceedings of the 30th annual international ACM SIGIR conference on Research and development in information retrieval, New York, NY, USA.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2007, 
+   author = {Tony Abou-Assaleh and Tapajyoti Das and Weizheng Gao and Yingbo Miao and Philip O'Brien and Zhen Zhen}, 
+   title = {A Link-Based Ranking Scheme for Focused Search}, 
+   booktitle = {Proceedings of the 16th international conference on World Wide Web (WWW2007)}, 
+   year = {2007}, 
+   pages = {1125--1126}, 
+   address = {New York, NY, USA}, 
+   month = {May 8-12}, 
+   publisher = {ACM}, 
+   doi = {http://doi.acm.org/10.1145/1242572.1242727}, 
+   isbn = {978-1-59593-654-7}, 
+   location = {Banff, Alberta, Canada}, 
+   owner = {taa}, 
+   timestamp = {2008.03.05}
+}[/bib]Abou-Assaleh, T., Das, T., Gao, W., Miao, Y., O’Brien, P., & Zhen, Z. (2007). A Link-Based Ranking Scheme for Focused Search. In Proceedings of the 16th international conference on World Wide Web (WWW2007), New York, NY, USA.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2005b, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj}, 
+   title = {Question-Answering with Relaxed Unification}, 
+   booktitle = {Proceedings of the Conference of the Pacific Association for Computational Linguistics, PACLING'05}, 
+   year = {2005}, 
+   address = {Tokyo, Japan}, 
+   month = {August 24-27}, 
+   file = {Paper:/papers/abou-assaleh_pacling05.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., & Kešelj, V. (2005). Question-Answering with Relaxed Unification. In Proceedings of the Conference of the Pacific Association for Computational Linguistics, PACLING’05, Tokyo, Japan.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2005d, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Jon Doyle and Vlado Kešelj and Chris Whidden}, 
+   title = {DalTREC 2005 QA System Jellyfish: Mark-and-Match Approach to Question Answering}, 
+   booktitle = {Proceedings of the Fourtheenth Text REtrieval Conference (TREC 2005)}, 
+   year = {2005}, 
+   address = {Gaithersburg, Maryland}, 
+   month = {November}, 
+   organization = {National Institute of Standards and Technology (NIST)}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., Doyle, J., Kešelj, V., & Whidden, C. (2005). DalTREC 2005 QA System Jellyfish: Mark-and-Match Approach to Question Answering. In Proceedings of the Fourtheenth Text REtrieval Conference (TREC 2005), Gaithersburg, Maryland.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2005c, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj}, 
+   title = {A Probabilistic Evaluation Function for Relaxed Unification}, 
+   booktitle = {Proceedings of the 29th IEEE Annual International Computer Software and Applications Conference, COMPSAC 2005}, 
+   year = {2005}, 
+   address = {Edinburgh, Scotland}, 
+   month = {July 25-28}, 
+   file = {Paper:/papers/abou-assaleh_compsac2005.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., & Kešelj, V. (2005). A Probabilistic Evaluation Function for Relaxed Unification. In Proceedings of the 29th IEEE Annual International Computer Software and Applications Conference, COMPSAC 2005, Edinburgh, Scotland.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2004e, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj}, 
+   title = {Applying HPSG with Relaxed Unification to Question Answering}, 
+   booktitle = {Proceedings of the Third Dalhousie Computer Science In-house Conference (DCSI'04)}, 
+   year = {2004}, 
+   address = {Halifax, Nova Scotia, Canada}, 
+   month = {October}, 
+   organization = {Dalhousie University}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., & Kešelj, V. (2004). Applying HPSG with Relaxed Unification to Question Answering. In Proceedings of the Third Dalhousie Computer Science In-house Conference (DCSI’04), Halifax, Nova Scotia, Canada.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2004f, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj}, 
+   title = {Applying HPSG with Relaxed Unification to Question Answering}, 
+   booktitle = {MITACS 5th Annual Conference and Atlantic Interchange}, 
+   year = {2004}, 
+   address = {Halifax, Nova Scotia, Canada}, 
+   month = {June}, 
+   organization = {Dalhousie University}, 
+   note = {Second Place Award in the Poster Competition}, 
+   file = {Slides:/papers/abou-assaleh_mitacs04.ppt:PowerPoint;Photo:/papers/abou-assaleh_mitacs04.png:PNG}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., & Kešelj, V. (2004). Applying HPSG with Relaxed Unification to Question Answering. In MITACS 5th Annual Conference and Atlantic Interchange, Halifax, Nova Scotia, Canada.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2004c, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj and Ray Sweidan}, 
+   title = {N-gram-based Detection of New Malicious Code}, 
+   booktitle = {Proceedings of the 28th IEEE Annual International Computer Software and Applications Conference, COMPSAC 2004}, 
+   year = {2004}, 
+   address = {Hong Kong}, 
+   month = {September 28-30}, 
+   file = {Paper:/papers/abou-assaleh_compsac2004.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., Kešelj, V., & Sweidan, R. (2004). N-gram-based Detection of New Malicious Code. In Proceedings of the 28th IEEE Annual International Computer Software and Applications Conference, COMPSAC 2004, Hong Kong.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2004b, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj and Ray Sweidan}, 
+   title = {Detection of New Malicious Code Using N-grams Signatures}, 
+   booktitle = {Proceedings of the Second Annual Conference on Privacy, Security and Trust (PST'04)}, 
+   year = {2004}, 
+   pages = {193--196}, 
+   address = {Fredericton, New Brunswick, Canada}, 
+   month = {October 13-15}, 
+   file = {Slides:/papers/abou-assaleh_pst04.ppt:PowerPoint;Paper:/papers/abou-assaleh_pst04.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., Kešelj, V., & Sweidan, R. (2004). Detection of New Malicious Code Using N-grams Signatures. In Proceedings of the Second Annual Conference on Privacy, Security and Trust (PST’04), Fredericton, New Brunswick, Canada.
+
+[bib]@INPROCEEDINGS{Cox2004, 
+   author = {Anthony Cox and Tony Abou-Assaleh and Wei Ai and Vlado Kešelj}, 
+   title = {Lexical Source-Code Transformation}, 
+   booktitle = {Proceedings of the Software Transformation Systems Workshop (STSW'04) at the Third International Conference on Generative Programming and Component Engineering (GPCE'04)}, 
+   year = {2004}, 
+   address = {Vancouver, British Colombia, Canada}, 
+   month = {October}, 
+   file = {Paper:/papers/abou-assaleh_stsw04.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Cox, A., Abou-Assaleh, T., Ai, W., & Kešelj, V. (2004). Lexical Source-Code Transformation. In Proceedings of the Software Transformation Systems Workshop (STSW’04) at the Third International Conference on Generative Programming and Component Engineering (GPCE’04), Vancouver, British Colombia, Canada.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2003b, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj}, 
+   title = {Towards the Theory of Relaxed Unification}, 
+   booktitle = {Proceedings of the 14th International Symposium on Methodologies for Intelligent Systems, ISMIS 2003}, 
+   year = {2003}, 
+   address = {Maebashi City, Japan}, 
+   month = {October 28-31}, 
+   file = {Paper:/papers/abou-assaleh_ismis03.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., & Kešelj, V. (2003). Towards the Theory of Relaxed Unification. In Proceedings of the 14th International Symposium on Methodologies for Intelligent Systems, ISMIS 2003, Maebashi City, Japan.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2003a, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj}, 
+   title = {An Overview of the Theory of Relaxed Unification}, 
+   booktitle = {Proceedings of the International Conference on Advances in the Internet, Processing, Systems, Interdisciplinary Research, IPSI-2003}, 
+   year = {2003}, 
+   address = {Sveti Stefan, Montenegro, Former Yugoslavia}, 
+   month = {October 5-11}, 
+   file = {Slides:/papers/abou-assaleh_ipsi03-ru.ppt:PowerPoint;Paper:/papers/abou-assaleh_ipsi03-ru.pdf:PDF}, 
+   owner = {taa}
+}[/bib]Abou-Assaleh, T., Cercone, N., & Kešelj, V. (2003). An Overview of the Theory of Relaxed Unification. In Proceedings of the International Conference on Advances in the Internet, Processing, Systems, Interdisciplinary Research, IPSI-2003, Sveti Stefan, Montenegro, Former Yugoslavia.
+
+[bib]@INPROCEEDINGS{Tanta-ngai2003, 
+   author = {Hathai Tanta-ngai and Tony Abou-Assaleh and Sittichai Jiampojamarn and Nick Cercone}, 
+   title = {Secure Mail Transfer Protocol (SecMTP)}, 
+   booktitle = {Proceedings of the International Conference on Advances in the Internet, Processing, Systems, and Interdisciplinary Research, IPSI-2003}, 
+   year = {2003}, 
+   address = {Sveti Stefan, Montenegro, Former Yugoslavia}, 
+   month = {October 5-11}, 
+   file = {Slides:/papers/abou-assaleh_ipsi03-secmtp.ppt:PowerPoint;Paper:/papers/abou-assaleh_ipsi03-secmtp.pdf:PDF:}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Tanta-ngai, H., Abou-Assaleh, T., Jiampojamarn, S., & Cercone, N. (2003). Secure Mail Transfer Protocol (SecMTP). In Proceedings of the International Conference on Advances in the Internet, Processing, Systems, and Interdisciplinary Research, IPSI-2003, Sveti Stefan, Montenegro, Former Yugoslavia.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2003c, 
+   author = {Tony Abou-Assaleh and Nick Cercone and Vlado Kešelj}, 
+   title = {Expressing Probabilistic Context-Free Grammars in the Relaxed Unification Formalism}, 
+   booktitle = {Proceedings of the Conference of the Pacific Association for Computational Linguistics, PACLING'03}, 
+   year = {2003}, 
+   address = {Halifax, Nova Scotia, Canada}, 
+   month = {August 22-25}, 
+   organization = {Dalhousie University}, 
+   file = {Slides:/papers/abou-assaleh_pacling03.ppt:PowerPoint;Paper:/papers/abou-assaleh_pacling03.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Cercone, N., & Kešelj, V. (2003). Expressing Probabilistic Context-Free Grammars in the Relaxed Unification Formalism. In Proceedings of the Conference of the Pacific Association for Computational Linguistics, PACLING’03, Halifax, Nova Scotia, Canada.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2001b, 
+   author = {Tony Abou-Assaleh and Jianna Zhang and Nick Cercone}, 
+   title = {Evolution of Recurrent Neural Networks to Control Autonomous Life Agents}, 
+   booktitle = {Proceedings of 2001 Genetic and Evolutionary Computation Conference Workshop Program: Graduate Student Workshop}, 
+   year = {2001}, 
+   editor = {L. Spector and E. Goodman and A. Wu and W.B. Langdon and H.-M. Voigt and M. Gen and S. Sen and M. Dorigo and S. Pezeshk and M. Garzon and E. Burke}, 
+   pages = { 385--388}, 
+   address = {San Francisco, California}, 
+   month = {July 7-11}, 
+   file = {Paper:/papers/abou-assaleh_gecco01-gsw.pdf:PDF:}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Zhang, J., & Cercone, N. (2001). Evolution of Recurrent Neural Networks to Control Autonomous Life Agents. In Proceedings of 2001 Genetic and Evolutionary Computation Conference Workshop Program: Graduate Student Workshop, San Francisco, California.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2001a, 
+   author = {Tony Abou-Assaleh and Jianna Zhang and Nick Cercone}, 
+   title = {Evolution of Recurrent Neural Networks to Control Autonomous Life Agents}, 
+   booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference, GECCO-2001}, 
+   year = {2001}, 
+   editor = {L. Spector and E. Goodman and A. Wu and W.B. Langdon and H.-M. Voigt and M. Gen and S. Sen and M. Dorigo and S. Pezeshk and M. Garzon and E. Burke}, 
+   pages = {903}, 
+   address = {San Francisco, California}, 
+   month = {July 7-11}, 
+   publisher = {Morgan Kaufmann Publishers}, 
+   file = {Paper:/papers/abou-assaleh_gecco01.pdf:PDF:}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Zhang, J., & Cercone, N. (2001). Evolution of Recurrent Neural Networks to Control Autonomous Life Agents. In Proceedings of the Genetic and Evolutionary Computation Conference, GECCO-2001, San Francisco, California.
+
+[bib]@INPROCEEDINGS{Abou-Assaleh2000a, 
+   author = {Tony Abou-Assaleh and Jianna Zhang}, 
+   title = {Autonomous Life Agent Using Recurrent Neural Networks and Genetic Algorithms}, 
+   booktitle = {Proceedings of Late Breaking Papers at the Genetic and Evolutionary Computation Conference, GECCO-2000}, 
+   year = {2000}, 
+   pages = {1--5}, 
+   address = {Las Vegas, Nevada, USA}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., & Zhang, J. (2000). Autonomous Life Agent Using Recurrent Neural Networks and Genetic Algorithms. In Proceedings of Late Breaking Papers at the Genetic and Evolutionary Computation Conference, GECCO-2000, Las Vegas, Nevada, USA.
+
+[bib]@PHDTHESIS{Abou-Assaleh2008b, 
+   author = {Abou-Assaleh, Tony}, 
+   title = {Probabilistic Relaxed Unification Formalism and Its Application to Question Answering}, 
+   school = {Faculty of Computer Science, Dalhousie University}, 
+   year = {2008}, 
+   type = {Ph.D. Thesis}, 
+   address = {Halifax, Nova Scotia, Canada}, 
+   month = {August}, 
+   file = {Thesis:/papers/abou-assaleh_phd-thesis08.pdf:PDF;Slides:/papers/abou-assaleh_phd-slides08.pdf:PDF}, 
+   #file = {Slides:/papers/abou-assaleh_phd-slides08.pdf:PDF}, 
+   owner = {taa}, 
+   timestamp = {2008.09.01}
+}[/bib]Abou-Assaleh, T. ((2008). Probabilistic Relaxed Unification Formalism and Its Application to Question Answering.). Unpublished PhD Thesis , Halifax, Nova Scotia, Canada.
+
+[bib]@PHDTHESIS{Abou-Assaleh2005, 
+   author = {Abou-Assaleh, Tony}, 
+   title = {Applying Head-driven Phrase Structure Grammar With Relaxed Unification to Question Answering}, 
+   school = {Faculty of Computer Science, Dalhousie University}, 
+   year = {2005}, 
+   type = {Ph.D. Thesis Proposal}, 
+   address = {Halifax, Nova Scotia, Canada}, 
+   month = {April}, 
+   file = {Slides:/papers/abou-assaleh_phd-proposal05.ppt:PowerPoint}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T. ((2005). Applying Head-driven Phrase Structure Grammar With Relaxed Unification to Question Answering.). Unpublished PhD Thesis , Halifax, Nova Scotia, Canada.
+
+[bib]@MASTERSTHESIS{Abou-Assaleh2002, 
+   author = {Tony Abou-Assaleh}, 
+   title = {Theory of Relaxed Unification -- Proposal}, 
+   school = {School of Computer Science, University of Waterloo}, 
+   year = {2002}, 
+   type = {Master's Thesis}, 
+   address = {Waterloo, Ontario, Canada}, 
+   month = {December}, 
+   file = {Thesis:/papers/abou-assaleh_master_thesis.ps:PostScript:}, 
+   owner = {taa}
+}[/bib]Abou-Assaleh, T. ((2002). Theory of Relaxed Unification — Proposal.). Unpublished Master’s Dissertation , Waterloo, Ontario, Canada.
+
+[bib]@TECHREPORT{Abou-Assaleh2006a, 
+   author = {Tony Abou-Assaleh}, 
+   title = {Grep and Regular Expressions}, 
+   institution = {Toronto Linux User Group (TLUG)}, 
+   year = {2006}, 
+   type = {Invited Presentation}, 
+   address = {Toronto, Ontario}, 
+   month = {March}, 
+   owner = {taa}, 
+   timestamp = {2008.03.02}
+}[/bib]Abou-Assaleh, T. (2006). Grep and Regular Expressions (Invited Presentation). Toronto, Ontario: Toronto Linux User Group (TLUG).
+
+[bib]@TECHREPORT{Abou-Assaleh2006, 
+   author = {Tony Abou-Assaleh}, 
+   title = {Building a Web Search Engine}, 
+   institution = {Burapha University}, 
+   year = {2006}, 
+   type = {Invited presentation}, 
+   address = {Chonburi, Thailand}, 
+   month = {December}, 
+   note = {Invited Presentation}, 
+   howpublished = {Invited presentation, Burapha University, Chonburi, Thailand}, 
+   organization = {Burapha University}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T. (2006). Building a Web Search Engine (Invited presentation). Chonburi, Thailand: Burapha University.
+
+[bib]@TECHREPORT{Abou-Assaleh2005a, 
+   author = {Tony Abou-Assaleh and Oliver Baltzer and Chris Jordan and Philip O'Brien and and Hathai Tanta-ngai}, 
+   title = {Collaborative, Distributed Information Management and Retrieval Architecture for the Enterprises}, 
+   institution = {Faculty of Computer Science, Dalhousie University}, 
+   year = {2005}, 
+   type = {Technical Report}, 
+   number = {CS2005-13}, 
+   address = {Halifax, Nova Scotia, Canada}, 
+   month = {August}, 
+   file = {Report:/papers/abou-assaleh_CS-2005-13.pdf:PDF:}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., Baltzer, O., Jordan, C., O’Brien, P., & and Tanta-ngai, H. (2005). Collaborative, Distributed Information Management and Retrieval Architecture for the Enterprises (Technical Report No. CS2005-13). Halifax, Nova Scotia, Canada: Faculty of Computer Science, Dalhousie University.
+
+[bib]@TECHREPORT{Abou-Assaleh2004, 
+   author = {Tony Abou-Assaleh and Wei Ai}, 
+   title = {Survey of Global Regular Expression Print (GREP) Tools}, 
+   institution = {Faculty of Computer Science, Dalhousie University}, 
+   year = {2004}, 
+   type = {Topics in Program Comprehension (CSCI 6306)}, 
+   address = {Halifax, Nova Scotia, Canada}, 
+   month = {March}, 
+   edition = {Topics in Program Comprehension (CSCI 6306)}, 
+   howpublished = {Topics in Program Comprehension (CSCI 6306)}, 
+   organization = {Faculty of Computer Science, Dalhousie University}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., & Ai, W. (2004). Survey of Global Regular Expression Print (GREP) Tools (Topics in Program Comprehension (CSCI 6306)). Halifax, Nova Scotia, Canada: Faculty of Computer Science, Dalhousie University.
+
+[bib]@TECHREPORT{Abou-Assaleh2004a, 
+   author = {Tony Abou-Assaleh and Wei Ai}, 
+   title = {Enhancing GNU grep}, 
+   institution = {Faculty of Computer Science, Dalhousie University}, 
+   year = {2004}, 
+   type = {Final Project Report, Topics in Program Comprehension (CSCI 6306)}, 
+   address = {Halifax, Nova Scotia, Canada}, 
+   month = {April}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., & Ai, W. (2004). Enhancing GNU grep (Final Project Report, Topics in Program Comprehension (CSCI 6306)). Halifax, Nova Scotia, Canada: Faculty of Computer Science, Dalhousie University.
+
+[bib]@TECHREPORT{Abou-Assaleh2001, 
+   author = {Abou-Assaleh, Tony}, 
+   title = {Evolution of Recurrent Neural Networks to Control Autonomous Life Agents}, 
+   institution = {Department of Computer Science, University of Waterloo}, 
+   year = {2001}, 
+   type = {Technical Report}, 
+   number = {CS-2001-22}, 
+   address = {Waterloo, Ontario, Canada}, 
+   month = {October}, 
+   file = {Report:/papers/abou-assaleh_CS-2001-22.pdf:PDF:}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T. (2001). Evolution of Recurrent Neural Networks to Control Autonomous Life Agents (Technical Report No. CS-2001-22). Waterloo, Ontario, Canada: Department of Computer Science, University of Waterloo.
+
+[bib]@TECHREPORT{Abou-Assaleh2000, 
+   author = {Tony Abou-Assaleh and Jianna Zhang}, 
+   title = {Autonomous Life Agent Using Recurrent Neural Networks and Genetic Algorithms}, 
+   institution = {Department of Computer Science, Brock University}, 
+   year = {2000}, 
+   type = {Technical Report}, 
+   number = {CS-00-03}, 
+   address = {St. Catharines, Ontario, Canada}, 
+   month = {November}, 
+   file = {Report:/papers/abou-assaleh_cs0003.pdf:PDF:}, 
+   owner = {taa}, 
+   timestamp = {2008.03.01}
+}[/bib]Abou-Assaleh, T., & Zhang, J. (2000). Autonomous Life Agent Using Recurrent Neural Networks and Genetic Algorithms (Technical Report No. CS-00-03). St. Catharines, Ontario, Canada: Department of Computer Science, Brock University.
+

@@ -1,0 +1,16 @@
+* text eol=lf
+
+.gitattributes export-ignore text
+.gitignore export-ignore text
+
+*.h export-subst text eol=lf
+*.cc export-subst text eol=lf
+Makefile export-subst text eol=lf
+*.gpi export-subst text eol=lf
+
+*.png binary export-ignore
+*.pdf binary
+*.dat text eol=lf
+
+*.odt binary export-ignore
+*.vsdx binary export-ignore

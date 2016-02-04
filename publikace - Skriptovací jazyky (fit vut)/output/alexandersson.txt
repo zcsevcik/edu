@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Alexandersson>
+  <Thesis>
+    <Author>Jan Alexandersson</Author>
+    <Title>Abstract Interpretation of Logic Programs with External Functions - an Implementation</Title>
+    <Type>Master thesis</Type>
+    <School>Linköping University</School>
+    <Address>Sweden</Address>
+    <Month>August</Month>
+    <Year>1993</Year>
+  </Thesis>
+  <Thesis>
+    <Author>Jan Alexandersson</Author>
+    <Title>Hybrid Discourse Modelling and Summarization for a Speech-to-Speech Translation System</Title>
+    <Type>Phd thesis</Type>
+    <School>Universtität des Saarlandes</School>
+    <Address>Germany</Address>
+    <Month>December</Month>
+    <Year>2003</Year>
+  </Thesis>
+  <Articles>
+    <Author>Norbert Pfleger and Jan Alexandersson </Author>
+    <Title>Modeling Non-Verbal Behavior in Multimodal Conversational Systems</Title>
+  </Articles>
+  <Articles>
+    <Author>Jan Alexandersson </Author>
+    <Title>i2home - Towards a Universal Home Environment for Elderly and Disabled</Title>
+  </Articles>
+  <Articles>
+    <Author>Kamel Boulos MN, Lou RC, Anastasiou A, Nugent CD, Alexandersson J, Zimmermann G, Cortes U, Casas R. </Author>
+    <Title>Connectivity for healthcare and well-being management: examples from six European projects.</Title>
+  </Articles>
+  <Articles>
+    <Author>Ingo Zinnikus, Klaus Fischer, Jan Alexandersson and Unai Diaz. </Author>
+    <Title>Bringing the Elderly Into the Mainstream of E-Society: The VITAL Project</Title>
+  </Articles>
+  <Articles>
+    <Author>Christoph Stahl, Jochen Frey, Jan Alexandersson and Boris Brandherm. </Author>
+    <Title>Synchronized Realities</Title>
+  </Articles>
+  <Articles>
+    <Author>Gorka Epelde, Eduardo Carrasco, Gottfried Zimmermann, Jan Alexandersson, Robert Neßelrath und Markus Dubielzig. </Author>
+    <Title>Universal Remote Console-based next-generation accessible television</Title>
+  </Articles>
+  <Book-Chapters>
+    <Author>Jan Alexandersson, Ralf Engel, Michael Kipp, Stephan Koch, Uwe Küssner, Norbert Reithinger and Manfred Stede. (2000). </Author>
+    <Title>Dialog Processing and Context Evaluation Modeling Negotiation Dialogs.</Title>
+  </Book-Chapters>
+  <Book-Chapters>
+    <Author>Michael Kipp, Jan Alexandersson, Ralf Engel and Norbert Reithinger. (2000). </Author>
+    <Title>Dialog Processing.</Title>
+  </Book-Chapters>
+  <Book-Chapters>
+    <Author>Jan Alexandersson, Peter Poller and Michael Kipp </Author>
+    <Title>Generating Multilingual Dialog Summaries and Minutes.</Title>
+  </Book-Chapters>
+  <Book-Chapters>
+    <Author>Jan Alexandersson and Norbert Pfleger. (2006). </Author>
+    <Title>Discourse Modeling.</Title>
+  </Book-Chapters>
+  <Book-Chapters>
+    <Author>Jan Alexandersson, Tilman Becker and Norbert Pfleger. (2006). </Author>
+    <Title>Overlay.</Title>
+  </Book-Chapters>
+  <Book-Chapters>
+    <Author>Jan Alexandersson and Tilman Becker. (2007). </Author>
+    <Title>Efficient Computation of Overlay for Multiple Inheritance Hierarchies in Discourse Modeling</Title>
+  </Book-Chapters>
+  <Book-Chapters>
+    <Author>Zimmermann, G.; Alexandersson, J.; Buiza, C.; Urdaneta, E.; Diaz, U.; Carrasco, E.; Klima, M. &amp; Pfalzgraf, A. Meeting the Needs of Diverse User Groups: Benefits and Costs of Pluggable User Interfaces in Designing for Older People and People with Cognitive Impairments. To appear in: Soar, J. &amp; Swindell, R.: </Author>
+    <Title>Intelligent Technologies for the Aged - The Grey Digital Divide.</Title>
+  </Book-Chapters>
+  <Book-Chapters>
+    <Author>Fagerberg, G., Kung, A., Wichert, R., Tazari, M.-R., Jean-Bart, Br., Bauer, G., Zimmermann, G., Furfari, F., Potortì, F., Chessa, S., Hellenschmidt, M., Gorman, J., Alexandersson, J., Bund, J., Carrasco, E., Epelde, G., Klíma, M., Urdaneta, E., Vanderheiden, G., &amp; Zinnikus, I. (Nov. 2010). </Author>
+    <Title>Platforms for AAL Applications.</Title>
+  </Book-Chapters>
+  <Conference-Papers>
+    <Author>Jan Alexandersson, Elisabeth Maier and Norbert Reithinger. </Author>
+    <Title>A Robust and Efficient Three-Layered Dialog Component for a Speech-to-Speech Translation System</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Jan Alexandersson, Norbert Reithinger, Elisabeth Maier. </Author>
+    <Title>Insights into the Dialogue Processing of VERBMOBIL.</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Jan Alexandersson, Peter Poller, Michael Kipp and Ralf Engel. </Author>
+    <Title>Multilingual Summary Generation in a Speech--To--Speech Translation System for Multilingual Dialogues</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Norbert Reithinger, Michael Kipp, Ralf Engel and Jan Alexandersson </Author>
+    <Title>Summarizing Multilingual Spoken Negotiation Dialogues</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Paul Buitelaar, Jan Alexandersson, Tilman Jaeger, Stephan Lesch, Norbert Pfleger, Diana Raileanu, Tanja von den Berg, Kerstin Klöckner, Holger Neis, Hubert Schlarb </Author>
+    <Title>An Unsupervised Semantic Tagger Applied to German</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Norbert Pfleger, Jan Alexandersson, and Tilman Becker. </Author>
+    <Title>Scoring Functions for Overlay and their Application in Discourse Processing</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Norbert Reithinger, Jan Alexandersson, Tilman Becker, Anselm Blocher, Ralf Engel, Markus Löckelt, Jochen Müller, Norbert Pfleger, Peter Poller, Michael Streit and Valentin Tschernomas </Author>
+    <Title>SmartKom - Adaptive and Flexible Multimodal Access to Multiple Applications</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Jan Alexandersson, Tilman Becker and Norbert Pfleger. </Author>
+    <Title>Scoring for Overlay based on Informational Distance</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Jan Alexandersson, Kai Richter and Stephanie Becker. </Author>
+    <Title>I2HOME: Benutzerzentrierte Entwicklung einer offenen standardbasierten Smart Home Plattform.</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Martin Klima, Miroslav Macik, Elena Urdaneta, Cristina Buiza, Eduardo Carrasco, Gorka Epelde and Jan Alexandersson. </Author>
+    <Title>User Interfaces for the Digital Home on the basis of Open Industrial Standards</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Robert Nesselrath, Christian Schulz, Jan Schehl, Alexander Pfalzgraph, Norbert Pfleger, Verena Stein and Jan Alexandersson: </Author>
+    <Title>Homogeneous Multimodal Access to the Digital Home for People with Cognitive Disabilities.</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Jan Alexandersson, Gottfried Zimmermann and Jürgen Bund. </Author>
+    <Title>User Interfaces for AAL: How Can I Satisfy All Users?</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author/>
+    <Title/>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Christian Schulz, Jan Alexandersson and Tilman Becker. </Author>
+    <Title>Well-formed Unification in Non-deterministic Multiple Inheritance Hierarchies</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Gorka Epelde, Eduardo Carrasco, Gottfried Zimmermann, Juergen Bund, Markus Dubielzig and Jan Alexandersson: </Author>
+    <Title>URC-Based Accessible TV.</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Harry Bunt, Jan Alexandersson, Jean Carletta, Jae-Woong Choe, Alex Chengyu Fang, Koiti Hasida, Kiyong Lee, Volha Petukhova, Andrei Popescu, Claudia Soria, and David Traum: </Author>
+    <Title>Towards an ISO standard for dialogue act annotation.</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author/>
+    <Title/>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Jürgen Bund, Gregg Vanderheiden, Gottfried Zimmermann, Ingo Zinnikus, Jan Alexandersson, Martin Klima, Eduardo Carrasco, Gorka Epelde and Elena Urdaneta. </Author>
+    <Title>openURC: standardisation towards "User Interfaces for Everyone, Everywhere, on Anything."</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Jochen Frey, Christoph Stahl, Thomas Röfer, Bernd Krieg-Brückner and Jan Alexandersson. </Author>
+    <Title>The DFKI Competence Center for Ambient Assisted Living.</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author/>
+    <Title/>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author/>
+    <Title/>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Epelde, G., Carrasco, E., Rajasekharan, S., Zimmermann, G. Alexandersson, J., Bund, J., &amp; Vanderheiden, G. (Jun. 2012). Open Standards Based Public Procurement Policy For Large Market Uptake And New Entrants Barrier Lowering. In: Proceedings of the </Author>
+    <Title>AAL Summit 2012</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Bunt H., Alexandersson J., Choe J.-W., Fang A.C., Hasida K., Petukhova V., Popescu-Belis A., Soria C. &amp; Traum D. (2012) - ISO 24617-2: A Semantically-Based Standard for Dialogue Annotation. </Author>
+    <Title>Proceedings of LREC 2012 (8th International Conference on Language Resources and Evaluation), Istanbul</Title>
+  </Conference-Papers>
+  <Conference-Papers>
+    <Author>Daniel Bieber, Jan Alexandersson, and Kathleen Schwarz. </Author>
+    <Title>Das Mobia-Projekt: Die Kombination von Dienstleistung und Technologie für den ÖPNV.</Title>
+  </Conference-Papers>
+  <Workshop-Papers>
+    <Author>Jan Alexandersson. </Author>
+    <Title>Plan Recognition in Verbmobil</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Norbert Reithinger, Elisabeth Maier and Jan Alexandersson. </Author>
+    <Title>Treatment of Incomplete Dialogs in a Speech-to-Speech Translation System</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jan Alexandersson and Norbert Reithinger. </Author>
+    <Title>"Designing the Dialogue Component in a Speech Translation System -- a Corpus Based Approach"</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jan Alexandersson. </Author>
+    <Title>Some ideas for the automatic aquisition of Dialogue Structure</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Joachim Quantz and Jan Alexandersson: </Author>
+    <Title>Word-Lattice Parsing Based on Heterogeneous Information Sources</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Elisabeth Maier, Norbert Reithinger and Jan Alexandersson: </Author>
+    <Title>Clarification Dialogues as Measure to Increase Robustness in a Spoken Dialogue System</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jan Alexandersson and Peter Poller. </Author>
+    <Title>Towards Multilingual Protocol Generation For Spontaneous Speech Dialogues</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Michael Kipp, Jan Alexandersson and Norbert Reithinger. </Author>
+    <Title>Understanding Spontaneous Negotiation Dialogue</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Mark Seligman, Jan Alexandersson and Kristiina Jokinen. </Author>
+    <Title>Tracking Morphological and Semantic Co-occurrences in Spontaneous Dialogues</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jan Alexandersson and Paul Heisterkamp. </Author>
+    <Title>Some Notes on the Complexity of Dialogues (ps)</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jan Alexandersson and Tilman Becker. </Author>
+    <Title>Overlay as the Basic Operation for Discourse Processing in a Multimodal Dialogue System</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Markus Loeckelt, Tilman Becker, Norbert Pfleger and Jan Alexandersson </Author>
+    <Title>Making Sense of Partial</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jan Alexandersson, and Tilman Becker. </Author>
+    <Title>The Formal Foundations Underlying Overlay</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Iryna Gurevych, Robert Porzel, Elena Slinko, Norbert Pfleger, Jan Alexandersson, and Stefan Merten. </Author>
+    <Title>Less is More: Using a Single Knowledge Representation in Dialogue Systems</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Norbert Pfleger, Jan Alexandersson and Tilman Becker </Author>
+    <Title>A Robust and Generic Discourse Model for Multimodal Dialogue</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Porzel, R., Pfleger N., Merten, S., Loeckelt M., Gurevych, I., Engel, R. and Alexandersson, J. </Author>
+    <Title>More on Less: Further Applications of Ontologies in Multi-Modal Dialogue Systems.</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Norbert Pfleger, Ralf Engel and Jan Alexandersson </Author>
+    <Title>Robust Multimodal Discourse Processing</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jan Alexandersson, Tilman Becker, Ralf Engel, Markus Löckelt, Elsa Pecourt, Peter Poller, Norbert Pfleger Norbert Reithinger. </Author>
+    <Title>Ends-based Dialogue Processing.</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Christian H. Schulz, Dmitri Rubinstein, Dimitris Diamantakos, Michael Kaisser, Jan Schehl, Massimo Romanelli, Thomas Kleinbauer, Andreas Klüter, Dietrich Klakow, Tilman Becker and Jan Alexandersson. </Author>
+    <Title>A Spoken Language Front-end for a Multilingual Music Data Base</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Massimo Romanelli, Tilman Becker and Jan Alexandersson. </Author>
+    <Title>On Plurals for Overlay</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Stephan Lesch, Thomas Kleinbauer and Jan Alexandersson. </Author>
+    <Title>Towards a Decent Recognition Rate for the Automatic Classification of a Multidimensional Dialogue Act Tagset</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Norbert Pfleger and Jan Alexandersson. </Author>
+    <Title>Towards Resolving Referring Expression by Implicitly Activated Referents in Practical Dialogue Systems</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jana Besser and Jan Alexandersson. </Author>
+    <Title>A Comprehensive Disfluency Model for Multi-Party Interaction</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Robert Nesselrath and Jan Alexandersson. </Author>
+    <Title>A 3D Gesture Recognition System for Multimodal Dialog Systems</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Ane Murua, Xabier Valencia, Eduardo Carrasco, Gottfried Zimmermann, Jürgen Bund, Bruno Rosa, Jan Alexandersson and Unai Díaz. </Author>
+    <Title>Universally Accessible Task-Based User Interfaces</Title>
+  </Workshop-Papers>
+  <Workshop-Papers>
+    <Author>Jochen Frey, Thomas Gard and Jan Alexandersson. </Author>
+    <Title>User-Centred Tool Support - Developing User Interfaces for Persons with Special Needs</Title>
+  </Workshop-Papers>
+  <Posters>
+    <Author>Stephan Lesch, Thomas Kleinbauer and Jan Alexandersson. </Author>
+    <Title>A New Metric for the Evaluation of Dialog Act Classification</Title>
+  </Posters>
+  <Posters>
+    <Author>Christoph Lauer, Jochen Frey, Benjamin Lang, Tilman Becker, Thomas Kleinbauer and Jan Alexandersson. </Author>
+    <Title>AmiGram---a General-Purpose Tool for Multimodal Corpus Annotation</Title>
+  </Posters>
+  <Posters>
+    <Author>Harald Lochert, Jan Alexandersson, Tilman Becker and Thomas Kleinbauer </Author>
+    <Title>OntoMatters---Ontology-Based Representation of Multi-modal Multi-party Interaction</Title>
+  </Posters>
+  <Posters>
+    <Author>Jochen Frey, Christian Schulz, Robert Nesselrath, Verena Stein, and Jan Alexandersson. </Author>
+    <Title>Towards Pluggable User Interfaces for People with Cognitive Disabilities</Title>
+  </Posters>
+  <Posters>
+    <Author>Jochen Frey, Robert Nesselrath, Christian Schulz and Jan Alexandersson. SensHome: Towards A Corpus for Everyday Activities in Smart Homes. In Proceedings of "Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality", A WS at </Author>
+    <Title>7th International Conference on Language Resources and Evaluation - LREC 2010</Title>
+  </Posters>
+  <Posters>
+    <Author/>
+    <Title/>
+  </Posters>
+  <Posters>
+    <Author/>
+    <Title/>
+  </Posters>
+  <Posters>
+    <Author/>
+    <Title/>
+  </Posters>
+  <Reports-and-Memos>
+    <Author>Jan Alexandersson, Bianka Buschbeck-Wolf, Tsutomu Fujinami, Michael Kipp, Stefan Koch, Elisabeth Maier, Norbert Reithinger, Birte Schmitz, Melanie Siegel. </Author>
+    <Title>Dialogue Acts in Verbmobil-2 -- Second Edition</Title>
+  </Reports-and-Memos>
+  <Reports-and-Memos>
+    <Author>For more reports, see also </Author>
+    <Title>The VerbMobil Project</Title>
+  </Reports-and-Memos>
+  <Standards>
+    <Author>ISO (2012). </Author>
+    <Title>Language resource management - Semantic annotation framework - Part 2: Dialogue acts. ISO DIS 24617-2.</Title>
+  </Standards>
+  <Demonstrations>
+    <Author>Jochen Frey, Simon Bergweiler, Jan Alexandersson, Ehsan Gholamsaghaee, Norbert Reithinger, and Christoph Stahl. </Author>
+    <Title>SmartCase: A Smart Home Environment in a Suitcase</Title>
+  </Demonstrations>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Editorials>
+    <Author>Jan Alexandersson, </Author>
+    <Title>Lars Ahrenberg</Title>
+  </Editorials>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Editorials>
+    <Author>Jan Alexandersson and Alistair Knott (eds): </Author>
+    <Title>Proceedings of the 7th SIGdial Workshop on Discourse and Dialogue</Title>
+  </Editorials>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Editorials>
+    <Author/>
+    <Title/>
+  </Editorials>
+  <Invited-Talks-etc>
+    <Author>SCANALU 2002, </Author>
+    <Title>Experiences from Large NLP Projects</Title>
+  </Invited-Talks-etc>
+  <Invited-Talks-etc>
+    <Author/>
+    <Title>The 24th Edition of the Spanish Society for Natural Language Processing (SEPLN 2008)</Title>
+  </Invited-Talks-etc>
+  <Invited-Talks-etc>
+    <Author/>
+    <Title>1. Saarländischer Fachkongress Ambient Assisted Living</Title>
+  </Invited-Talks-etc>
+  <Invited-Talks-etc>
+    <Author>Trend Seminar </Author>
+    <Title>Ambient Assisted Living: IT-Unterstützung für ein Selbstbestimmtes Altern (IT support for ageing well)</Title>
+  </Invited-Talks-etc>
+  <Invited-Talks-etc>
+    <Author/>
+    <Title>Aktivitäten und Visionen im Kompetenzzentrum AAL am Deutschen Forschungszentrum für Künstliche Intelligenz - DFKI GmbH</Title>
+  </Invited-Talks-etc>
+  <Invited-Talks-etc>
+    <Author/>
+    <Title>Swedish Language Technology Conference (SLTC-2010)</Title>
+  </Invited-Talks-etc>
+  <Invited-Talks-etc>
+    <Author>CEBiT 2013: </Author>
+    <Title>From Smart Home to Smart Everywhere</Title>
+  </Invited-Talks-etc>
+  <Service-on-External-Thesis-Committees>
+    <Author/>
+    <Title/>
+  </Service-on-External-Thesis-Committees>
+  <Service-on-External-Thesis-Committees>
+    <Author/>
+    <Title/>
+  </Service-on-External-Thesis-Committees>
+  <Service-on-External-Thesis-Committees>
+    <Author/>
+    <Title/>
+  </Service-on-External-Thesis-Committees>
+  <Service-on-External-Thesis-Committees>
+    <Author/>
+    <Title/>
+  </Service-on-External-Thesis-Committees>
+  <Miscellaneous>
+    <Author/>
+    <Title>Interview</Title>
+  </Miscellaneous>
+  <Miscellaneous>
+    <Author/>
+    <Title>Interview</Title>
+  </Miscellaneous>
+</Alexandersson>

@@ -1,0 +1,1016 @@
+[bib]http://coleweb.dc.fi.udc.es/cole/library/bib/Alo2000a.bib[/bib] Miguel A. Alonso,
+     "Interpretación tabular de autómatas para lenguajes de adjunción de árboles", 
+     PhD. Thesis, 
+     Departamento de Computación, 
+     Universidade da Coruña, 
+     Spain, 2000 (491 pp).
+     [Información en español]
+     [Information in English]
+     [bibTeX reference]
+
+     
+
+     PhD. dissertation abstract in: Miguel A. Alonso,
+     "Interpretación tabular de autómatas para lenguajes de adjunción de árboles",
+     Procesamiento del Lenguaje Natural, 28:119-120, 2002. ISSN 1135-5948.
+
+[bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAloVal96.bib[/bib] Manuel Vilares, 
+     Miguel A. Alonso
+     and 
+     Alberto Valderruten,
+     "Programación Lógica", second edition,
+     Editorial Tórculo, Santiago de Compostela, Spain, 1996. 
+     ISBN  84-89641-18-8 (252 pp).
+
+[bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAloVal94.bib[/bib] Manuel Vilares, 
+     Miguel A. Alonso
+     and 
+     Alberto Valderruten,
+     "Programación Lógica",
+     Editorial Tórculo, Santiago de Compostela, Spain, 1994. ISBN 84-88967-36-5 (200 pp).
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/Alo94.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/Alo94.bib[/bib] Miguel A. Alonso,
+     "Edición Interactiva en Entornos Incrementales",
+     Master's Thesis,
+     Facultade de Informática,
+    Universidade da Coruña, Spain, 1994 (224 pp).
+
+
+
+
+
+ David Vilares,
+       Miguel A. Alonso and
+       Carlos Gómez-Rodríguez,
+    "On the usefulness of lexical and syntactic processing in polarity classification of Twitter messages",
+	Journal of the Association for Information Science and Technology (JASIST), 2014. ISSN 1532-2882. 
+
+[url]http://www.grupolys.org/biblioteca/VilAloGom2013b.pdf[/url] David Vilares,
+       Miguel A. Alonso and
+       Carlos Gómez-Rodríguez,
+    "Supervised polarity classification of Spanish tweets based on linguistic knowledge",
+    in DocEng'13. Proceedings og the 13th ACM Symposium on Document Engineering. September 10-13, 2013. Florence, Italy, pp. 169-172, ACM Press, New York, USA, 2013. ISBN 978-1-4503-1789-4. DOI 10.1145/2494266.2494300
+
+[url]http://www.grupolys.org/biblioteca/VilAloGom2013c.pdf[/url] David Vilares,
+       Miguel A. Alonso and
+       Carlos Gómez-Rodríguez,
+    "Una aproximación supervisada para la minería de opiniones sobre tuits en español en base a conocimiento lingüístico",
+    Procesamiento del Lenguaje Natural, 51:127-134, 2013. ISSN 1135-5948.
+
+[url]http://www.grupolys.org/biblioteca/VilAloGom2013e.pdf[/url] David Vilares,
+       Miguel A. Alonso and
+       Carlos Gómez-Rodríguez,
+    "LyS at TASS 2013: Analysing Spanish tweets by means of dependency parsing, semantic-oriented lexicons and psychometric word-properties",
+    in Alberto Díaz Esteban, Iñaki Alegría Loinaz and Julio Villena Román (eds.), XXIX Congreso de la Sociedad Española de Procesamiento de lenguaje natural (SEPLN 2013). TASS 2013 - Workshop on Sentiment Anslysis at SEPLN 2013, pp. 179-186, Madrid, Spain, 2013. ISBN: 978-84-695-8349-4.
+
+ Jesús Vilares,  
+       Miguel A. Alonso and 
+       David Vilares, 
+    "Prototipado Rápido de un Sistema de Normalización de Tuits: Una Aproximación Léxica",
+    In Proc. of Tweet Normalization Workshop at SEPLN 2013 (Tweet-norm 2013), Madrid, Spain, 2013. 
+
+[url]http://www.grupolys.org/biblioteca/VilAloGom2013d.pdf[/url] David Vilares,
+       Miguel A. Alonso and
+       Carlos Gómez-Rodríguez,
+    "A syntactic approach for opinion mining on Spanish reviews",
+    Natural Language Engineering, 2013. ISSN 1351-3249. DOI 10.1017/S1351324913000181
+
+[url]http://www.grupolys.org/biblioteca/VilAloGom2013a.pdf[/url] David Vilares,
+       Miguel A. Alonso and
+       Carlos Gómez-Rodríguez,
+    "Clasificación de polaridad en textos con opiniones en español mediante análisis sintáctico de dependencias",
+    Procesamiento del Lenguaje Natural, 50, 2013. ISSN 1135-5948.
+
+[url]http://www.grupolys.org/biblioteca/VilAloGomGra2010a.pdf[/url] Jesús Vilares,
+       Miguel A. Alonso,
+       Carlos Gómez-Rodríguez and
+       Jorge Graña,
+     "RI con n-gramas: tolerancia a errores y multilingüismo",
+     in David E. Losada, Pablo Castells and Juan M. Fernández-Luna (eds.), Actas del I Congreso Español de Recuperación de Información. CERI 2010. Proceedings of the 1st Spanish Conference on Information Retrieval, pp. 231-242, Madrid, Spain, 2010. ISBN 978-84-693-2200-0.
+
+ Jesús Vilares,
+     Miguel A. Alonso and
+     Manuel Vilares,
+     "Extraction of Complex Index Terms in Non-English IR: A Shallow Parsing Based Approach",
+     Information Processing & Management, 44(4):1517-1537, 2008. ISSN 0306-4573. DOI 10.1016/j.ipm.2007.12.005
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilGomAlo2005a.pdf[/url] Jesús Vilares,
+     Carlos Gómez-Rodríguez
+     and Miguel A. Alonso,
+     "Managing Syntactic Variation in Text Retrieval",
+     in 
+     Proc. of  the 
+        Fifth ACM Symposium on Document Engineering (ACM DocEng 2005),
+     Bristol, United Kingdom, 2005.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloVil2004a.pdf[/url] Jesús Vilares,
+     Miguel A. Alonso
+     and Manuel Vilares,
+     "Morphological and syntactic  processing for Text Retrieval",
+     in 
+        Database and Expert Systems Applications
+        , 
+        volume 
+        of 
+                          Lecture Notes in Computer Science,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2004. ISSN 0302-9743.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo2003c.pdf[/url] Jesús Vilares
+     and Miguel A. Alonso,
+     "A Grammatical Approach to the Extraction of Index Terms",
+        in Galia Angelova, Kalina Bontcheva, Ruslan Mitkov, Nicolas Nicolov and Nikolai Nikolov (eds.), 
+     
+     
+        International Conference on Recent Advances in Natural Language Processing, Proceedings,  pp. 500-504,
+     Borovets, Bulgaria, 2003. ISBN 954-90906-6-3.
+
+  Francisco J. Ribadas,
+     Jesús Vilares,
+     and Miguel A. Alonso,
+    "Integrating syntactic information by means of data fusion techniques",
+     in  Roberto Moreno Díaz, Franz Pichler, and Alexis Quesada Arencibia (eds.), 
+     Computer Aided Systems Theory,
+     volume 3643  
+     of    
+           Lecture Notes in Computer Science, pp. 169-178,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2005. ISSN 0302-9743 /ISBN 3-540-29002-8.
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo2003a.pdf[/url] Jesús Vilares
+     and Miguel A. Alonso,
+     "Un enfoque gramatical para la extracción de términos índice",
+     Procesamiento del Lenguaje Natural, 31:243-250, 2003. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo2003b.pdf[/url] Jesús Vilares
+     and Miguel A. Alonso,
+     "Extracción de términos índice mediante cascadas de expresiones regulares",
+     in Actas de las
+     
+        II Jornadas de Tratamiento y recuperación de Información (JOTRI 2003), pp. 204-211,
+     Leganés (Madrid), Spain, 2003. ISBN 84-89315-33-7.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloVilDar2002a.pdf[/url] Miguel A. Alonso,
+     Jesús Vilares,
+     and Víctor M. Darriba,
+     "On the Usefulness of Extracting Syntactic Dependencies for Text Indexing", 
+     in Michael O'Neill, Richard F. E. Sutcliffe, Conor Ryan, Malachy Eaton and Niall J. L. Griffith (eds.), 
+     
+        Artificial Intelligence and Cognitive Science, 
+     volume 2464  
+     of    
+           Lecture Notes in Artificial Intelligence, pp. 3-11,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2002.  ISSN 0302-9743 / ISBN 3-540-44184-0.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilBarAlo2002a.pdf[/url] Jesús Vilares,
+     Fco. Mario Barcala,
+     and Miguel A. Alonso,
+     "Using syntactic dependency-pairs conflation to improve retrieval performance in Spanish", 
+     in   Alexander Gelbukh (ed.), 
+     
+        Computational Linguistics and Intelligent Text Processing, 
+     volume 2276  
+     of    
+           Lecture Notes in Computer Science, 
+     pp. 381-390,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2002.  ISSN 0302-9743 / ISBN 3-540-43219-1.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilBarAlo2001a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilBarAlo2001a.bib[/bib] Jesús Vilares,
+     Fco. Mario Barcala,
+     and Miguel A. Alonso,
+     "Normalización de términos multipalabra mediante pares de dependencia sintáctica",
+     Procesamiento del Lenguaje Natural, 27:123-130, 2001. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo2004a.pdf[/url] Jesús Vilares
+     and Miguel A. Alonso,
+     "Dealing with syntactic variation through a locality-based approach",
+     in  Alberto Apostolico and Massimo Melucci (eds.), 
+     
+        String Processing and Information Retrieval, 
+        volume 3246
+        of 
+                          Lecture Notes in Computer Science, pp. 255-266,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2004. ISSN 0302-9743 / ISBN 3-540-23210-9.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilGomAlo2006b.pdf[/url] Jesús Vilares,
+     Carlos Gómez-Rodríguez
+     and Miguel A. Alonso,
+     "Syntactic and pseudo-syntactic approaches for text retrieval",
+     in Vicente P. Guerrero-Bote (ed.), Current Research in Information Sciences and
+              Technologies: multidisciplinary approaches to global
+              information systems. Proceedings of the 
+              First International Conference on Multidisciplinary
+              Information Sciences and Technologies --- InSciT 2006. 
+              October 25-28th, 2006. Mérida, Spain, pp. 104-108,
+     Open Institute of Knowledge, Badajoz, Spain, 2006. ISBN 84-611-3104-5.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo2006a.pdf[/url] Jesús Vilares
+     and Miguel A. Alonso,
+     "Tratamiento de la Variación Sintáctica mediante un Modelo de Recuperación Basado en Localidad",
+     Procesamiento del Lenguaje Natural, 36, 2006. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilGomAlo2006a.pdf[/url] Jesús Vilares,
+     Carlos Gómez-Rodríguez
+     and Miguel A. Alonso,
+     "Enfoques sintáctico y pseudo-sintáctico para la recuperación de información en español",
+     in Alejandro Sobrino and José Ángel Olivas (eds.), 
+     Recuperación de información textual: aspectos lógicos y ecológicos --- Text Information Retrieval: Soft-Computing and Ecological Aspects, pp. 97-104,
+     Servizo de Publicacións e Intercambio Científico, Universidade de Santiago de Compostela, 2006. ISBN 84-9750-525-5.
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/BarVilAloGraVil2002a.pdf[/url] Fco. Mario Barcala, 
+     Jesús Vilares,
+     Miguel A. Alonso,
+     Jorge Graña
+     and Manuel Vilares,
+     "Tokenization and Proper Noun Recognition  for Information Retrieval",
+     presented in 
+     
+        3rd International Workshop on Natural Language and Information Systems (NLIS 2002), published in A Min Tjoa and Roland R. Wagner (eds.), 
+     
+        Thirteen International Workshop on Database and Expert Systems Applications. 2-6 September  2002. Aix-en-Provence, France, pp. 246-250,
+     IEEE Computer Society Press, Los Alamitos, California, USA, 2002. ISSN 1529-4188 / ISBN 0-7695-1668-8.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilCabAlo2001a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilCabAlo2001a.bib[/bib] Jesús Vilares,
+     David Cabrero,
+     and Miguel A. Alonso,
+     "Applying Productive Derivational Morphology to Term Indexing of Spanish Texts",
+     in   Alexander Gelbukh (ed.), 
+     
+        Computational Linguistics and Intelligent Text Processing, 
+        volume 2004 
+        of 
+                          Lecture Notes in Computer Science, pp. 336-348,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2001. ISSN 0302-9743 / ISBN 3-540-41687-0.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilCabAlo2001b.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilCabAlo2001b.bib[/bib] Jesús Vilares,
+     David Cabrero,
+     and Miguel A. Alonso,
+     "Generación automática de familias morfológicas mediante morfología derivativa productiva",
+     Procesamiento del Lenguaje Natural, 27:181-188, 2001. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloRib2004a.pdf[/url] Jesús Vilares,
+     Miguel A. Alonso
+     and Francisco J. Ribadas,"COLE Experiments at CLEF 2003 Spanish Monolingual Track",
+     in Carol Peters, Julio Gonzalo, Martin Braschler,  and Martin Kluck (eds.), 
+     Comparative Evaluation of Multilingual Information Access Systems, 
+     volume 3237  
+     of    
+           Lecture Notes in Computer Science, pp. 345-357,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2004. ISSN 0302-9743 / ISBN 3-540-24017-9.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloRibVil2003a.pdf[/url] Jesús Vilares,
+     Miguel A. Alonso,
+     Francisco J. Ribadas
+     and Manuel Vilares,"COLE experiments at CLEF 2002 Spanish monolingual track",
+     in Carol Peters, Martin Braschler, Julio Gonzalo and Martin Kluck (eds.), 
+     Advances in Cross-Language Information Retrieval, 
+     volume 2785  
+     of    
+           Lecture Notes in Computer Science, 
+     Springer-Verlag, 
+     pages 265-278, 
+     Berlin-Heidelberg-New York, 2003. ISSN 0302-9743 / ISBN 3-540-40830-4.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilVilAlo2001a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilVilAlo2001a.bib[/bib]  Jesús Vilares,
+     Manuel Vilares,
+     and Miguel A. Alonso,
+     "Towards the development of heuristics for automatic query expansion",
+     in   H. C. Mayr, J. Lazansky, G. Quirchmayr and  P. Vogel (eds.), 
+    
+        Database and Expert Systems Applications
+        , 
+        volume 2113
+        of 
+                          Lecture Notes in Computer Science,
+     pp. 887-896,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2001. ISSN 0302-9743 / ISBN 3-540-42527-6.
+
+
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilBarAloGraVil2002a.pdf[/url] Jesús Vilares,
+     Fco. Mario Barcala, 
+     Miguel A. Alonso,
+     Jorge Graña
+     and Manuel Vilares,
+     "Practical NLP-Based Text Indexing",
+     in Francisco J. Garijo, José C. Riquelme and Miguel Toro (eds.),
+     
+        Advances in Artificial Intelligence - IBERAMIA 2002, 
+     volume 2527  
+     of    
+           Lecture Notes in Artificial Intelligence, pp. 635-644,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2002.  ISSN 0302-9743 / ISBN 3-540-00131-X.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloDia2007a.pdf[/url] Manuel Vilares,
+     Miguel A. Alonso
+     and Víctor J. Díaz,
+     "TIEMPO: IT Handling of Multilingual Financial and Economic Information",
+     in José María Troya  and Sascha Ossowski (eds.) 
+     
+         Jornadas de Seguimiento de Proyectos en Tecnologías Informáticas (jspTIN 2007), pp. 324-336,
+     Móstoles, Madrid, Spain, 2007.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloVilRib2004a.pdf[/url] Miguel A. Alonso,
+     Jesús Vilares,
+     and Francisco J. Ribadas,
+     "Experiencias del Grupo COLE en la aplicación de técnicas de Procesamiento del Lenguaje Natural a la Recuperación de Información en español",
+     Inteligencia Artificial, 22:123-134, 2004. ISSN 1137-3601.
+
+
+
+
+
+ Carlos Gómez-Rodríguez,
+     Miguel A. Alonso and 
+     Manuel Vilares,
+     "Error-repair parsing schemata",
+     Theoretical Computer Science, 411(7-9):1121-1139, 2010. ISSN 0304-3975. DOI 10.1016/j.tcs.2009.12.007
+
+[url]http://www.grupolys.org/biblioteca/GomAloVil2009a.pdf[/url] Carlos Gómez-Rodríguez,
+     Miguel A. Alonso
+     and Manuel Vilares
+     "A general method for transforming standard parsers into error-repair parsers",
+     in   Alexander Gelbukh (ed.),
+     
+        Computational Linguistics and Intelligent Text Processing, 
+        volume 5449
+        of 
+                          Lecture Notes in Computer Science, pp. 207-219,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2009. ISSN 0302-9743 / ISBN 978-3-642-00381-3. DOI 10.1007/978-3-642-00382-0_17
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomAloVil2007c.pdf[/url] Carlos Gómez-Rodríguez,
+     Miguel A. Alonso
+     and Manuel Vilares,
+     "Técnicas deductivas para el análisis sintáctico con corrección de errores",
+     Procesamiento del Lenguaje Natural, 39:13-20, 2007. ISSN 1135-5948.
+
+
+
+
+
+ Carlos Gómez-Rodríguez,
+     Jesús Vilares and
+     Miguel A. Alonso,
+     "A compiler for parsing schemata",
+     Software: Practice and Experience, 39(5):441-470, 2009. ISSN 0038-0644.  DOI 10.1002/spe.904
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomVilAlo2007a.pdf[/url] Carlos Gómez-Rodríguez,
+     Jesús Vilares
+     and Miguel A. Alonso,
+     "Compiling Declarative Specifications of Parsing Algorithms",
+     in R. Wagner, R. Newell and G. Pernul (eds.), 
+     
+        Database and Expert Systems Applications, 
+        volume 4653
+        of 
+                          Lecture Notes in Computer Science, pp. 529-538,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2007. ISSN 0302-9743.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomAloVil2007b.pdf[/url] Carlos Gómez-Rodríguez,
+     Miguel A. Alonso
+     and Manuel Vilares,
+     "Generation of indexes for compiling efficient parsers from formal specifications",
+     in  Roberto Moreno-Díaz, Franz Pichler, and Alexis Quesada-Arencibia (eds.), 
+     Computer Aided Systems Theory,
+        volume 4739
+        of 
+                          Lecture Notes in Computer Science,
+     pp. 257-264,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2007. ISSN 0302-9743 / ISBN 978-3-540-75866-2.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomVilAlo2007b.pdf[/url] Carlos Gómez-Rodríguez,
+     Jesús Vilares
+     and Miguel A. Alonso,
+     "Prototyping Efficient Natural Language Parsers",
+     in Galia Angelova, Kalina Bontcheva, Ruslan Mitkov, Nicolas Nicolov and Nikolai Nikolov (eds.), International Conference Recent Advances in Natural Language Processing, Proceedings, pp. 246-250,
+     Borovets, Bulgaria, 2007. ISBN 978-954-91743-7-3.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomVilAlo2006a.pdf[/url] Carlos Gómez-Rodríguez,
+     Jesús Vilares
+     and Miguel A. Alonso,
+     "Automatic Generation of Natural Language Parsers from Declarative Specifications",
+     in Loris Penserini, Pavlos Peppas and Anna Perini (eds.), 
+     STAIRS 2006 - Proceedings of the Third Starting AI Researchers' Symposium,  Riva del Garda, Italy, August 28-29, 2006,
+     volume 142 of Frontiers in Artificial Intelligence and Applications, pp. 259-260, 
+     IOS Press, Amsterdam/Berlin/Oxford/Tokyo/Washington DC, 2006. ISSN 0922-6389 / ISBN 1-58603-645-9.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomAloVil2007a.pdf[/url] Carlos Gómez-Rodríguez,
+     Miguel A. Alonso
+     and Manuel Vilares,
+     "Generation of indexes for compiling efficient parsers from formal specifications",
+     in Proc. of 
+         Eleventh International Conference on Computer Aided Systems Theory (EUROCAST 2007),
+     Las Palmas, Spain, 2007.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomVilAlo2005b.pdf[/url] Carlos Gómez-Rodríguez,
+     Jesús Vilares
+     and Miguel A. Alonso,
+     "Compilación eficiente de esquemas de análisis sintáctico",
+     in 
+     Francisco Javier López Fraguas (ed.), Actas de las 
+        V Jornadas sobre Programación y Lenguajes (PROLE 2005). Granada, 13 al 16 de Septiembre de 2005,pp. 175-184. Thomson Paraninfo, Madrid, 2005. ISBN 84-9732-438-2.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomVilAlo2005a.pdf[/url] Carlos Gómez-Rodríguez,
+     Jesús Vilares
+     and Miguel A. Alonso,
+     "Generación automática de analizadores sintácticos a partir de esquemas de análisis",
+     Procesamiento del Lenguaje Natural, 35:401-408, 2005. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCabVil99a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/AloCabVil99a.bib[/bib] Miguel A. Alonso,
+     David Cabrero
+     and Manuel Vilares,
+     "Generalized LR Parsing for Extensions of Context-Free Grammars", 
+     in Nicolas Nicolov and Ruslan Mitkov (eds.), Recent Advances in Natural Language Processing II,
+     volume 189 of Current Issues in Linguistic Theory, pp. 81-92,
+     John Benjamins Publishing Company, Amsterdam & Philadelphia, 2000. ISBN 90-272-3695-X.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCabVil97c.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/AloCabVil97c.bib[/bib] Miguel A. Alonso,
+     David Cabrero
+     and Manuel Vilares,
+     "Construction of Efficient Generalized LR Parsers", 
+     in D. Wood and S. Yu (eds.), Automata Implementation, 
+     volume 1436 of 
+        Lecture Notes in Computer Science, pp. 7-24,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 1998. ISSN 0302-9743 / ISBN 3-540-64694-9.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCabVil97b.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/AloCabVil97b.bib[/bib] Miguel A. Alonso,
+     David Cabrero
+     and Manuel Vilares,
+     "A New Approach to the Construction of Generalized LR Parsing Algorithms", 
+     in 
+     R. Mitkov, 
+     N. Nicolov and 
+     N. Nikolov (eds.),
+     Proc. of 
+         
+            Recent Advances in Natural Language Processing (RANLP'97),
+     pp. 171-178, 
+     Tzigov Chark, Bulgaria, 1997.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCabVil97a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/AloCabVil97a.bib[/bib] Miguel A. Alonso,
+     David Cabrero
+     and Manuel Vilares,
+     "Construction of Efficient Generalized LR Parsers", 
+     Proc. of 
+         
+            Second International Workshop on Implementing Automata (WIA'97),
+     pp. 131-140, 
+     London, Ontario, Canada, 1997.
+
+ Manuel Vilares,
+     Miguel A. Alonso,
+     and Víctor M. Darriba,
+     "Generation of incremental parsers",
+     in   Alexander Gelbukh (ed.), 
+     
+        Computational Linguistics and Intelligent Text Processing, 
+     volume 2588  
+     of    
+           Lecture Notes in Computer Science, pp. 191-202,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2003. ISSN 0302-9743.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo95a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAlo95a.bib[/bib] Manuel Vilares 
+     and 
+     Miguel A. Alonso,
+     
+        "Friendly Incremental Prototyping",
+     in 
+     M. van den Brand, 
+     A. van Deursen, 
+     T. B. Dinesh, 
+     J. Kamperman and 
+     E. Visser (eds.),
+     
+            Proc. 
+         of 
+             ASF+SDF'95 Workshop on Generating Tools from Algebraic Specifications
+     , pp. 127-142.
+     
+        Technical Report P9504, 
+     Programming Research Group,
+     University of Amsterdam, 
+     The Netherlands, 1995.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo95b.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAlo95b.bib[/bib] Manuel Vilares 
+     and 
+     Miguel A. Alonso,
+    "Exploring Interactive Chart Parsing",
+    Procesamiento del Lenguaje Natural, 17:158-170, 1995. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilValGraAlo95.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilValGraAlo95.bib[/bib] Manuel Vilares,
+     Alberto Valderruten,
+     Jorge Graña
+     and
+     Miguel A. Alonso,
+     "Une Approche Formelle pour la Génération d'Analyseurs 
+        de Langages Naturels",
+     in P. Blache (ed.),
+     Actes de la Seconde Conférence Annuelle sur le Traitement Automatique du Langage Naturel, pp. 246-255,
+	Marseille, France, 1995.
+
+[url]http://www.grupolys.org/biblioteca/NicMolSagSanCleAloFar2009a.pdf[/url] Lionel Nicolas,
+     Miguel A. Molinero, 
+     Benoît Sagot,
+     Elena Sánchez,
+     Eric de la Clergerie,
+     Miguel A. Alonso,
+     Jacques Farré and
+     Joan Miquel Verges,
+     "Towards efficient production of linguistic resources: the Victoria Project",
+     in  International Conference Recent Advances in Natural Language Processing, Proceedings, 
+     Borovets, Bulgaria, 2009.
+
+[url]http://www.grupolys.org/biblioteca/NicMolSagSanCleAloFar2009b.pdf[/url] Lionel Nicolas,
+     Miguel A. Molinero, 
+     Benoît Sagot,
+     Elena Sánchez,
+     Eric de la Clergerie,
+     Miguel A. Alonso,
+     Jacques Farré and
+     Joan Miquel Verges,
+     "Producción eficiente de recursos lingüísticos: el proyecto Victoria",
+     Procesamiento del Lenguaje Natural, 43:391-392, 2009. ISSN 1135-5948.
+
+ Jorge Graña,
+     Fco. Mario Barcala, and
+     Miguel A. Alonso,"Compilation Methods of Minimal Acyclic Finite-State Automata for Large Dictionaries",
+     in Bruce W. Watson and Derick Wood (eds.),
+     
+                 Implementation and Application of Automata,
+     volume 2494  
+     of    
+           Lecture Notes in Computer Science, pp. 135-148,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2002.  ISSN 0302-9743 / ISBN 3-540-00400-9.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GraAloVil2002a.pdf[/url] Jorge Graña,
+     Miguel A. Alonso
+     and Manuel Vilares,
+     "A Common Solution for Tokenization and Part-of-Speech Tagging: One-Pass Viterbi Algorithm vs. Iterative Approaches", 
+     in Petr Sojka, Ivan Kopecek and Karel Pala (eds.), 
+     Text, Speech and Dialogue,
+     volume 2448  
+     of    
+           Lecture Notes in Artificial Intelligence, pp. 3-10,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2002. ISSN 0302-9743 / ISBN 3-540-44129-8.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GraBarAlo2001a.pdf[/url] Jorge Graña,
+     Fco. Mario Barcala, and
+     Miguel A. Alonso,
+     "Compilation Methods of Minimal Acyclic Finite-State Automata for Large Dictionaries",
+     in Bruce W. Watson and Derick Wood (eds.), 
+     Proc. of the 
+     6th Conference on Implementations and Applications of Automata, pp. 116-129,
+     Pretoria, South Africa, 2001.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/TR16.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/TR16.bib[/bib] Jorge Graña,
+     Miguel A. Alonso
+     and
+     Alberto Valderruten,
+     "Análisis Léxico no Determinista:
+	Etiquetación Eficiente del Lenguaje Natural",
+     Technical Report TR16, 
+     Departamento de Computación, 
+     Facultade de Informática,
+     Universidade da Coruña,
+     Spain, 1994 (37 pp).
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomAloVil2006b.pdf[/url] Carlos Gómez-Rodríguez,
+     Miguel A. Alonso
+     and Manuel Vilares,
+     "On Theoretical and Practical Complexity of TAG Parsers",
+     in Paola Monachesi, Gerald Penn, Giorgio Satta and Shuly Wintner (eds.), FG 2006: The 11th conference on Formal Grammar. Malaga, Spain, July 29-30, 2006,  chapter 5, pp. 61-75, Center for the Study of Language and Information, Stanford, 2006. 
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomAloVil2006a.pdf[/url] Carlos Gómez-Rodríguez,
+     Miguel A. Alonso
+     and Manuel Vilares,
+     " Generating XTAG Parsers from Algebraic Specifications",
+     in Proceedings of the 8th International Workshop on Tree Adjoining Grammar and Related Formalisms. Sydney, July 2006,  pp. 103-108, Association for Computational Linguistics, East Stroudsburg, PA, 2006. ISBN: 1-932432-85-X.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/GomAloVil2006c.pdf[/url] Carlos Gómez-Rodríguez,
+     Miguel A. Alonso
+     and Manuel Vilares,
+     "Estudio comparativo del rendimiento de analizadores sintácticos para gramáticas de adjunción de árboles",
+     Procesamiento del Lenguaje Natural, 37:179-186, 2006. ISSN 1135-5948.
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCleDiaVil2003a.pdf[/url] Miguel A. Alonso,
+     Eric de la Clergerie,
+     Víctor J. Díaz and
+     Manuel Vilares,
+     "Relating tabular Parsing Algorithms for LIG and TAG",
+     in Harry Bunt, John Carroll and Giorgio Satta (eds.),
+     New Developments in Parsing Technology,
+     volume 23 
+     of 
+           Text, Speech and Language Technology Series, 
+     chapter 8, pages 157-184,
+     Kluwer Academic Publishers,
+     Dordrecht-Boston-London, 2003.  ISBN 1-4020-2293-X.
+
+
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloDia2003b.pdf[/url] Miguel A. Alonso,
+     and Víctor J. Díaz,
+     "Variants of mixed parsing of TAG and TIG",
+     Traitement Automatique des Langues, 44(3):41-65, 2003.
+     ISSN 1248-9433.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloDia2003a.pdf[/url] Miguel A. Alonso
+     and Víctor J. Díaz,
+     "Parsing  Tree Adjoining Grammars and Tree Insertion Grammars with simultaneous adjunctions",
+     in Proc. of
+     
+        8th International Workshop on Parsing Technologies (IWPT 2003), 
+     pp. 19-30, Nancy, France, 2003. INRIA, ISBN 2-7261-1243-9.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCarDia2002b.pdf[/url] Miguel A. Alonso,
+     Vicente Carrillo,
+     and Víctor J. Díaz,
+     "Mixed Parsing of Tree Insertion and Tree Adjoining Grammars",
+     in Francisco J. Garijo, José C. Riquelme and Miguel Toro (eds.),
+     
+        Advances in Artificial Intelligence - IBERAMIA 2002, 
+     volume 2527  
+     of    
+           Lecture Notes in Artificial Intelligence, pp. 694-703,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2002.  ISSN 0302-9743 / ISBN 3-540-00131-X.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCarDia2002a.pdf[/url] Miguel A. Alonso,
+     Vicente Carrillo,
+     and Víctor J. Díaz,
+     "Análisis sintáctico combinado de gramáticas de 
+        adjunción de árboles y de gramáticas de 
+        inserción de árboles",
+     Procesamiento del Lenguaje Natural, 29:65-72, 2002. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/CarDiaAlo2003a.pdf[/url] Vicente Carrillo,
+     Víctor J. Díaz
+     and Miguel A. Alonso,
+     "Análisis ascendente bidireccional de TAG dirigido por el núcleo TIG",
+     Procesamiento del Lenguaje Natural, 31:151-158, 2003. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/CarDiaAlo2002a.pdf[/url] Vicente Carrillo,
+     Víctor J. Díaz
+     and Miguel A. Alonso,
+     "Algoritmos de análisis para gramáticas de 
+        inserción de árboles",
+     Procesamiento del Lenguaje Natural, 29:89-96, 2002. ISSN 1135-5948.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/CarAloDia2002a.pdf[/url] Vicente Carrillo,
+     Miguel A. Alonso,
+     and Víctor J. Díaz,
+     "Análisis eficiente de gramáticas de  
+        inserción de árboles",
+     in Actas de las 
+     II Jornadas en Tecnologías del Habla, 
+     Granada, Spain, 2002. 
+
+
+
+
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/CarDiaAlo2002b.pdf[/url] Vicente Carrillo,
+     Víctor J. Díaz
+     and Miguel A. Alonso,
+     "A Predictive Left-Corner Parser for Tree Adjoining Grammars",
+     Revista electrónica e-rThabla, 1, 2003. ISSN 1695-9914.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/CarDiaAlo2001a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/CarDiaAlo2001a.bib[/bib] Vicente Carrillo,
+     Víctor J. Díaz,
+     and Miguel A. Alonso,
+     "Análisis sintáctico ascendente de TAGs guiado por la esquina izquierda",
+     Procesamiento del Lenguaje Natural, 27:47-54, 2001. ISSN 1135-5948.
+
+
+
+
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloDiaVil2001a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/AloDiaVil2001a.bib[/bib] Miguel A. Alonso,
+     Víctor J. Díaz
+     and Manuel Vilares,
+     "Bidirectional Automata for Tree Adjoining Grammars", 
+     in Proc. of the 
+     Seventh International Workshop on Parsing Technologies (IWPT-2001),
+     pp. 42-53, Tsinghua University Press, Beijing, China, 2001. ISBN 7-302-04925-4.
+
+
+
+
+
+
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCleVil97a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/AloCleVil97a.bib[/bib] Miguel A. Alonso,
+     Eric de la Clergerie
+     and
+     Manuel Vilares, 
+     "Automata-based Parsing in Dynamic Programming for Linear Indexed Grammars", 
+     in A. S. Narin'yani (ed.), Proc. of DIALOGUE'97 Computational Linguistics and its Applications International Workshop, pp. 22-27,
+     Moscow, Russia, 1997.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/AloCleVil2001a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/AloCleVil2001a.bib[/bib] Miguel A. Alonso,
+     Eric de la Clergerie,
+     and Manuel Vilares,
+     "A formal definition of Bottom-up Embedded Push-Down Automata and their tabulation technique",
+     in P. de Groote, G. Morril and C. Retoré (eds.), 
+     
+        Logical Aspects of Computational Linguistics, 
+      volume 2099 
+      of 
+                  Lecture Notes in Artificial Intelligence, pp. 44-61,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 2001. ISSN 0302-9743 / ISBN 3-540-42273-0.
+
+
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/CleAlo98a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/CleAlo98a.bib[/bib] Eric de la Clergerie and
+     Miguel A. Alonso,
+     "A Tabular Interpretation of a Class of 2-Stack Automata",
+     in 
+        
+           COLING-ACL'98, 
+           36th Annual Meeting of the Association for 
+           Computational Linguistics and
+           17th International Conference on Computational Linguistics, Proceedings of the Conference,
+     volume II, pp. 1333-1339,
+     Montreal, Canada, 1998.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/CleAloCab98a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/CleAloCab98a.bib[/bib] Eric de la Clergerie,
+     Miguel A. Alonso and 
+     David Cabrero,
+     "A Tabular Interpretation of Bottom-up Automata for TAG",
+     in Proc. of
+        
+           TAG+, Fourth International Workshop on Tree-Adjoining Grammars and Related Frameworks, pp. 42-45,
+     Philadelphia, PA, USA, 1998.
+
+
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo97a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAlo97a.bib[/bib] Manuel Vilares
+      and
+     Miguel A. Alonso,
+     "An LALR Extension for DCGs in Dynamic Programming", 
+     in C. Martín Vide (ed.),
+     Mathematical and Computational Analysis of Natural Language, 
+     volume 45 of Studies in Functional and Structural Linguistics,
+     pp. 267-278,      
+     John Benjamins Publishing Company, 
+     Amsterdam and Philadelphia, 1998. ISBN 90-272-1554-5.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloGraCab98a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAloGraCab98a.bib[/bib] Manuel Vilares,
+     Miguel A. Alonso,
+     Jorge Graña
+     and David Cabrero,
+     "GALENA: Tabular DCG parsing for Natural Languages",
+     in Proc. of 
+            
+               First Workshop on Tabulation in Parsing and Deduction (TAPD'98),
+     pp. 44-51,
+     Paris, France, 1998.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo96b.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAlo96b.bib[/bib] Manuel Vilares 
+     and 
+     Miguel A. Alonso,
+     "An LALR Extension for DCGs in Dynamic Programming",
+     in P. Lucio, 
+        M. Martelli 
+        and M. Navarro (eds.),
+     Proc. of 
+         
+            APPIA-GULP-PRODE'96 Joint Conference on Declarative Programming, pp. 79-88,
+     Donostia-San Sebastián, Spain, 1996.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo96a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAlo96a.bib[/bib] Manuel Vilares 
+     and 
+     Miguel A. Alonso,
+    "Towards Analyzers Based on Efficient Logical Frames",
+    in II International Conference on Mathematical Linguistics (ICML'96): abstracts, pp. 97-98. 
+    Report 7/96, 
+    
+       Grup de Recerca en Lingüística Matemática i 
+       Enginyeria del Llenguatge,
+    Universitat Rovira i Virgili,
+    Tarragona, Spain, 1996.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAlo95c.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAlo95c.bib[/bib] Manuel Vilares 
+     and 
+     Miguel A. Alonso,
+     
+         "A Predictive Bottom-up Evaluator",
+     Logic Programming Newsletter, 8(4):9-10, 1995.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloCab96a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAloCab96a.bib[/bib] Manuel Vilares,
+     Miguel A. Alonso
+     and
+     David Cabrero,
+     "Autómatas Lógicos y Lenguaje Natural",
+     
+            V Congreso Iberoamericano de
+            Inteligencia Artificial, IBERAMIA'96,
+     pp. 341-351, Editorial Limusa, S.A. de C.V., Mexico D.F., Mexico, 1996. 
+     ISBN 968-18-5429-2.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloCab96b.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAloCab96b.bib[/bib] Manuel Vilares,
+     Miguel A. Alonso
+     and
+     David Cabrero,
+     "An Experience on Natural Language Parsing",
+     in C. Martín Vide (ed.), 
+     Lenguajes Naturales y Lenguajes Formales XII, pp. 555-562,
+     PPU, Barcelona, Spain, 1996. ISBN 84-477-0575-7.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloCab99a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAloCab99a.bib[/bib] Manuel Vilares,
+     Miguel A. Alonso
+     and David Cabrero,
+     "An Operational Model for Parsing Definite Clause Grammars with Infinite Terms", 
+     in A. Lecomte, F. Lamarche and G. Perrier (eds.), Logical Aspects of Computational Linguistics, 
+     volume 1582  of 
+        
+           Lecture Notes in Artificial Intelligence, pp. 212-230,
+     Springer-Verlag, 
+     Berlin-Heidelberg-New York, 1999. ISSN 0302-9743 / ISBN 3-540-65751-7.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilCabAlo2000a.pdf[/url] Manuel Vilares,
+     David Cabrero
+     and Miguel A. Alonso,
+     "On Non-Termination in DCGs", 
+     in  Alexander Gelbukh (ed.),  
+     International Conference CICLing-2000,  Conference on Intelligent text processing and Computational Linguistics, Proceedings, pp. 150-165, 
+     Centro de Investigación en Computación of the Instituto Politécnico Nacional,
+     Mexico City, Mexico, 2000. ISBN 970-18-4206-5.
+
+ Manuel Vilares,
+     David Cabrero
+     and Miguel A. Alonso,
+     "On non-termination in DCGs", 
+     in  Bruce W. Watson and Derick Wood (eds.),
+     Proc. of the 
+     6th Conference on Implementations and Applications of Automata, pp. 267-278,
+     Pretoria, South Africa, 2001.
+
+ Manuel Vilares, 
+     David Cabrero
+     and 
+     Miguel A. Alonso,
+     "Some questions about non-termination in DCGs", 
+     in Maria Chiara Meo and Manuel Vilares Ferro (eds.),  
+         
+            APPIA-GULP-PRODE'99 Joint Conference on Declarative Programming, Proceedings, pp. 545-558,
+     L'Aquila, Italy, 1999.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloCab97a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAloCab97a.bib[/bib] Manuel Vilares, 
+     Miguel A. Alonso
+     and
+     David Cabrero,
+     "Efficient Parsing of Fixed-Mode DCGs", 
+     in Geert-Jan M. Kruijff, Glyn V. Morrill and Richard T. Oehrle (eds.),
+     Proc. of 
+            
+               Formal Grammar 1997, chapter 17, pp. 199-209,
+     Aix-en-Provence, France, 1997.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilCabAlo97a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilCabAlo97a.bib[/bib] Manuel Vilares, 
+     David Cabrero
+     and 
+     Miguel A. Alonso,
+     "An Approach to Infinite Term Traversal in DCGs", 
+     in M. Falaschi, M. Navarro and A. Policriti (eds.), Proc. of 
+         
+            APPIA-GULP-PRODE'97 Joint Conference on Declarative Programming, 
+     pp. 307-317,
+     Grado, Italy, 1997.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilAloCab97b.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilAloCab97b.bib[/bib] Manuel Vilares, 
+     Miguel A. Alonso
+     and
+     David Cabrero,
+     " An Operational  Model for Parsing Fixed-Mode DCGs", 
+     Proc. of 
+         
+            Logical Aspects of Computational Linguistics (LACL'97), pp. 61-64, 
+     Nancy, France, 1997.
+
+ Manuel Vilares, 
+     David Cabrero
+     and
+     Miguel A. Alonso,
+     "Dealing with non-termination in DCGs", 
+     Proc. of 
+         
+            V Congreso Argentino de Ciencias de la Computación (CACIC'99), 
+     Tandil, Buenos Aires, Argentina, 1999.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilCabAlo98c.pdf[/url] Manuel Vilares,
+     David Cabrero
+     and Miguel A. Alonso,
+     "Dynamic Programming as Frame for Efficient Parsing",
+     in 
+     
+       SCCC'98, XVIII International Conference of the Chilean Computer Science Society, November 9-14, 1998. Antofagasta, Chile, pp. 68-75,
+     IEEE Computer Society Press, Los Alamitos, California, USA, 1998. ISBN 0-8186-8616-2.
+
+[url]http://coleweb.dc.fi.udc.es/cole/library/ps/VilCabAlo98a.pdf[/url][bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilCabAlo98a.bib[/bib] Manuel Vilares,
+     David Cabrero
+     and Miguel A. Alonso,
+     "A Comparison for Unification-Based Parsers",
+     in M. Falaschi, J. L. Freire and M. Vilares (eds.),
+     Proc. of 
+        APPIA-GULP-PRODE 1998 Joint Conference on Declarative Programming (AGP'98), pp. 113-123,
+     Corunna, Spain, 1998.
+
+[bib]http://coleweb.dc.fi.udc.es/cole/library/bib/VilCabAlo98b.bib[/bib] Manuel Vilares,
+     David Cabrero
+     and Miguel A. Alonso,
+     "Exploring Parsing Efficiency in Computational Linguistics",
+      
+          Utrecht Congress on Storage and Computation in Linguistics (abstracts), p. 65, 
+     Utrecht, The Netherlands, 1998.
+
+[url]http://www.grupolys.org/biblioteca/CabAloBarGomPerSanHerAloGuiVil2013a.pdf[/url] Mariano J. Cabrero Canosa,
+        David Alonso Ríos,
+        Noelia Barreira Rodríguez,
+	Carlos Gómez-Rodríguez,
+        Beatriz Pérez-Sánchez,
+        Noelia Sanchez-Maroño,
+        Elena Hernández-Pereira,
+        Miguel A. Alonso,
+        Bertha Guijarro-Berdiñas and
+        Jesús Vilares,
+        "Analizando los resultados académicos en una materia de programación",
+        in David López, Belén Vaquerizo (responsables académicos); Mercedes Marqués Andrés, José Manuel Badía Contelles, Sergio Barrachina Mir (editores), JENUI 2013. Actas del Simposio-Taller sobre estrategias y herram\
+ientas para el aprendizaje y la evaluación, pp.35-42, Castellón de la Plana, Spain, 2013. ISBN 978-84-695-8091-2. DOI 110.6035/e-TIiT.2013.14
+
+[url]http://www.grupolys.org/biblioteca/AloAloGomGraVil2012a.pdf[/url] Miguel A. Alonso,
+        Margarita Alonso,
+        Carlos Gómez-Rodríguez,
+        Jorge Graña and
+        Jesús Vilares,
+        "La enseñanza del Procesamiento del Lenguaje Natural en facultades de Informática y Filología",
+        in Pedro Membiela, Natalia  Casado and Mª Isabel Cebreiros (eds.), Investigaciones sobre docencia universitaria y nuevas metodologías, chapter 1, pp. 13-18, Educación Editora, Ourense, Spain, 2012. ISBN 978-84-15524-02-1.
+
+[url]http://www.grupolys.org/biblioteca/AloAloGomGraVil2011a.pdf[/url] Miguel A. Alonso,
+        Margarita Alonso,
+        Carlos Gómez-Rodríguez,
+        Jorge Graña and
+        Jesús Vilares,
+        "La enseñanza del Procesamiento del Lenguaje Natural en facultades de Informática y Filología",
+        in II Congreso Internacional de Docencia Universitaria. Libro de resumos das comunicacións. Libro de resúmenes de las comunicaciones, p. 14, Educación Editora, Vigo, Spain, 2011.
+
+[url]http://www.grupolys.org/biblioteca/AloFerGomGraMolVil2010a.pdf[/url] Miguel A. Alonso,
+        Milagros Fernández,
+        Carlos Gómez-Rodríguez,
+        Jorge Graña,
+        Miguel A. Molinero and
+        Jesús Vilares,
+        "Evaluación sin exámenes. Conclusiones de 10 años de experiencia en una asignatura optativa",
+        chapter 96 of La innovación educativa en el contexto actual de la educación superior. A innovación educativa no contexto actual da educación superior, pp. 515-518, Vicerreitoría de Formación e Innovación Educativa, Universidade de Vigo, Vigo, Spain, 2010. ISBN 978-84-8158-495-0.
+
+[url]http://www.grupolys.org/biblioteca/AloFerGomGraVil2010a.pdf[/url] Miguel A. Alonso,
+        Milagros Fernández,
+        Carlos Gómez-Rodríguez,
+        Jorge Graña and
+        Jesús Vilares,
+        "Una experiencia de enseñanza multidisciplinar en el marco de los nuevos másteres oficiales",
+        in Actas. Congresso Ibérico 2010 Ensino Superior em Mudança: Tensões e Possibilidades, pp. 111-117, Braga, Portugal, 2010. ISBN 978-972-8746-80-3.
+
+[url]http://www.grupolys.org/biblioteca/AloFerGomGraVil2010b.pdf[/url] Miguel A. Alonso,
+        Milagros Fernández,
+        Carlos Gómez-Rodríguez,
+        Jorge Graña and
+        Jesús Vilares,
+        "Dos experiencias de enseñanza interdisciplinar entre informática y humanidades",
+        in CUIEET 2010. XVIII Congreso Universitario de Innovación en las Enseñanzas Técnicas. Programa Científico, Santander, Spain, 2010. ISBN 978-84-86116-19-4.
+
+
+

@@ -1,0 +1,9 @@
+* text eol=lf
+
+.gitattributes export-ignore text
+.gitignore export-ignore text
+
+Makefile export-subst text eol=lf
+*.h export-subst text eol=lf
+*.cpp export-subst text eol=lf
+

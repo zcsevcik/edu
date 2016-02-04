@@ -1,0 +1,59 @@
+#!/bin/bash
+
+# ===================================================================
+# Soubor:  hltrace.sh
+# Datum:   2011/02/27
+# Autor:   Radek Sevcik, xsevci44@stud.fit.vutbr.cz
+# Projekt: Zvyrazneni syntaxe, projekt c. 1 pro predmet IOS
+# Popis:   Textovy filtr pro nastroj strace
+# ===================================================================
+
+function print_usage {
+    echo "hltrace zvyrazni syntaxi strace."
+    echo "Pouziti: hltrace [volby] <stopa.strace >stopa.html"
+    echo "Volby:"
+    echo "  -s SYSCALL  Specialne zvyrazni volani SYSCALL."
+}
+
+while getopts "s:h" arg; do
+    case $arg in
+        "s")
+	    SYSCALL=$OPTARG;;
+	"h")
+	    print_usage
+	    exit 0;;
+	"?")
+	    print_usage
+	    exit 1;;
+    esac
+done
+shift $(($OPTIND - 1))
+
+REGEXP_AMP='s/&/\&amp;/g'
+REGEXP_LT='s/</\&lt;/g'
+REGEXP_GT='s/>/\&gt;/g'
+REGEXP_STRING='s/\("[^"]*"\)/<span class="string">\1<\/span>/g'
+REGEXP_PID='s/^\([0-9]\{1,\}\)/<span class="pid">\1<\/span>/'
+REGEXP_TIMESTAMP='s/\([0-9]\{1\}\.[0-9]\{1,\}\)/<span class="ts">\1<\/span>/'
+REGEXP_CONST='s/\([A-Z][0-9A-Z_]\{1,\}\)/<span class="const">\1<\/span>/g'
+REGEXP_HEXNUM='s/\(0x[0-9a-fA-F]\{1,\}\)/<span class="number">\1<\/span>/g'
+REGEXP_DECNUM='s/\([ (]\)\(-\{0,1\}[0-9]\{1,\}\)/\1<span class="number">\2<\/span>/g'
+REGEXP_CALL='s/\([a-z_][a-z0-9_]*\)(/<a href="http:\/\/www.kernel.org\/doc\/man-pages\/online\/pages\/man2\/\1\.2\.html" class="call">\1<\/a>(/g'
+[ -z $SYSCALL ] || REGEXP_SYSCALL="s/$SYSCALL(/<a href=\"http:\/\/www.kernel.org\/doc\/man-pages\/online\/pages\/man2\/$SYSCALL\.2\.html\" class=\"hlcall\">$SYSCALL<\/a>(/g"
+
+echo -e "<html>\n<style>
+    .pid { color:darkred; }
+    .ts { color:navy; }
+    .number { color:red; }
+    .const { color:green; }
+    .string { color:blue; }
+    .hlcall { text-decoration:none; font-weight:bold; color:black; }
+    .call { text-decoration:none; color:olive; }
+</style>
+<body><pre>"
+
+export LC_COLLATE=C
+sed -e "$REGEXP_AMP" -e "$REGEXP_LT" -e "$REGEXP_GT" -e "$REGEXP_STRING" -e "$REGEXP_PID" -e "$REGEXP_TIMESTAMP" -e "$REGEXP_SYSCALL" -e "$REGEXP_CALL" -e "$REGEXP_CONST" -e "$REGEXP_HEXNUM" -e "$REGEXP_DECNUM" <&0
+
+echo -e "</pre></body>\n</html>\n"
+

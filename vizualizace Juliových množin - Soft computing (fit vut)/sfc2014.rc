@@ -1,0 +1,36 @@
+#include <winver.h>
+
+#pragma code_page(65001)
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK VS_FFI_FILEFLAGSMASK
+#ifdef _DEBUG
+ FILEFLAGS VS_FF_DEBUG
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS VOS_NT_WINDOWS32
+ FILETYPE VFT_APP
+ FILESUBTYPE VFT2_UNKNOWN
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040504b0"
+        BEGIN
+            VALUE "CompanyName", "FIT VUT v Brně\0"
+            VALUE "FileDescription", "Vizualizace Juliových množin\0"
+            VALUE "FileVersion", "1.0\0"
+            VALUE "InternalName", "sfc2014\0"
+            VALUE "LegalCopyright", "Copyright (C) 2014 Ševčík Radek, Bc.\0"
+            VALUE "OriginalFilename", "sfc2014.exe\0"
+            VALUE "ProductName", "Soft Computing (SFC)\0"
+            VALUE "ProductVersion", "2014\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x405, 1200
+    END
+END

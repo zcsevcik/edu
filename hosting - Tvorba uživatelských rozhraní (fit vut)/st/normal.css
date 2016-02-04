@@ -1,0 +1,870 @@
+/*
+ * normal.css:     Sprava hostingu (ITU 2012)
+ *
+ * Author(s):      Jan Havlik     <xhavli30@stud.fit.vutbr.cz>
+ *                 Vaclav Horazny <xhoraz01@stud.fit.vutbr.cz>
+ *                 Radek Sevcik   <xsevci44@stud.fit.vutbr.cz>
+ *
+ * Date:           Sun, 16 Dec 2012 13:36:03 +0100
+ *
+ * This file is part of itu12_hosting.
+ */
+
+body
+{
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  background-color: #EEEEEE;
+  text-align: center;
+  font-family: Arial;
+}
+
+div.telo
+{
+  border: 1px black solid;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  background-color: #AAAAAA;
+  width: 980px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+  margin: 5px 0px 5px 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a.logo
+{
+  background-image:url(../images/logo.png);
+  display: block;
+  float: left;
+  width: 180px;
+  height: 110px;
+  border: none;
+  margin: 0px 0px 0px 20px; /*hore pravo dole levo*/
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-decoration: none;
+}
+
+/* news */
+
+div.zprava
+{
+  float: left;
+  display: block;
+  margin: 0px 20px 0px 20px;
+  width: 620px;
+  height: 110px;
+  background-color: white;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  -moz-border-top-left-radius: 0px;
+  border-top-left-radius: 0px;
+}
+
+div.zprava_nadpis
+{
+  font-size: 14px;
+  margin: 5px 5px 5px 5px;
+  border-bottom: 1px black solid;
+  width: 570px;
+}
+
+div.zprava_text
+{
+  font-size: 12px;
+  margin: 0px 15px 0px 15px;
+  width: 560px;
+  height: 70px;
+}
+
+div.zprava_datum_cas
+{
+  font-size: 8px;
+  float: right;
+  margin: 5px 40px 0px 0px;
+}
+
+/* prihlasovani */
+
+form.prihl
+{
+  border: none;
+  float: left;
+  margin: 23px 0px 0px 0px;
+}
+
+input#prihl_jmeno
+{
+  border: none;
+  width: 100px;
+  height: 20px;
+  margin: 1px;
+}
+
+input#prihl_heslo
+{
+  border: none;
+  width: 100px;
+  height: 20px;
+  margin: 1px;
+}
+
+input#prihl_tlc
+{
+  border: none;
+  width: 100px;
+  height: 20px;
+  margin: 1px;
+  background-color: #444444
+  color: black;
+}
+
+/* odhlaseni */
+
+div.prihl_p
+{
+  float: left;
+  width: 70px;
+  margin: 40px 0px 0px 0px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+a.prihl_jmeno
+{
+  font-size: 14px;
+}
+
+a.odhl
+{
+  font-size: 14px;
+}
+
+/* hlavni menu */
+
+ul.hl_menu
+{
+  height: 40px;
+  border: 2px solid black;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  margin: 20px 0px 10px 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #777777;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+ul.hl_menu li
+{
+  float: left;
+  position: relative;
+  top: 12px;
+  border-right: 1px solid black;
+}
+
+ul.hl_menu li a.activ
+{
+  background: #222222;
+  color: #FFFFFF;
+}
+
+ul.hl_menu li a:hover
+{
+  background-color: #444444;
+}
+
+ul.hl_menu li a
+{
+  padding: 11px 10px 11px 42px;
+  text-decoration: none;
+  color: #000000;
+}
+
+ul.hl_menu li a#index
+{
+  background-image:url(../images/home.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#dns
+{
+  background-image:url(../images/dns.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#hosting
+{
+  background-image:url(../images/web.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#email
+{
+  background-image:url(../images/email.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#db
+{
+  background-image:url(../images/db.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#ftp
+{
+  background-image:url(../images/ftp.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#index:hover
+{
+  background-image:url(../images/home.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#dns:hover
+{
+  background-image:url(../images/dns.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#hosting:hover
+{
+  background-image:url(../images/web.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#email:hover
+{
+  background-image:url(../images/email.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#db:hover
+{
+  background-image:url(../images/db.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#ftp:hover
+{
+  background-image:url(../images/ftp.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#index.activ
+{
+  background-image:url(../images/home.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#dns.activ
+{
+  background-image:url(../images/dns.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#hosting.activ
+{
+  background-image:url(../images/web.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#email.activ
+{
+  background-image:url(../images/email.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#db.activ
+{
+  background-image:url(../images/db.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+ul.hl_menu li a#ftp.activ
+{
+  background-image:url(../images/ftp.png);
+  background-repeat:no-repeat;
+  background-position: 5px 2px;
+  background-size:35px 35px;
+}
+
+/* dns */
+
+div.dns
+{
+  float:left ;
+  margin-left: 20px;
+  width: 940px;
+  padding: 0px 0px 0px 0px;
+}
+
+div.dns div.domena
+{
+  float: left;
+  margin: 10px 0px 0px 300px;
+}
+
+div.dns input.dom
+{
+  float: left;
+  margin: 8px 0px 0px 10px;
+  border: 1px solid black;
+  height: 16px;
+  width: 170px;
+}
+
+div.dns input.edit
+{
+  float: left;
+  margin: 8px 0px 0px 0px;
+  border: 1px solid black;
+  border-left: 0px;
+  height: 20px;
+  width: 5px;
+  background: #444444;
+}
+
+div.dns li
+{
+  float: left;
+  margin: 5px 0px 0px 120px;
+}
+
+div.dns div.ip_tname
+{
+  float: left;
+  margin: 5px 0px 0px 0px;
+}
+
+div.dns input.name
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  height: 16px;
+  width: 170px;
+}
+
+div.dns div.ip_t4
+{
+  float: left;
+  margin: 5px 0px 0px 10px;
+}
+
+div.dns input.ip4
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  height: 16px;
+  width: 170px;
+}
+
+div.dns div.ip_t6
+{
+  float: left;
+  margin: 5px 0px 0px 10px;
+}
+
+div.dns input.ip6
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  height: 16px;
+  width: 170px;
+}
+
+div.dns input.editip
+{
+  float: left;
+  margin: 3px 0px 0px 0px;
+  border: 1px solid black;
+  border-left: 0px;
+  height: 20px;
+  width: 5px;
+  background: #444444;
+}
+
+/* web hosting */
+
+div.webhosting
+{
+  float:left ;
+  margin-left: 20px;
+  width: 940px;
+  padding: 0px 0px 0px 0px;
+}
+
+div.webhosting div.domena
+{
+  float: left;
+  margin: 10px 0px 0px 300px;
+}
+
+div.webhosting input.dom
+{
+  float: left;
+  margin: 8px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.webhosting input.edit
+{
+  float: left;
+  margin: 8px 0px 0px 0px;
+  border: 1px solid black;
+  border-left: 0px;
+  height: 20px;
+  width: 5px;
+  background: #444444;
+}
+
+div.webhosting div.text
+{
+  float: left;
+  margin: 10px 10px 0px 10px;
+}
+
+/* ftp */
+
+div.ftp
+{
+  float:left ;
+  margin-left: 20px;
+  width: 940px;
+  padding: 0px 0px 0px 0px;
+}
+
+div.ftp div.domena
+{
+  float: left;
+  margin: 10px 0px 0px 300px;
+}
+
+div.ftp input.dom
+{
+  float: left;
+  margin: 8px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.ftp input.edit
+{
+  float: left;
+  margin: 8px 0px 0px 0px;
+  border: 1px solid black;
+  border-left: 0px;
+  height: 20px;
+  width: 5px;
+  background: #444444;
+}
+
+div.ftp div.text
+{
+  float: left;
+  margin: 10px 10px 0px 340px;
+}
+
+div.ftp input.dokoupit
+{
+  float: left;
+  margin: 8px 0px 0px 0px;
+  border: 1px solid black;
+  height: 20px;
+  width: 70px;
+  background: #444444;
+  color: black;
+}
+
+div.ftp li
+{
+  float: left;
+  margin: 5px 0px 0px 120px;
+}
+
+div.ftp div.f_tname
+{
+  float: left;
+  margin: 5px 0px 0px 0px;
+}
+
+div.ftp input.f_name
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.ftp div.f_tprava
+{
+  float: left;
+  margin: 5px 0px 0px 10px;
+}
+
+div.ftp input.f_prava
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.ftp div.f_tquota
+{
+  float: left;
+  margin: 5px 0px 0px 10px;
+}
+
+div.ftp input.f_quota
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.ftp input.editftp
+{
+  float: left;
+  margin: 3px 0px 0px 0px;
+  border: 1px solid black;
+  border-left: 0px;
+  height: 20px;
+  width: 5px;
+  background: #444444;
+  color: black;
+}
+
+/* email */
+
+div.email
+{
+  float:left ;
+  margin-left: 20px;
+  width: 940px;
+  padding: 0px 0px 0px 0px;
+}
+
+div.email div.domena
+{
+  float: left;
+  margin: 10px 0px 0px 300px;
+}
+
+div.email input.dom
+{
+  float: left;
+  margin: 8px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.email input.edit
+{
+  float: left;
+  margin: 8px 0px 0px 0px;
+  border: 1px solid black;
+  border-left: 0px;
+  height: 20px;
+  width: 5px;
+  background: #444444;
+}
+
+div.email div.text
+{
+  float: left;
+  margin: 10px 10px 0px 340px;
+}
+
+div.email input.dokoupit
+{
+  float: left;
+  margin: 8px 0px 0px 0px;
+  border: 1px solid black;
+  height: 20px;
+  width: 70px;
+  background: #444444;
+  color: black;
+}
+
+div.email li
+{
+  float: left;
+  margin: 5px 0px 0px 220px;
+}
+
+div.email div.e_tname
+{
+  float: left;
+  margin: 5px 0px 0px 0px;
+}
+
+div.email input.e_name
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.email div.e_tquota
+{
+  float: left;
+  margin: 5px 0px 0px 10px;
+}
+
+div.email input.e_quota
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.email input.editemail
+{
+  float: left;
+  margin: 3px 0px 0px 0px;
+  border: 1px solid black;
+  border-left: 0px;
+  height: 20px;
+  width: 5px;
+  background: #444444;
+}
+
+/* databaze */
+
+div.db
+{
+  float:left ;
+  margin-left: 20px;
+  width: 940px;
+  padding: 0px 0px 0px 0px;
+}
+
+div.db input.prikoupit
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  height: 20px;
+  width: 70px;
+  background: #444444;
+  color: black;
+}
+
+div.db li
+{
+  float: left;
+  margin: 5px 0px 0px 280px;
+}
+
+div.db div.d_tname
+{
+  float: left;
+  margin: 5px 0px 0px 0px;
+}
+
+div.db input.d_name
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.db div.d_tkap
+{
+  float: left;
+  margin: 5px 0px 0px 10px;
+}
+
+div.db input.d_kap
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  border-right: 0px;
+  height: 16px;
+  width: 170px;
+}
+
+div.db input.editdb
+{
+  float: left;
+  margin: 3px 0px 0px 0px;
+  border: 1px solid black;
+  border-left: 0px;
+  height: 20px;
+  width: 5px;
+  background: #444444;
+}
+
+/* profil */
+
+div.prof
+{
+  float:left ;
+  margin-left: 20px;
+  width: 940px;
+  padding: 0px 0px 0px 0px;
+}
+
+div.prof li
+{
+  float: left;
+  margin: 5px 0px 0px 350px;
+}
+
+div.prof div.p_tnew
+{
+  float: left;
+  margin: 5px 0px 0px 0px;
+}
+
+div.prof input.p_new
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  height: 16px;
+  width: 170px;
+}
+
+div.prof div.p_trep
+{
+  float: left;
+  margin: 5px 0px 0px 0px;
+}
+
+div.prof input.p_rep
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  height: 16px;
+  width: 170px;
+}
+
+div.prof div.p_told
+{
+  float: left;
+  margin: 5px 0px 0px 0px;
+}
+
+div.prof input.p_old
+{
+  float: left;
+  margin: 3px 0px 0px 10px;
+  border: 1px solid black;
+  height: 16px;
+  width: 170px;
+}
+
+/* tlacitka pridani a odebrani polozky */
+
+input.del
+{
+  float: left;
+  margin: 4px 0px 0px 5px;
+  height: 20px;
+  width: 20px;
+  background-image:url(../images/del.png);
+  background-size: 20px 20px;
+  background-color: transparent;
+  border: 0px solid black;
+}
+
+input.add
+{
+  float: left;
+  margin: 4px 0px 0px 450px;
+  height: 20px;
+  width: 20px;
+  background-image:url(../images/add.png);
+  background-size: 20px 20px;
+  background-color: transparent;
+  border: 0px solid black;
+}
+
+input.add#add_dom
+{
+  position: absolute;
+  margin: 8px 0px 0px 275px;
+}
+
+input.del#del_dom
+{
+  margin: 8px 0px 0px 5px;
+}
+
+/* podtrzeni */
+
+div.cl
+{
+  height: 0px;
+  clear: both;
+}

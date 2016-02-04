@@ -1,0 +1,612 @@
+[bib]@InProceedings{kintzley-jansen-hermansky:is2012a,
+	author = {Kintzley, Keith and Jansen, Aren and Hermansky, Hynek}, 
+	title = {MAP Estimation of Whole-Word Acoustic Models with Dictionary Priors}, 
+	url = {http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012c.pdf}
+ }[/bib][url]http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012c.pdf[/url]MAP Estimation of Whole-Word Acoustic Models with Dictionary Priors. Keith Kintzley, Aren Jansen and Hynek Hermansky. Proc. of INTERSPEECH , 2012
+
+[bib]@InProceedings{kintzley-jansen-church-hermansky:is2012b,
+	author = {Keith Kintzley and Jansen, Aren and Church, Kenneth and Hermansky, Hynek}, 
+	title = {Inverting the Point Process Model for Fast Phonetic Keyword Search}, 
+	address = {Portland, Oregon, USA}, 
+	publisher = {International Speech Communication Association}
+ }[/bib]Inverting the Point Process Model for Fast Phonetic Keyword Search. Keith Kintzley, Aren Jansen, Kenneth Church and Hynek Hermansky. Proc. of INTERSPEECH , 2012
+
+[bib]@InProceedings{kintzley-jansen-church-hermansky:is2012b,
+	author = {Kintzley, Keith and Jansen, Aren and Church, Kenneth and Hermansky, Hynek}, 
+	title = {Inverting the Point Process Model for Fast Phonetic Keyword Search}, 
+	address = {Portland, Oregon, USA}, 
+	publisher = {International Speech Communication Association}, 
+	url = {http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012d.pdf}
+ }[/bib][url]http://old-site.clsp.jhu.edu/~ajansen/papers/IS2012d.pdf[/url]Inverting the Point Process Model for Fast Phonetic Keyword Search. Keith Kintzley, Aren Jansen, Kenneth Church and Hynek Hermansky. Proc. of INTERSPEECH , 2012
+
+[bib]@inproceedings{kintzley-jansen-hermansky:is2011,
+	author = {Kintzley, Keith and Jansen, Aren and Hermansky, Hynek}, 
+	title = {Event Selection from Phone Posteriorgrams Using Matched Filters}, 
+	address = {Florence, Italy}, 
+	pages = {1905--1908}, 
+	url = {http://old-site.clsp.jhu.edu/~ajansen/papers/IS2011c.pdf}
+ }[/bib][url]http://old-site.clsp.jhu.edu/~ajansen/papers/IS2011c.pdf[/url]Event Selection from Phone Posteriorgrams Using Matched Filters. Keith Kintzley, Aren Jansen and Hynek Hermansky. Proc. of INTERSPEECH , 2011
+
+[bib]@article{gsvs_data-driven:2010,
+	author = {G.S.V.S. Sivaram and Nemala, Sridhar Krishna and Nima Mesgarani and Hermansky, Hynek}, 
+	title = {Data-driven and feedback based spectro-temporal features for speech recognition}
+ }[/bib]Data-driven and feedback based spectro-temporal features for speech recognition. G.S.V.S. Sivaram, Sridhar Krishna Nemala, Nima Mesgarani and Hynek Hermansky. 2011
+
+[bib]@inproceedings{gsvs_mixture:2011,
+	author = {G.S.V.S. Sivaram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Mixture of Auto-Associative Neural Networks for Speaker Verification}, 
+	booktitle = {Interspeech}
+ }[/bib]Mixture of Auto-Associative Neural Networks for Speaker Verification. G.S.V.S. Sivaram, Samuel Thomas and Hynek Hermansky. Interspeech , 2011
+
+[bib]@inproceedings{nima_adaptive:2011,
+	author = {Nima Mesgarani and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Adaptive Stream Fusion in Multistream Recognition of Speech}, 
+	booktitle = {Interspeech}
+ }[/bib]Adaptive Stream Fusion in Multistream Recognition of Speech. Nima Mesgarani, Samuel Thomas and Hynek Hermansky. Interspeech , 2011
+
+[bib]@inproceedings{samuel_mlp:2011,
+	author = {Thomas, Samuel and Patrick Nguyen and Geoffrey Zweig and Hermansky, Hynek}, 
+	title = {MLP based Phoneme Detectors for Automatic Speech Recognition}, 
+	booktitle = {ICASSP}
+ }[/bib]MLP based Phoneme Detectors for Automatic Speech Recognition. Samuel Thomas, Patrick Nguyen, Geoffrey Zweig and Hynek Hermansky. ICASSP , 2011
+
+[bib]@article{nima_toward:2011,
+	author = {Nima Mesgarani and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Toward Optimizing Stream Fusion in Multistream Recognition of Speech}, 
+	booktitle = {Journal of Acoustical Society of America - Express Letters}
+ }[/bib]Toward Optimizing Stream Fusion in Multistream Recognition of Speech. Nima Mesgarani, Samuel Thomas and Hynek Hermansky. Journal of Acoustical Society of America - Express Letters , 2011
+
+[bib]@article{joel_analyzing:2010,
+	author = {Joel Pinto and G.S.V.S. Sivaram and Mathew Magimai-Doss and Hermansky, Hynek and Herve Bourlard}, 
+	title = {Analyzing MLP Based Hierarchical Phoneme Posterior Probability Estimator}
+ }[/bib]Analyzing MLP Based Hierarchical Phoneme Posterior Probability Estimator. Joel Pinto, G.S.V.S. Sivaram, Mathew Magimai-Doss, Hynek Hermansky and Herve Bourlard. 2011
+
+[bib]@inproceedings{gsvs_smlp:2011,
+	author = {Garimella, Sri and Hermansky, Hynek}, 
+	title = {Multilayer Perceptron with Sparse Hidden Outputs for Phoneme Recognition}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010}
+ }[/bib]Multilayer Perceptron with Sparse Hidden Outputs for Phoneme Recognition. Sri Garimella and Hynek Hermansky. Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010 , 2011
+
+[bib]@article{gsvs_sparse_mlp_taslp:2011,
+	author = {Garimella, Sri and Hermansky, Hynek}, 
+	title = {Sparse Multilayer Perceptron for Phoneme Recognition}, 
+	booktitle = {IEEE Transactions on Audio, Speech, and Language Processing}
+ }[/bib]Sparse Multilayer Perceptron for Phoneme Recognition. Sri Garimella and Hynek Hermansky. IEEE Transactions on Audio, Speech, and Language Processing , 2011
+
+[bib]@article{gsvs_data-driven:2010,
+	author = {Garimella, Sri and Nemala, Sridhar Krishna and Nima Mesgarani and Hermansky, Hynek}, 
+	title = {Data-driven and feedback based spectro-temporal features for speech recognition}, 
+	booktitle = {IEEE Signal Processing Letters}
+ }[/bib]Data-driven and feedback based spectro-temporal features for speech recognition. Sri Garimella, Sridhar Krishna Nemala, Nima Mesgarani and Hynek Hermansky. IEEE Signal Processing Letters , 2011
+
+[bib]@article{joel_analyzing:2010,
+	author = {Joel Pinto and Garimella, Sri and Mathew Magimai-Doss and Hermansky, Hynek and Herve Bourlard}, 
+	title = {Analyzing MLP Based Hierarchical Phoneme Posterior Probability Estimator}, 
+	booktitle = {IEEE Transactions on Audio, Speech, and Language Processing}
+ }[/bib]Analyzing MLP Based Hierarchical Phoneme Posterior Probability Estimator. Joel Pinto, Sri Garimella, Mathew Magimai-Doss, Hynek Hermansky and Herve Bourlard. IEEE Transactions on Audio, Speech, and Language Processing , 2011
+
+[bib]@article{gsvs_mixAANNs:2011,
+	author = {Garimella, Sri and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Mixture of Auto-Associative Neural Networks for Speaker Verification}, 
+	booktitle = {Interspeech 2011}
+ }[/bib]Mixture of Auto-Associative Neural Networks for Speaker Verification. Sri Garimella, Samuel Thomas and Hynek Hermansky. Interspeech 2011 , 2011
+
+[bib]@inproceedings{scarf_icassp11,
+	author = {Geoffrey Zweig and Patrick Nguyen and Dirk Compernolle and Kris Demuynck and Les Atlas and Pascal Clark and Gregory Sell and Meihong Wang and Fei Sha and Hermansky, Hynek and Karakos, Damianos and Jansen, Aren and Thomas, Samuel and S. G.S.V.S. and Samuel Bowman and Justine Kao}, 
+	title = {Speech Recognition with Segmental Conditional Random Fields: A Summary of the JHU CLSP 2010 Summer Workshop}, 
+	booktitle = {Proceedings of the 2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP-2011)}, 
+	url = {http://www.clsp.jhu.edu/~damianos/jhu2010al.pdf}
+ }[/bib][url]http://www.clsp.jhu.edu/~damianos/jhu2010al.pdf[/url]Speech Recognition with Segmental Conditional Random Fields: A Summary of the JHU CLSP 2010 Summer Workshop. Geoffrey Zweig, Patrick Nguyen, Dirk Compernolle, Kris Demuynck, Les Atlas, Pascal Clark, Gregory Sell, Meihong Wang, Fei Sha, Hynek Hermansky, Damianos Karakos, Aren Jansen, Samuel Thomas, S. G.S.V.S., Samuel Bowman and Justine Kao. Proceedings of the 2011 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP-2011) , 2011
+
+[bib]@inproceedings{hermansky-2011-3,
+	author = {Sri Harish Mallidi and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Modulation spectrum analysis for recognition of reverberant speech}, 
+	booktitle = {Proc. Interspeech 2011}
+ }[/bib]Modulation spectrum analysis for recognition of reverberant speech. Sri Harish Mallidi, Sriram Ganapathy and Hynek Hermansky. Proc. Interspeech 2011 , 2011
+
+[bib]@inproceedings{mike_rapid:2011,
+	author = {Michael A. Carlin and Thomas, Samuel and Jansen, Aren and Hermansky, Hynek}, 
+	title = {Rapid Evaluation of Speech Representations for Spoken Term Discovery}, 
+	booktitle = {Interspeech}
+ }[/bib]Rapid Evaluation of Speech Representations for Spoken Term Discovery. Michael A. Carlin, Samuel Thomas, Aren Jansen and Hynek Hermansky. Interspeech , 2011
+
+[bib]@inproceedings{samuel_cross-lingual:2010,
+	author = {Thomas, Samuel and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Cross-lingual and Multi-stream Posterior Features for Low-resource LVCSR Systems}, 
+	booktitle = {Interspeech}
+ }[/bib]Cross-lingual and Multi-stream Posterior Features for Low-resource LVCSR Systems. Samuel Thomas, Sriram Ganapathy and Hynek Hermansky. Interspeech , 2010
+
+[bib]@inproceedings{nima_a:2010,
+	author = {Nima Mesgarani and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {A Multistream Multiresolution Framework for Phoneme Recognition}, 
+	booktitle = {Interspeech}
+ }[/bib]A Multistream Multiresolution Framework for Phoneme Recognition. Nima Mesgarani, Samuel Thomas and Hynek Hermansky. Interspeech , 2010
+
+[bib]@inproceedings{samuel_a:2010,
+	author = {Thomas, Samuel and Patil, Kailash and Ganapathy, Sriram and Nima Mesgarani and Hermansky, Hynek}, 
+	title = {A Phoneme Recognition Framework based on Auditory Spectro-Temporal Receptive Fields}, 
+	booktitle = {Interspeech}
+ }[/bib]A Phoneme Recognition Framework based on Auditory Spectro-Temporal Receptive Fields. Samuel Thomas, Kailash Patil, Sriram Ganapathy, Nima Mesgarani and Hynek Hermansky. Interspeech , 2010
+
+[bib]@inproceedings{sriram_robust:2010,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Robust Spectro-Temporal Features Based On Autoregressive Models Of Hilbert Envelopes}, 
+	booktitle = {ICASSP}
+ }[/bib]Robust Spectro-Temporal Features Based On Autoregressive Models Of Hilbert Envelopes. Sriram Ganapathy, Samuel Thomas and Hynek Hermansky. ICASSP , 2010
+
+[bib]@inproceedings{sriram_comparision:2010,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Comparison Of Modulation Features For Phoneme Recognition}, 
+	booktitle = {ICASSP}
+ }[/bib]Comparison Of Modulation Features For Phoneme Recognition. Sriram Ganapathy, Samuel Thomas and Hynek Hermansky. ICASSP , 2010
+
+[bib]@article{sriram_temporal:2010,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Temporal Envelope Compensation for Robust Phoneme Recognition using Modulation Spectrum}, 
+	booktitle = {Journal of Acoustical Society of America}
+ }[/bib]Temporal Envelope Compensation for Robust Phoneme Recognition using Modulation Spectrum. Sriram Ganapathy, Samuel Thomas and Hynek Hermansky. Journal of Acoustical Society of America , 2010
+
+[bib]@inproceedings{gsvs_sparse:2010,
+	author = {G.S.V.S. Sivaram and Nemala, Sridhar Krishna and Elhilali, Mounya and Trac Tran and Hermansky, Hynek}, 
+	title = {Sparse Coding For Speech Recognition}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010}
+ }[/bib]Sparse Coding For Speech Recognition. G.S.V.S. Sivaram, Sridhar Krishna Nemala, Mounya Elhilali, Trac Tran and Hynek Hermansky. Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010 , 2010
+
+[bib]@article{gsvs_sparse:2010,
+	author = {G.S.V.S. Sivaram and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Sparse Auto-associative Neural Networks: Theory and Application to Speech Recognition}
+ }[/bib]Sparse Auto-associative Neural Networks: Theory and Application to Speech Recognition. G.S.V.S. Sivaram, Sriram Ganapathy and Hynek Hermansky. 2010
+
+[bib]@inproceedings{gsvs_sparse:2010,
+	author = {Garimella, Sri and Nemala, Sridhar Krishna and Elhilali, Mounya and Trac Tran and Hermansky, Hynek}, 
+	title = {Sparse Coding For Speech Recognition}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010}
+ }[/bib]Sparse Coding For Speech Recognition. Sri Garimella, Sridhar Krishna Nemala, Mounya Elhilali, Trac Tran and Hynek Hermansky. Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010 , 2010
+
+[bib]@article{gsvs_sparse:2010,
+	author = {Garimella, Sri and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Sparse Auto-associative Neural Networks: Theory and Application to Speech Recognition}, 
+	booktitle = {Interspeech 2010}
+ }[/bib]Sparse Auto-associative Neural Networks: Theory and Application to Speech Recognition. Sri Garimella, Sriram Ganapathy and Hynek Hermansky. Interspeech 2010 , 2010
+
+[bib]@inproceedings{FIMMDDS09,
+	author = {Priebe, Carey and Hermansky, Hynek and David Marchette and Elizabeth Hohman and Coppersmith, Glen}, 
+	title = {Fusion and inference from multiple data sources}, 
+	booktitle = {Proceedings ISI'10}
+ }[/bib]Fusion and inference from multiple data sources. Carey Priebe, Hynek Hermansky, David Marchette, Elizabeth Hohman and Glen Coppersmith. Proceedings ISI'10 , 2010
+
+[bib]@inproceedings{hermansky-2010-10,
+	author = {Thomas, Samuel and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Cross-Lingual and Multi-Stream Posterior Features for Low Resource LVCSR Systems}, 
+	booktitle = {Proc. INTERSPEECH 2010}
+ }[/bib]Cross-Lingual and Multi-Stream Posterior Features for Low Resource LVCSR Systems. Samuel Thomas, Sriram Ganapathy and Hynek Hermansky. Proc. INTERSPEECH 2010 , 2010
+
+[bib]@inproceedings{hermansky-2010-11,
+	author = {Jansen, Aren and Church, Kenneth and Hermansky, Hynek}, 
+	title = {Towards Spoken Term Discovery at Scale with Zero Resources}, 
+	booktitle = {Proc. INTERSPEECH 2010}
+ }[/bib]Towards Spoken Term Discovery at Scale with Zero Resources. Aren Jansen, Kenneth Church and Hynek Hermansky. Proc. INTERSPEECH 2010 , 2010
+
+[bib]@inproceedings{hermansky-2010-14,
+	author = {Hermansky, Hynek}, 
+	title = {History Of Modulation Spectrum}, 
+	booktitle = {In ASR, Invited Paper, Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010}
+ }[/bib]History Of Modulation Spectrum. Hynek Hermansky. In ASR, Invited Paper, Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) 2010 , 2010
+
+[bib]@inproceedings{hermansky-2010-18,
+	author = {Liu, Weimin and Nima Mesgarani and John Harris and Hermansky, Hynek}, 
+	title = {The Use of Spike-Based Representations for Hardware Audition System}, 
+	booktitle = {IEEE International Symposium on Circuits and Systems 2010}
+ }[/bib]The Use of Spike-Based Representations for Hardware Audition System. Weimin Liu, Nima Mesgarani, John Harris and Hynek Hermansky. IEEE International Symposium on Circuits and Systems 2010 , 2010
+
+[bib]@inproceedings{hermansky-2010-19,
+	author = {Tobi Delbruck and Thomas Koch and Raphal Berner and Hermansky, Hynek}, 
+	title = {Fully Integrated 500uW Speech Detection Wake-Up Circuit}, 
+	booktitle = {IEEE International Symposium on Circuits and Systems 2010}
+ }[/bib]Fully Integrated 500uW Speech Detection Wake-Up Circuit. Tobi Delbruck, Thomas Koch, Raphal Berner and Hynek Hermansky. IEEE International Symposium on Circuits and Systems 2010 , 2010
+
+[bib]@inproceedings{hermansky-2010-20,
+	author = {S. Kombrink and M. Hanneman and L. Burget and Hermansky, Hynek}, 
+	title = {Recovery of rare words in lecture speech}, 
+	booktitle = {Proceedings Text, Speech and Dialogue 2010}
+ }[/bib]Recovery of rare words in lecture speech. S. Kombrink, M. Hanneman, L. Burget and Hynek Hermansky. Proceedings Text, Speech and Dialogue 2010 , 2010
+
+[bib]@inproceedings{sriram_applications:2009,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Petr Motlicek and Hermansky, Hynek}, 
+	title = {Applications Of Signal Analysis Using Autoregressive Models For Amplitude Modulation}, 
+	booktitle = {WASPAA}
+ }[/bib]Applications Of Signal Analysis Using Autoregressive Models For Amplitude Modulation. Sriram Ganapathy, Samuel Thomas, Petr Motlicek and Hynek Hermansky. WASPAA , 2009
+
+[bib]@inproceedings{sriram_temporal:2009,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Temporal Envelope Subtraction for Robust Speech Recognition Using Modulation Spectr}, 
+	booktitle = {ASRU}
+ }[/bib]Temporal Envelope Subtraction for Robust Speech Recognition Using Modulation Spectr. Sriram Ganapathy, Samuel Thomas and Hynek Hermansky. ASRU , 2009
+
+[bib]@inproceedings{sriram_static:2009,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Static and Dynamic Modulation Spectrum for Speech Recognition}, 
+	booktitle = {Interspeech}
+ }[/bib]Static and Dynamic Modulation Spectrum for Speech Recognition. Sriram Ganapathy, Samuel Thomas and Hynek Hermansky. Interspeech , 2009
+
+[bib]@inproceedings{samuel_phoneme:2009,
+	author = {Thomas, Samuel and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Phoneme Recognition Using Spectral Envelope And Modulation Frequency Features}, 
+	booktitle = {ICASSP}
+ }[/bib]Phoneme Recognition Using Spectral Envelope And Modulation Frequency Features. Samuel Thomas, Sriram Ganapathy and Hynek Hermansky. ICASSP , 2009
+
+[bib]@inproceedings{samuel_tandem:2009,
+	author = {Thomas, Samuel and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Tandem Representations of Spectral Envelope and Modulation Frequency Features for ASR}, 
+	booktitle = {Interspeech}
+ }[/bib]Tandem Representations of Spectral Envelope and Modulation Frequency Features for ASR. Samuel Thomas, Sriram Ganapathy and Hynek Hermansky. Interspeech , 2009
+
+[bib]@inproceedings{joel_volterra:2009,
+	author = {Joel Pinto and G.S.V.S. Sivaram and Hermansky, Hynek and Mathew Magimai-Doss}, 
+	title = {Volterra Series for Analyzing MLP based Phoneme Posterior Probability Estimator}, 
+	booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2009}
+ }[/bib]Volterra Series for Analyzing MLP based Phoneme Posterior Probability Estimator. Joel Pinto, G.S.V.S. Sivaram, Hynek Hermansky and Mathew Magimai-Doss. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2009 , 2009
+
+[bib]@inproceedings{joel_volterra:2009,
+	author = {Joel Pinto and Garimella, Sri and Hermansky, Hynek and Mathew Magimai-Doss}, 
+	title = {Volterra Series for Analyzing MLP based Phoneme Posterior Probability Estimator}, 
+	booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2009}
+ }[/bib]Volterra Series for Analyzing MLP based Phoneme Posterior Probability Estimator. Joel Pinto, Sri Garimella, Hynek Hermansky and Mathew Magimai-Doss. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2009 , 2009
+
+[bib]@inproceedings{Yao2009Essli,
+	author = {Yao, Xuchen and Hermansky, Hynek and Sergio Duarte and Çağrı Çöltekin}, 
+	title = {Unsupervised Syntax Learning with Categorial Grammars using Inference Rules}, 
+	booktitle = {Proceedings of The 14th Student Session of the European Summer School for Logic, Language, and Information}, 
+	address = {Bordeaux, France}, 
+	url = {http://cs.jhu.edu/~xuchen/paper/Yao2009esslli.pdf}
+ }[/bib][url]http://cs.jhu.edu/~xuchen/paper/Yao2009esslli.pdf[/url]Unsupervised Syntax Learning with Categorial Grammars using Inference Rules. Xuchen Yao, Hynek Hermansky, Sergio Duarte and Çağrı Çöltekin. Proceedings of The 14th Student Session of the European Summer School for Logic, Language, and Information , 2009
+
+[bib]@inproceedings{Yao2009Chinese,
+	author = {Yao, Xuchen and Hermansky, Hynek}, 
+	title = {A Categorial Grammar Analysis of Some Typical Chinese Language Phenomena}, 
+	booktitle = {Proc. of 10th Chinese National Conference on Computational Linguistics}, 
+	address = {Yantai, China}, 
+	url = {http://cs.jhu.edu/~xuchen/paper/Yao2009CNCCL.pdf}
+ }[/bib][url]http://cs.jhu.edu/~xuchen/paper/Yao2009CNCCL.pdf[/url]A Categorial Grammar Analysis of Some Typical Chinese Language Phenomena. Xuchen Yao and Hynek Hermansky. Proc. of 10th Chinese National Conference on Computational Linguistics , 2009
+
+[bib]@inproceedings{Yao2009benelearn,
+	author = {Yao, Xuchen and Hermansky, Hynek and Sergio Duarte and Çağrı Çöltekin}, 
+	title = {An Inference-rules based Categorial Grammar Learner for Simulating Language Acquisition}, 
+	booktitle = {Proc. of The 18th Annual Belgian-Dutch Conference on Machine Learning}, 
+	address = {Tilburg, The Netherlands.}, 
+	url = {http://cs.jhu.edu/~xuchen/paper/Yao2009benelearn.pdf}
+ }[/bib][url]http://cs.jhu.edu/~xuchen/paper/Yao2009benelearn.pdf[/url]An Inference-rules based Categorial Grammar Learner for Simulating Language Acquisition. Xuchen Yao, Hynek Hermansky, Sergio Duarte and Çağrı Çöltekin. Proc. of The 18th Annual Belgian-Dutch Conference on Machine Learning , 2009
+
+[bib]@inproceedings{hermansky-2009-21,
+	author = {Petr Motlicek and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Arithmetic Coding of Sub-Band Residuals in FDLP Speech/Audio Codec}, 
+	booktitle = {10th Annual Conference of the International Speech Communication Association, ISCA}
+ }[/bib]Arithmetic Coding of Sub-Band Residuals in FDLP Speech/Audio Codec. Petr Motlicek, Sriram Ganapathy and Hynek Hermansky. 10th Annual Conference of the International Speech Communication Association, ISCA , 2009
+
+[bib]@inproceedings{hermansky-2009-22,
+	author = {Ganapathy, Sriram and Petr Motlicek and Hermansky, Hynek}, 
+	title = {Error Resilient Speech Coding Using Sub-band Hilbert Envelopes}, 
+	booktitle = {12th International Conference on Text, Speech and Dialogue, TSD 2009}
+ }[/bib]Error Resilient Speech Coding Using Sub-band Hilbert Envelopes. Sriram Ganapathy, Petr Motlicek and Hynek Hermansky. 12th International Conference on Text, Speech and Dialogue, TSD 2009 , 2009
+
+[bib]@inproceedings{hermansky-2009-23,
+	author = {Ganapathy, Sriram and Petr Motlicek and Hermansky, Hynek}, 
+	title = {MDCT for Encoding Residual Signals in Frequency Domain Linear Prediction}, 
+	booktitle = {Audio Engineering Society (AES), 127th Convention, Audio Engineering Society (AES), Audio Engineering Society}
+ }[/bib]MDCT for Encoding Residual Signals in Frequency Domain Linear Prediction. Sriram Ganapathy, Petr Motlicek and Hynek Hermansky. Audio Engineering Society (AES), 127th Convention, Audio Engineering Society (AES), Audio Engineering Society , 2009
+
+[bib]@inproceedings{hermansky-2009-26,
+	author = {Nima Mesgarani and Garimella, Sri and Sridhar K. Nemala and Hermansky, Hynek}, 
+	title = {Discriminant Spectrotemporal Features for Phoneme Recognition}, 
+	booktitle = {Proc. Interspeech 2009}
+ }[/bib]Discriminant Spectrotemporal Features for Phoneme Recognition. Nima Mesgarani, Sri Garimella, Sridhar K. Nemala and Hynek Hermansky. Proc. Interspeech 2009 , 2009
+
+[bib]@inproceedings{hermansky-2009-30,
+	author = {S. Kombrink and L. Burget and P. Matejka and M. Karafiat and Hermansky, Hynek}, 
+	title = {Posterior-based Out-of-Vocabulary Word Detection in Telephone Speech}, 
+	booktitle = {Proc. Interspeech 2009}
+ }[/bib]Posterior-based Out-of-Vocabulary Word Detection in Telephone Speech. S. Kombrink, L. Burget, P. Matejka, M. Karafiat and Hynek Hermansky. Proc. Interspeech 2009 , 2009
+
+[bib]@inproceedings{hermansky-2009-32,
+	author = {Joel Pinto and Sivaram G.S.V.S. and Hermansky, Hynek and Mathew Magimai}, 
+	title = {Volterra Series For Analyzing MLP Based Phoneme Posterior Estimator}, 
+	booktitle = {Proceedings of ICASSP 2009}
+ }[/bib]Volterra Series For Analyzing MLP Based Phoneme Posterior Estimator. Joel Pinto, Sivaram G.S.V.S., Hynek Hermansky and Mathew Magimai. Proceedings of ICASSP 2009 , 2009
+
+[bib]@inproceedings{hermansky-2009-34,
+	author = {Misha Pavel and Malcolm Slaney and Hermansky, Hynek}, 
+	title = {Reconciliation of human and machine speech recognition performance}, 
+	booktitle = {Proceedings of ICASSP 2009}
+ }[/bib]Reconciliation of human and machine speech recognition performance. Misha Pavel, Malcolm Slaney and Hynek Hermansky. Proceedings of ICASSP 2009 , 2009
+
+[bib]@inproceedings{burget2008combination,
+	author = {Lukas Burget and Petr Schwarz and Pavel Matejka and Mirko Hanneman and Rastrow, Ariya and Chris White and Khudanpur, Sanjeev and Hermansky, Hynek and Jan Cernocky}, 
+	title = {Combination of Strongly and Weakly Constrained Recognizers for Reliable Detection of OOVs}, 
+	booktitle = {Proceedings of the IEEE International Conference on Acoustics Speech and Signal Processing}, 
+	pages = {4081-4084}, 
+	url = {http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4518551}
+ }[/bib][url]http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=4518551[/url]Combination of Strongly and Weakly Constrained Recognizers for Reliable Detection of OOVs. Lukas Burget, Petr Schwarz, Pavel Matejka, Mirko Hanneman, Ariya Rastrow, Chris White, Sanjeev Khudanpur, Hynek Hermansky and Jan Cernocky. Proceedings of the IEEE International Conference on Acoustics Speech and Signal Processing , 2008
+
+[bib]@inproceedings{samuel_spectro-temporal:2008,
+	author = {Thomas, Samuel and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Spectro-Temporal Features for Automatic Speech Recognition using Linear Prediction in Spectral Domain}, 
+	booktitle = {EUSIPCO}
+ }[/bib]Spectro-Temporal Features for Automatic Speech Recognition using Linear Prediction in Spectral Domain. Samuel Thomas, Sriram Ganapathy and Hynek Hermansky. EUSIPCO , 2008
+
+[bib]@inproceedings{sriram_front-end:2008,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Front-end for Far-Field Speech Recognition based on Frequency Domain Linear Prediction}, 
+	booktitle = {Interspeech}
+ }[/bib]Front-end for Far-Field Speech Recognition based on Frequency Domain Linear Prediction. Sriram Ganapathy, Samuel Thomas and Hynek Hermansky. Interspeech , 2008
+
+[bib]@inproceedings{samuel_hilbert:2008,
+	author = {Thomas, Samuel and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Hilbert Envelope Based Spectro-Temporal Features for Phoneme Recognition in Telephone Speech}, 
+	booktitle = {Interspeech}
+ }[/bib]Hilbert Envelope Based Spectro-Temporal Features for Phoneme Recognition in Telephone Speech. Samuel Thomas, Sriram Ganapathy and Hynek Hermansky. Interspeech , 2008
+
+[bib]@inproceedings{samuel_hilbert:2008,
+	author = {Thomas, Samuel and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Hilbert Envelope Based Features for Far- Field Speech Recognition}, 
+	booktitle = {MLMI}
+ }[/bib]Hilbert Envelope Based Features for Far- Field Speech Recognition. Samuel Thomas, Sriram Ganapathy and Hynek Hermansky. MLMI , 2008
+
+[bib]@article{sriram_modulation:2008,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Modulation frequency features for phoneme recognition in noisy speech}, 
+	booktitle = {Journal of Acoustical Society of America - Express Letters}
+ }[/bib]Modulation frequency features for phoneme recognition in noisy speech. Sriram Ganapathy, Samuel Thomas and Hynek Hermansky. Journal of Acoustical Society of America - Express Letters , 2008
+
+[bib]@article{samuel_recognition:2010,
+	author = {Thomas, Samuel and Ganapathy, Sriram and Hermansky, Hynek}, 
+	title = {Recognition Of Reverberant Speech Using Frequency Domain Linear Prediction}, 
+	booktitle = {IEEE Signal Processing Letters}
+ }[/bib]Recognition Of Reverberant Speech Using Frequency Domain Linear Prediction. Samuel Thomas, Sriram Ganapathy and Hynek Hermansky. IEEE Signal Processing Letters , 2008
+
+[bib]@inproceedings{gsvs_introducing:2008,
+	author = {G.S.V.S. Sivaram and Hermansky, Hynek}, 
+	title = {Introducing Temporal Asymmetries in Feature Extraction for Automatic Speech Recognition}, 
+	booktitle = {Interspeech 2008}
+ }[/bib]Introducing Temporal Asymmetries in Feature Extraction for Automatic Speech Recognition. G.S.V.S. Sivaram and Hynek Hermansky. Interspeech 2008 , 2008
+
+[bib]@inproceedings{gsvs_emulating:2008,
+	author = {G.S.V.S. Sivaram and Hermansky, Hynek}, 
+	title = {Emulating Temporal Receptive Fields of Auditory Mid-brain Neurons for Automatic Speech Recognition}, 
+	booktitle = {EUSIPCO 2008}
+ }[/bib]Emulating Temporal Receptive Fields of Auditory Mid-brain Neurons for Automatic Speech Recognition. G.S.V.S. Sivaram and Hynek Hermansky. EUSIPCO 2008 , 2008
+
+[bib]@inproceedings{joel_reverse:2008,
+	author = {Joel Pinto and G.S.V.S. Sivaram and Hermansky, Hynek}, 
+	title = {Reverse Correlation for Analyzing MLP Posterior Features in ASR}, 
+	booktitle = {11th International Conference on Text, Speech and Dialogue(TSD 2008)}
+ }[/bib]Reverse Correlation for Analyzing MLP Posterior Features in ASR. Joel Pinto, G.S.V.S. Sivaram and Hynek Hermansky. 11th International Conference on Text, Speech and Dialogue(TSD 2008) , 2008
+
+[bib]@inproceedings{gsvs_introducing:2008,
+	author = {Garimella, Sri and Hermansky, Hynek}, 
+	title = {Introducing Temporal Asymmetries in Feature Extraction for Automatic Speech Recognition}, 
+	booktitle = {Interspeech 2008}
+ }[/bib]Introducing Temporal Asymmetries in Feature Extraction for Automatic Speech Recognition. Sri Garimella and Hynek Hermansky. Interspeech 2008 , 2008
+
+[bib]@inproceedings{gsvs_emulating:2008,
+	author = {Garimella, Sri and Hermansky, Hynek}, 
+	title = {Emulating Temporal Receptive Fields of Auditory Mid-brain Neurons for Automatic Speech Recognition}, 
+	booktitle = {EUSIPCO 2008}
+ }[/bib]Emulating Temporal Receptive Fields of Auditory Mid-brain Neurons for Automatic Speech Recognition. Sri Garimella and Hynek Hermansky. EUSIPCO 2008 , 2008
+
+[bib]@inproceedings{joel_reverse:2008,
+	author = {Joel Pinto and Garimella, Sri and Hermansky, Hynek}, 
+	title = {Reverse Correlation for Analyzing MLP Posterior Features in ASR}, 
+	booktitle = {11th International Conference on Text, Speech and Dialogue(TSD 2008)}
+ }[/bib]Reverse Correlation for Analyzing MLP Posterior Features in ASR. Joel Pinto, Sri Garimella and Hynek Hermansky. 11th International Conference on Text, Speech and Dialogue(TSD 2008) , 2008
+
+[bib]@inproceedings{hermansky-2008-31,
+	author = {Ganapathy, Sriram and Petr Motlicek and Hermansky, Hynek and Harinath Garudadri}, 
+	title = {Autoregressive Modelling of Hilbert Envelopes for Wide-band Audio Coding}, 
+	booktitle = {AES 124th Convention}
+ }[/bib]Autoregressive Modelling of Hilbert Envelopes for Wide-band Audio Coding. Sriram Ganapathy, Petr Motlicek, Hynek Hermansky and Harinath Garudadri. AES 124th Convention , 2008
+
+[bib]@inproceedings{hermansky-2008-35,
+	author = {Daphna Weinshall and Hermansky, Hynek and Alon Zweig and Luo, Xiaoqiang and Holly Jimison and Frank Ohl and Misha Pavel}, 
+	title = {Beyond Novelty Detection: Incongruent Events, when General and Specific Classifiers Disagree}, 
+	booktitle = {Proceedings Neural Information Processing Conference}
+ }[/bib]Beyond Novelty Detection: Incongruent Events, when General and Specific Classifiers Disagree. Daphna Weinshall, Hynek Hermansky, Alon Zweig, Xiaoqiang Luo, Holly Jimison, Frank Ohl and Misha Pavel. Proceedings Neural Information Processing Conference , 2008
+
+[bib]@inproceedings{hermansky-2008-36,
+	author = {Joel Pinto and Hermansky, Hynek}, 
+	title = {Combining Evidence from a Generative and a Discriminative Model in Phoneme Recognition}, 
+	booktitle = {Proceedings of Interspeech 2008}
+ }[/bib]Combining Evidence from a Generative and a Discriminative Model in Phoneme Recognition. Joel Pinto and Hynek Hermansky. Proceedings of Interspeech 2008 , 2008
+
+[bib]@inproceedings{hermansky-2008-37,
+	author = {Fabio Valente and Hermansky, Hynek}, 
+	title = {On the Combination of Auditory and Modulation Frequency Channels for ASR applications}, 
+	booktitle = {Proceedings of Interspeech, 2008}
+ }[/bib]On the Combination of Auditory and Modulation Frequency Channels for ASR applications. Fabio Valente and Hynek Hermansky. Proceedings of Interspeech, 2008 , 2008
+
+[bib]@inproceedings{hermansky-2008-38,
+	author = {Ganapathy, Sriram and Petr Motlicek and Hermansky, Hynek}, 
+	title = {Spectral Noise Shaping: Improvements in Speech/Audio Codec Based on Linear Prediction in Spectral Domain}, 
+	booktitle = {Proceedings of Interspeech, 2008}
+ }[/bib]Spectral Noise Shaping: Improvements in Speech/Audio Codec Based on Linear Prediction in Spectral Domain. Sriram Ganapathy, Petr Motlicek and Hynek Hermansky. Proceedings of Interspeech, 2008 , 2008
+
+[bib]@inproceedings{hermansky-2008-40,
+	author = {Joel Pinto and Igor Szoke and S.R.M. Prasanna and Hermansky, Hynek}, 
+	title = {Fast Approximate Spoken Term Detection from Sequence of Phonemes}, 
+	booktitle = {The 31st Annual International ACM SIGIR Conference}
+ }[/bib]Fast Approximate Spoken Term Detection from Sequence of Phonemes. Joel Pinto, Igor Szoke, S.R.M. Prasanna and Hynek Hermansky. The 31st Annual International ACM SIGIR Conference , 2008
+
+[bib]@inproceedings{hermansky-2008-42,
+	author = {Ganapathy, Sriram and Thomas, Samuel and Hermansky, Hynek}, 
+	title = {Front-end for Far-Field Speech Recognition based on Frequency Domain Linear Prediction}, 
+	booktitle = {Proceedings of Interspeech, 2008}
+ }[/bib]Front-end for Far-Field Speech Recognition based on Frequency Domain Linear Prediction. Sriram Ganapathy, Samuel Thomas and Hynek Hermansky. Proceedings of Interspeech, 2008 , 2008
+
+[bib]@inproceedings{hermansky-2008-46,
+	author = {Garimella, Sri and Hermansky, Hynek}, 
+	title = {Emulating Temporal Receptive Fields of Higher Level Auditory Neurons for ASR}, 
+	booktitle = {11th International Conference on Text, Speech and Dialogue}
+ }[/bib]Emulating Temporal Receptive Fields of Higher Level Auditory Neurons for ASR. Sri Garimella and Hynek Hermansky. 11th International Conference on Text, Speech and Dialogue , 2008
+
+[bib]@inproceedings{hermansky-2008-48,
+	author = {Sree Hari Krishnan Parthasarathi and Petr Motlicek and Hermansky, Hynek}, 
+	title = {Exploiting contextual information for speech/non-speech detection}, 
+	booktitle = {Text, Speech and Dialogue, 2008}
+ }[/bib]Exploiting contextual information for speech/non-speech detection. Sree Hari Krishnan Parthasarathi, Petr Motlicek and Hynek Hermansky. Text, Speech and Dialogue, 2008 , 2008
+
+[bib]@inproceedings{hermansky-2008-49,
+	author = {Ganapathy, Sriram and Petr Motlicek and Hermansky, Hynek and Harinath Garudadri}, 
+	title = {Autoregressive Modeling of Hilbert Envelopes for Wide-Band Audio Coding}, 
+	booktitle = {124th Convention of Audioengineering Society}
+ }[/bib]Autoregressive Modeling of Hilbert Envelopes for Wide-Band Audio Coding. Sriram Ganapathy, Petr Motlicek, Hynek Hermansky and Harinath Garudadri. 124th Convention of Audioengineering Society , 2008
+
+[bib]@inproceedings{hermansky-2008-50,
+	author = {Lukas Burget and Petr Schwarz and Pavel Matejka and Mirko Hannemann and Rastrow, Ariya and White, Christopher and Khudanpur, Sanjeev and Hermansky, Hynek and Jan Cernocky}, 
+	title = {Combination Of Strongly And Weakly Constrained Recognizers For Reliable Detection Of Out-Of-Vocabulary Words (OOVs)}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech}
+ }[/bib]Combination Of Strongly And Weakly Constrained Recognizers For Reliable Detection Of Out-Of-Vocabulary Words (OOVs). Lukas Burget, Petr Schwarz, Pavel Matejka, Mirko Hannemann, Ariya Rastrow, Christopher White, Sanjeev Khudanpur, Hynek Hermansky and Jan Cernocky. Proceedings of IEEE Int. Conf. on Acoustics, Speech , 2008
+
+[bib]@inproceedings{hermansky-2008-51,
+	author = {White, Christopher and Geoffrey Zweig and Lukas Burget and Petr Schwarz and Hermansky, Hynek}, 
+	title = {Confidence Estimation, Oov Detection And Language Id Using Phone-To-Word Transduction And Phone-Level Alignments}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)}
+ }[/bib]Confidence Estimation, Oov Detection And Language Id Using Phone-To-Word Transduction And Phone-Level Alignments. Christopher White, Geoffrey Zweig, Lukas Burget, Petr Schwarz and Hynek Hermansky. Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) , 2008
+
+[bib]@inproceedings{hermansky-2008-52,
+	author = {Ganapathy, Sriram and Petr Motlicek and Hermansky, Hynek and Harinath Garudadri}, 
+	title = {Temporal Masking For Bit-Rate Reduction In Audio Codec Based On Frequency Domain Linear Prediction}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech}
+ }[/bib]Temporal Masking For Bit-Rate Reduction In Audio Codec Based On Frequency Domain Linear Prediction. Sriram Ganapathy, Petr Motlicek, Hynek Hermansky and Harinath Garudadri. Proceedings of IEEE Int. Conf. on Acoustics, Speech , 2008
+
+[bib]@inproceedings{hermansky-2008-53,
+	author = {Joel Pinto and Yegnanarayana Bayya and Hermansky, Hynek and Mathew Magimai-Doss}, 
+	title = {Exploiting Contextual Information For Improved Phoneme Recognition}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech}
+ }[/bib]Exploiting Contextual Information For Improved Phoneme Recognition. Joel Pinto, Yegnanarayana Bayya, Hynek Hermansky and Mathew Magimai-Doss. Proceedings of IEEE Int. Conf. on Acoustics, Speech , 2008
+
+[bib]@inproceedings{hermansky-2008-54,
+	author = {Fabio Valente and Hermansky, Hynek}, 
+	title = {Hierarchical and Parallel Processing of Modulation Spectrum for ASR applications}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech}
+ }[/bib]Hierarchical and Parallel Processing of Modulation Spectrum for ASR applications. Fabio Valente and Hynek Hermansky. Proceedings of IEEE Int. Conf. on Acoustics, Speech , 2008
+
+[bib]@inproceedings{hermansky-2007-55,
+	author = {F. Valente and Hermansky, Hynek}, 
+	title = {Multi-stream Features Combination based on Dempster-Shafer Rule for LVCSR System}, 
+	booktitle = {Proceedings of the International Conference on Spoken Language Processing}
+ }[/bib]Multi-stream Features Combination based on Dempster-Shafer Rule for LVCSR System. F. Valente and Hynek Hermansky. Proceedings of the International Conference on Spoken Language Processing , 2007
+
+[bib]@inproceedings{hermansky-2007-57,
+	author = {F. Valente and Hermansky, Hynek}, 
+	title = {Combination of Acoustic Classifiers based on Dempster-Shafer Theory of evidence}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)}
+ }[/bib]Combination of Acoustic Classifiers based on Dempster-Shafer Theory of evidence. F. Valente and Hynek Hermansky. Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) , 2007
+
+[bib]@inproceedings{hermansky-2007-58,
+	author = {Fabio Valente and Jithendra Vepa and Christian Plahl and Christian Gollan and Hermansky, Hynek and Ralf Schluter}, 
+	title = {Hierarchical neural networks feature extraction for LVCSR system}, 
+	booktitle = {Proceedings of Interspeech-2007}
+ }[/bib]Hierarchical neural networks feature extraction for LVCSR system. Fabio Valente, Jithendra Vepa, Christian Plahl, Christian Gollan, Hynek Hermansky and Ralf Schluter. Proceedings of Interspeech-2007 , 2007
+
+[bib]@inproceedings{hermansky-2007-59,
+	author = {P. Motlicek and V. Ullal and Hermansky, Hynek}, 
+	title = {Wide-Band Perceptual Audio Coding based on Frequency-Domain Linear Prediction}, 
+	booktitle = {Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP)}
+ }[/bib]Wide-Band Perceptual Audio Coding based on Frequency-Domain Linear Prediction. P. Motlicek, V. Ullal and Hynek Hermansky. Proceedings of IEEE Int. Conf. on Acoustics, Speech, and Signal Processing (ICASSP) , 2007
+
+[bib]@inproceedings{hermansky-2007-60,
+	author = {M. Prasanna and Hermansky, Hynek}, 
+	title = {MRASTA and PLP in Automatic Speech Recognition}, 
+	booktitle = {Proceedings of the International Conference on Spoken Language Processing}
+ }[/bib]MRASTA and PLP in Automatic Speech Recognition. M. Prasanna and Hynek Hermansky. Proceedings of the International Conference on Spoken Language Processing , 2007
+
+[bib]@inproceedings{hermansky-2007-62,
+	author = {J. Pinto and A. Lovitt and Hermansky, Hynek}, 
+	title = {Exploiting Phoneme Similarities in Hybrid HMM-ANN Keyword Spotting}, 
+	booktitle = {Proceedings of the International Conference on Spoken Language Processing}
+ }[/bib]Exploiting Phoneme Similarities in Hybrid HMM-ANN Keyword Spotting. J. Pinto, A. Lovitt and Hynek Hermansky. Proceedings of the International Conference on Spoken Language Processing , 2007
+
+[bib]@inproceedings{hermansky-2007-63,
+	author = {H. Ketabdar and M. Hannemann and Hermansky, Hynek}, 
+	title = {Detection of Out-of-Vocabulary Words in Posterior Based ASR}, 
+	booktitle = {Proceedings of the International Conference on Spoken Language Processing}
+ }[/bib]Detection of Out-of-Vocabulary Words in Posterior Based ASR. H. Ketabdar, M. Hannemann and Hynek Hermansky. Proceedings of the International Conference on Spoken Language Processing , 2007
+
+[bib]@inproceedings{hermansky-2006-66,
+	author = {F. Valente and Hermansky, Hynek}, 
+	title = {Discriminant Linear Processing of Time-Frequency Plane}, 
+	booktitle = {Proceedings of the International Conference on Spoken Language Processing}
+ }[/bib]Discriminant Linear Processing of Time-Frequency Plane. F. Valente and Hynek Hermansky. Proceedings of the International Conference on Spoken Language Processing , 2006
+
+[bib]@inproceedings{hermansky-2006-67,
+	author = {P. Fousek and Hermansky, Hynek}, 
+	title = {Towards ASR Based on Hierarchical Posterior-Based Keyword Recognition}, 
+	booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing}
+ }[/bib]Towards ASR Based on Hierarchical Posterior-Based Keyword Recognition. P. Fousek and Hynek Hermansky. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing , 2006
+
+[bib]@inproceedings{hermansky-2006-68,
+	author = {P. Motlicek and Hermansky, Hynek and H. Garudadri and N. Srinivasamurthy}, 
+	title = {Speech Coding based on Spectral Dynamics}, 
+	booktitle = {Proceedings of the International Conference on Text, Speech and Dialogue}
+ }[/bib]Speech Coding based on Spectral Dynamics. P. Motlicek, Hynek Hermansky, H. Garudadri and N. Srinivasamurthy. Proceedings of the International Conference on Text, Speech and Dialogue , 2006
+
+[bib]@inproceedings{hermansky-2005-69,
+	author = {Hermansky, Hynek and P. Fousek and M. Lehtonen}, 
+	title = {The Role of Speech in Multimodal Human-Computer Interaction (Towards Reliable Rejection of Non-Keyword Input)}, 
+	booktitle = {Proceedings of the International Conference on Text, Speech and Dialogue}
+ }[/bib]The Role of Speech in Multimodal Human-Computer Interaction (Towards Reliable Rejection of Non-Keyword Input). Hynek Hermansky, P. Fousek and M. Lehtonen. Proceedings of the International Conference on Text, Speech and Dialogue , 2005
+
+[bib]@inproceedings{hermansky-2005-70,
+	author = {Hermansky, Hynek and P. Fousek}, 
+	title = {Multi-resolution RASTA filtering for TANDEM-based ASR}, 
+	booktitle = {Proceedings of the European Conference on Speech Communication and Technology}
+ }[/bib]Multi-resolution RASTA filtering for TANDEM-based ASR. Hynek Hermansky and P. Fousek. Proceedings of the European Conference on Speech Communication and Technology , 2005
+
+[bib]@inproceedings{hermansky-2004-71,
+	author = {M. Athineos and Hermansky, Hynek and Andreou, Andreas}, 
+	title = {LP-TRAP: Linear Predictive Temporal Patterns,}, 
+	booktitle = {Proc. ICSLP}
+ }[/bib]LP-TRAP: Linear Predictive Temporal Patterns,. M. Athineos, Hynek Hermansky and Andreas G Andreou. Proc. ICSLP , 2004
+
+[bib]@inproceedings{hermansky-2004-72,
+	author = {M. Athineos and Hermansky, Hynek and D. Ellis}, 
+	title = {PLP^2: Autoregressive modeling of auditory-like 2-D spectro-temporal patterns}, 
+	booktitle = {Proceedings ISCA Tutorial and Research Workshop (ITRW) on Statistical and Perceptual Audio Processing (SAPA)}
+ }[/bib]PLP^2: Autoregressive modeling of auditory-like 2-D spectro-temporal patterns. M. Athineos, Hynek Hermansky and D. Ellis. Proceedings ISCA Tutorial and Research Workshop (ITRW) on Statistical and Perceptual Audio Processing (SAPA) , 2004
+
+[bib]@inproceedings{hermansky-2004-73,
+	author = {P. Fousek and P. Svojanovsky and F. Grezl and Hermansky, Hynek}, 
+	title = {New Nonsense Syllables Database – Analyses and Preliminary ASR Experiments}, 
+	booktitle = {Proceedings of the International Conference on Spoken Language Processing}
+ }[/bib]New Nonsense Syllables Database – Analyses and Preliminary ASR Experiments. P. Fousek, P. Svojanovsky, F. Grezl and Hynek Hermansky. Proceedings of the International Conference on Spoken Language Processing , 2004
+
+[bib]@inproceedings{hermansky-2004-74,
+	author = {Hermansky, Hynek and S. Sivadas}, 
+	title = {On use of task-independent data in TANDEM feature extraction}, 
+	booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing}
+ }[/bib]On use of task-independent data in TANDEM feature extraction. Hynek Hermansky and S. Sivadas. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing , 2004
+
+[bib]@inproceedings{hermansky-2004-75,
+	author = {S. Ikbal and H. Misra and H. Bourland and Hermansky, Hynek}, 
+	title = {Phase AutoCorrelation (PAC) features in Entropy based Multi-Stream for Robust Speech Recognition}, 
+	booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing}
+ }[/bib]Phase AutoCorrelation (PAC) features in Entropy based Multi-Stream for Robust Speech Recognition. S. Ikbal, H. Misra, H. Bourland and Hynek Hermansky. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing , 2004
+
+[bib]@inproceedings{hermansky-2004-76,
+	author = {H. Misra and S. Ikbal and H. Bourland and Hermansky, Hynek}, 
+	title = {Spectral Entropy Based Feature for Robust ASR}, 
+	booktitle = {Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing}
+ }[/bib]Spectral Entropy Based Feature for Robust ASR. H. Misra, S. Ikbal, H. Bourland and Hynek Hermansky. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing , 2004
+
+[bib]@inproceedings{hermansky-2004-77,
+	author = {Hermansky, Hynek and H. Bourland}, 
+	title = {Some Emerging Concepts in Speech Recognition}, 
+	booktitle = {Invited Paper in Proceedings of Lectures by Masters in Speech Processing}
+ }[/bib]Some Emerging Concepts in Speech Recognition. Hynek Hermansky and H. Bourland. Invited Paper in Proceedings of Lectures by Masters in Speech Processing , 2004
+
+[bib]@article{Hermansky2003Recognition,
+	author = {Hermansky, Hynek}, 
+	title = {Recognition of Information-bearing Elements in Speech}, 
+	booktitle = {Journal of the Acoustical Society of America}, 
+	pages = {2}
+ }[/bib]Recognition of Information-bearing Elements in Speech. Hynek Hermansky. Journal of the Acoustical Society of America , 2003
+

@@ -1,0 +1,61 @@
+# km popis najezd vyjezd
+0 "Praha" 0 15623 
+1 "Sporilov" 0 0 
+2 "Chodov" 0 16231 
+6 "Pruhonice" 12475 3623 
+8 "Cestlice" 12209 3699 
+10 "Modletice" 12447 3584 
+12 "Modletice" 8216 0 
+15 "Vsechromy" 0 0 
+21 "Mirosovice" 644 0 
+29 "Hvezdonice" 0 214 
+34 "Ostredek" 0 203 
+41 "Sternov" 0 227 
+49 "Psare" 0 420 
+56 "Soutice" 0 425 
+66 "Loket" 0 386 
+75 "Horice" 0 407 
+81 "Koberovice" 0 419 
+90 "Humpolec" 2057 0 
+104 "Vetrny Jenikov" 0 1168 
+112 "Jihlava" 2346 0 
+119 "Velky Beranov" 0 1178 
+134 "Merin" 0 613 
+141 "Velke Mezirici-zapad" 0 0 
+146 "Velke Mezirici-vychod" 0 0 
+153 "Lhotka" 0 565 
+162 "Velka Bites" 0 3438 
+168 "Devet Krizu" 0 3419 
+178 "Ostrovacice" 0 3497 
+182 "Kyvalka" 0 3472 
+190 "Brno-zapad" 8281 3640 
+194 "Brno-centrum" 8139 3580 
+196 "Brno-jih" 8122 3627 
+201 "Brno-Slatina" 8281 3601 
+203 "Brno-vychod" 8108 3671 
+210 "Holubice" 0 3449 
+216 "Rousinov" 0 3361 
+226 "Vyskov-zapad" 451 0 
+230 "Vyskov-vychod" 462 0 
+236 "Ivanovice na Hane" 0 908 
+244 "Morice" 0 865 
+253 "Kojetin" 1688 0 
+258 "Kromeriz-zapad" 0 389 
+260 "Kromeriz-vychod" 0 439 
+265 "Hulin" 0 996 
+298 "Lipnik nad Becvou" 0 0 
+308 "Hranice" 0 920 
+311 "Belotin" 3791 0 
+321 "Mankovice" 0 0 
+330 "Hladke Zivotice" 0 3131 
+336 "Butovice" 0 1326 
+342 "Bravantice" 0 1312 
+349 "Klimkovice" 0 1294 
+354 "Rudna" 9228 3560 
+357 "Severni spoj" 5145 0 
+361 "Mistecka" 0 1284 
+365 "Vrbice" 0 1232 
+366 "Vrbice" 0 0 
+370 "Bohumin" 0 1319 
+372 "Bohumin" 0 0 
+376 "PL" 0 5375 

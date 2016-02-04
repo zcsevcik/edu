@@ -1,0 +1,164 @@
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AWikipedia and Machine Translation: killing two birds with one stone&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATweetNorm_es Corpus: an Annotated Corpus for Spanish Microtext Normalization&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALearning to map variation-standard forms using a limited parallel corpus and the standard morphology&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEuskararako koma-zuzentzaile baterantz&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AWikipedia eta itzulpen automatikoa:  'harri batez bizpalau xori'&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AUna cascada de transductores simples para normalizar tweets&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AReciprocal Enrichment between Basque Wikipedia and Machine Translators.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AOpenMT2 eta Euskal Wikipedia wikiproiektuaren emaitzak.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMorphological query expansion and language-filtering words for improving Basque web retrieval&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AIntroducción a la tarea compartida Tweet-Norm 2013: Normalización léxica de tuits en español&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ACombining Different Features of Idiomaticity for the Automatic Classification of Noun+Verb Expressions in Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AActas del XXIX Congreso de la Sociedad Española de Procesamiento de lenguaje natural, SEPLN 2013.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AUsing foma for language-based games&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3APutting a Less Resourced Language in the Forefront: the Case of Basque.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMeasuring the compositionality of NV expressions in Basque by means of distributional similarity techniques&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AFinite-State Technology In A Verse-Making Tool&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ABAD: An assistant tool for making verses in Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AValuable Language Resources and Applications Supporting the Use of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATeknologia garatzeko estrategiak baliabide urriko hizkuntzetarako: euskararen eta Ixa taldearen adibidea&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ASyntactic error detection and correction in date expressions using finite-state transducers&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AStrategies to develop Language Technologies for Less-Resourced Languages based on the case of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ASemantic Relatedness for Named Entity Disambiguation using a small Wikipedia&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ARecursos y métodos de sustitución léxica en las variantes dialectales en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ARecognition and Classification of Numerical Entities in Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AOrtografia-erroreak eta konpetentzia-erroreak Webeko euskarazko testuetan&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AOpenMT-2: Wikipedia eta Itzulpen Automatikoa biak elkarri laguntzen&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMatxin-Informatika: versión del traductor Matxin adaptada al dominio de la informática.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMatxin, an open-source rule-based machine translation system for Basque. &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALearning word-level dialectal variation as phonological replacement rules using a limited parallel corpus&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AHizkuntzalaritza konputazionala atala Sareko Euskal Gramatikan (SEG)&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AFirst experiments with developing an unsupervised method for learning morphology of variants&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEvolución de la morfología computacional: nuevas posibilidades&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAutomatic extraction of NV expressions in Basque: basic issues on cooccurrence techniques&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA Multiclass/Multilabel Document Categorization System: Combining Multiple Classifiers in a Reduced Dimension&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AReciprocal Enrichment between Wikipedia and Machine Translators&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3APorting Basque Morphological Grammars to foma, an Open-Source Tool&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALas últimas ediciones del Diccionario Básico Escolar de Cuba&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALa segunda y tercera ediciones del Diccionario Básico Escolar&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AHizkuntz Teknologiak. Nola lagun zaitzake teknologiak hizkuntzarekin borrokan zabiltzanean?&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AErrores ortográficos y de competencia en textos de la web en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AErrores ortográficos y de competencia en textos de la web en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AErrores ortográficos y de competencia en textos de la web en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AErrores ortográficos y de competencia en textos de la web en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AErrores ortográficos y de competencia en textos de la web en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ACreating LRs and applications using finite-state morphological grammars&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA morphological processor based on foma for Biscayan (a Basque dialect)&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AValuable Language Resources and Applications Supporting the Use of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AUsing Wikipedia for Named Entities Translation&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATresna linguistikoak informazioa atzitzeko&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ASemantikan oinarritutako Bilaketa: Kyoto proiektua&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3APorting Basque Morphological Grammars to foma, an Open-Source Tool &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AOverview of ResPubliQA 2009: Question Answering Evaluation over European Legislation&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AOpenMT: Open Source Machine Translation Using Hybrid Methods&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMatxin, euskararako lehenengo itzultzaile automatikoa&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALiburutegi digitaletarako teknologiak &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AInformation Retrieval and Information Extraction for Less Resourced Languages (editors)  &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AIhardetsi: A Question Answering system for Basque built on reused linguistic processors&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AHizkuntz teknologiak liburutegi digitaletarako &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AExploring Basque Document Categorization for Educational Purposes using LSI &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEvaluación de un sistema de traducción automática basado en reglas o por qué BLEU sólo sirve para lo que sirve&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEuskarazko hitz anitzeko unitate lexikalen tratamendu konputazionala&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ABook review: Sylviane Cardey, Peter Greenfield, Séverine Vienney (eds): Machine Translation, Controlled Languages and Specialised Languages. Special issue of Lingvisticæ Investigationes 28:1 (2005)&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATresna linguistikoak informazioa atzitzeko&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATranslating Named Entities using Comparable Corpora&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AStrategies for sustainable MT for Basque: incremental design, reusability, standardization and open-source&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ASpelling Correction: from two-level morphology to open source&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ASpanish-to-Basque MultiEngine Machine Translation for a Restricted Domain &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ASoftware Libre EHra eta eu-ra&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AOverview of the CLEF 2008 Multilingual Question Answering Track&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMixing Approaches to Machine Translation. MATMT2008. Proceedings.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMixing Approaches to MT for Basque: Selecting the best output from RBMT, EBMT and SMT&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALanguage Technology is an effective tool to promote use of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AItzulpen automatikoa: aukerak, arazoak eta erronkak&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AInterneteko bilaketak hobetzen Hizkuntza-Teknologie esker POSTERRA&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AHizkuntza-teknologia Ixa taldean, euskararen erabilera errazteko eta sustatzeko aplikazioak&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEuskara Software Librean&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AChunk and Clause Identification for Basque by Filtering and Ranking with Perceptrons&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ABilaketak Hobetzen Hizkuntza-Teknologiei esker&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3Aeuspell: corrección ortográfica del euskera en software libre&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AZT Corpus: Annotation and tools for Basque corpora&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATransfer-based MT from Spanish into Basque: reusability, standardization and open source&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATestu-corpusak: ezaugarriak, eraketa eta tresnak&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ASyntactic Error Detection and Correction in Date Expressions using Finite-State Transducers&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ASimilitud entre documentos multilingües de carácter técnico en un entorno Web&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMCR for CLIR&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEusBila, a search service designed for the agglutinative nature of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ACorpEus, a �web as corpus� tool designed for the agglutinative nature of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AUsing Machine Learning Techniques to Build a Comma Checker for Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AStructure, Annotation and Tools in the Basque ZT Corpus&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AOpenTrad: Traducción automática de código abierto para las lenguas del estado español&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AOpenTrad: Itzulpen automatiko librea&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ANamed Entities Translation Based on Comparable Corpora&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMeaningful results for Information Retrieval in the MEANING project&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALessons from the Development of a Named Entity Recognizer&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AIXA-CLA lankidetza Kuban (hitzaldia, Zientzia Fakultatean)&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AELeXBI, A Basic Tool for Bilingual Term Extraction from Spanish-Basque Parallel Corpora.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ADifferent issues in the design and development of the electronic Cuban Basic School Dictionary&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ABuilding an Electronic Version of the Cuban Basic School Dictionary&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAn FST Grammar for Verb Chain Transfer in a Spanish-Basque MT System&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA Multiclassifier based Document Categorization System: profiting from the Singular Value Decomposition Dimensionality Reduction Technique&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA Dictionary Content Management System&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AZientzia eta teknologiaren corpusa&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AZientzia eta Teknologiaren corpusa. Diseinua eta metodologia.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AItzultzaile automatiko bat software librean&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AItzulpen automatikoa IXA taldean &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEuskara-gaztelania terminologia Elebidunaren Erauzle Automatikoa.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AErauzterm: euskarazko terminoak erauzteko tresna erdiautomatikoa&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAnalyzing the effect of dimensionality reduction in document categorization for Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAnalizing the effect of dimensionality reduction in document categorization for Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAn Open-Source Shallow-Transfer Machine Translation Engine for the Romance Languages of Spain&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAn Open Architecture for Transfer-based Machine Translation between Spanish and Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAn FST grammar for verb chain transfer in a Spanish-Basque MT System&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ARepresentation and Treatment of Multiword Expressions in Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALinguistic and Statistical Approaches to Basque Term Extraction&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEuskarazko softwarea: errepide-mapa&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ADesign and Development of a Named Entity Recognizer for an Agglutinative Language. &hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAn Xml-Based Term Extraction Tool for Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ARobustez y flexibilidad de un lematizador/etiquetador&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ANamed Entity Recognition and Classification for texts in Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AFinite State Applications for Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEuskararen presentzia Interneten neurtu nahian&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AUsing Finite State Technology in Natural Language Processing of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATrabajos en el área de Recuperación de la Información del grupo IXA de la Universidad del País Vasco&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATowards the definition of a basic toolkit for HLT&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ARobustness and customisation in an analyser/lemmatiser for Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMorfologia Konputazionala. Euskararen morfologiaren deskribapena.&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3A
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AHizkuntzaren tratamendu automatikoa: aplikazioak, tresnak, baliabideak eta oinarriak&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AHizkuntza-Teknologiak: I+Grako garrantzia, emaitzak, eta beharrak&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ADeveloping Language Technology for a Minority Language: Progress and Strategy&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ABertsolaritzarako errima-aurkitzaile informatikoa&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAn assistant tool for Verse-Making in Basque based on Two-Level Morphology&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AMorphosyntactic structure of terms in Basque for automatic terminology extraction&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AGaIn: un buscador Internet/Intranet avanzado para textos en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAn Assistant Tool For Verse-Making In Basque Based On Two-Level Morphology&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA Word-grammar based morphological analyzer for agglutinative languages&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AExtracción Automática de Terminología a partir de Etiquetado y Lematización&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ADesigning spelling correctors for inflected languages using lexical transducers&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AHizkuntza baliabideak Interneten&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ACombining Stochastic and Rule-Based Methods for Disambiguation in Agglutinative Languages&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA framework for the automatic processing of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ATerminologiaren erauzketa automatikoa eta bere aplikazioa euskararako&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AImproving a Robust Morphological Analyser using Lexical Transducers&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AHizkuntzaren tratamendu automatikoa: helburuak eta abiaburuak&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA spelling corrector for Basque based on morphology&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AModelización de la competencia gramatical en la interlingua basada en el análisis de corpus&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEUSLEM: A Lemmatiser / Tagger for Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAutomatic morphological analysis of Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA trade-off between robustness and overgeneration in morphology&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AImproving a Robust Morphological Analyser using Lexical Transducers&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ADifferent Issues in the Design of a Lemmatizer/Tagger for Basque&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AXUXEN-Mac Corrector ortográfico para textos en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AEUSLEM: un lematizador/etiquetador de textos en euskera&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA Morphological Analysis Based Method for Spelling Correction&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AXuxen: A Spelling Checker/Corrector for Basque based in Two-Level Morphology&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AA Morphological Analyzer for Basque based on Two-level Morphology&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ABi mailatako morfologiaren euskararako egokitzapena&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3AAplicación de la morfología de dos niveles al Euskara&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[scholar]http://scholar.google.com/scholar?q=allintitle%3ALengoaia naturalaren ordenadore bidezko aplikazioak&hl=en&lr=&btnG=Search&ie=ISO-8859-1&lr=
+[bib]http://ixa.si.ehu.es/Ixa/Argitalpenak/argitalpenak_bib_banaka.html?kidea=1000808989;tituloa=Hizkuntza  prozesatzeko tresnen integrazioa, SGML erabiliz
+[bib]http://ixa.si.ehu.es/Ixa/Argitalpenak/argitalpenak_bib_banaka.html?kidea=1000808989;tituloa=Morfologia de los estados finitos
+[bib]http://ixa.si.ehu.es/Ixa/Argitalpenak/argitalpenak_bib_banaka.html?kidea=1000808989;tituloa=Estudio comparativo de diferentes formalismos sintácticos para su aplicación al euskera
+[bib]http://ixa.si.ehu.es/Ixa/Argitalpenak/argitalpenak_bib_banaka.html?kidea=1000808989;tituloa=Unix hizkuntz erabilpenetarako
+[bib]http://ixa.si.ehu.es/Ixa/Argitalpenak/argitalpenak_bib_banaka.html?kidea=1000808989;tituloa=Euskal  morfologiaren tratamendu automatikorako tresnak

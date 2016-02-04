@@ -1,0 +1,287 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<title>Obarvení grafů: Dokumentace souboru ial11.c</title>
+
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+
+
+
+</head>
+<body>
+<div id="top"><!-- do not remove this div! -->
+
+
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  
+  
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Obarvení grafů
+   &#160;<span id="projectnumber">2011</span>
+   </div>
+   <div id="projectbrief">IAL - náhradní projekt č. 6</div>
+  </td>
+  
+  
+  
+ </tr>
+ </tbody>
+</table>
+</div>
+
+<!-- Generováno programem Doxygen 1.7.6.1 -->
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Hlavní&#160;stránka</span></a></li>
+      <li><a href="annotated.html"><span>Třídy</span></a></li>
+      <li class="current"><a href="files.html"><span>Soubory</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Seznam&#160;souborů</span></a></li>
+      <li><a href="globals.html"><span>Globální&#160;symboly</span></a></li>
+    </ul>
+  </div>
+</div>
+<div class="header">
+  <div class="summary">
+<a href="#define-members">Definice maker</a> &#124;
+<a href="#typedef-members">Definice typů</a> &#124;
+<a href="#enum-members">Výčty</a> &#124;
+<a href="#func-members">Funkce</a>  </div>
+  <div class="headertitle">
+<div class="title">Dokumentace souboru ial11.c</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="textblock"><code>#include &quot;<a class="el" href="graph_8h_source.html">graph.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="matrix_8h_source.html">matrix.h</a>&quot;</code><br/>
+<code>#include &quot;<a class="el" href="vertex_8h_source.html">vertex.h</a>&quot;</code><br/>
+<code>#include &lt;stdio.h&gt;</code><br/>
+<code>#include &lt;stdlib.h&gt;</code><br/>
+</div><table class="memberdecls">
+<tr><td colspan="2"><h2><a name="define-members"></a>
+Definice maker</h2></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ial11_8c.html#ae5a2a278523ff457b0cf77a0f4a12547">VBUF</a>&#160;&#160;&#160;20</td></tr>
+<tr><td colspan="2"><h2><a name="typedef-members"></a>
+Definice typů</h2></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ial11_8c.html#a2f0826edb83b9228095e957dcc20a6b5">vertex_ptr</a></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">typedef enum <a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958">errs</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ial11_8c.html#a7f014c5514ec2e73ba93db931358ccea">err_t</a></td></tr>
+<tr><td colspan="2"><h2><a name="enum-members"></a>
+Výčty</h2></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958">errs</a> { <br/>
+&#160;&#160;<a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958a1c6a3022e8b55d43daf722d13d7e0669">EOK</a>, 
+<a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958a60ad4e9e08d2f606cd6a3f233c7c3777">EVAL</a>, 
+<a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958a30fe4a5a383a5773d503be6f92d1438c">EMEM</a>, 
+<a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958a2c61ec8dd7aa38949a58788a6524729c">EFILE</a>, 
+<br/>
+&#160;&#160;<a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958a5dce1caf4a01e3393fbf32acf03e1432">ERUN</a>
+<br/>
+ }</td></tr>
+<tr><td colspan="2"><h2><a name="func-members"></a>
+Funkce</h2></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ial11_8c.html#afa38baccbcea66f8d0484922c52b7b52">print_matrix</a> (<a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *matrix)</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ial11_8c.html#a9fadda4d5761e32204987e223b4a3838">print_graph</a> (<a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *graph)</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="ial11_8c.html#a7f014c5514ec2e73ba93db931358ccea">err_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ial11_8c.html#a36027fe848768547eb67e0673079a4bb">load_input</a> (const char *file, bool **mat, <a class="el" href="ial11_8c.html#a2f0826edb83b9228095e957dcc20a6b5">vertex_ptr</a> **vertices, size_t *size)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Nacte matici sousednosti ze souboru.  <a href="#a36027fe848768547eb67e0673079a4bb"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="ial11_8c.html#a0ddf1224851353fc92bfbff6f499fa97">main</a> (int argc, char *argv[])</td></tr>
+</table>
+<hr/><h2>Dokumentace k definicím maker</h2>
+<a class="anchor" id="ae5a2a278523ff457b0cf77a0f4a12547"></a><!-- doxytag: member="ial11.c::VBUF" ref="ae5a2a278523ff457b0cf77a0f4a12547" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">#define <a class="el" href="ial11_8c.html#ae5a2a278523ff457b0cf77a0f4a12547">VBUF</a>&#160;&#160;&#160;20</td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+<hr/><h2>Dokumentace definic typů</h2>
+<a class="anchor" id="a7f014c5514ec2e73ba93db931358ccea"></a><!-- doxytag: member="ial11.c::err_t" ref="a7f014c5514ec2e73ba93db931358ccea" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef enum <a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958">errs</a>  <a class="el" href="ial11_8c.html#a7f014c5514ec2e73ba93db931358ccea">err_t</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a2f0826edb83b9228095e957dcc20a6b5"></a><!-- doxytag: member="ial11.c::vertex_ptr" ref="a2f0826edb83b9228095e957dcc20a6b5" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">typedef <a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a>* <a class="el" href="ial11_8c.html#a2f0826edb83b9228095e957dcc20a6b5">vertex_ptr</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+<hr/><h2>Dokumentace výčtových typů</h2>
+<a class="anchor" id="a72015cbdf7a0d06ec5b64c7f54bd4958"></a><!-- doxytag: member="ial11.c::errs" ref="a72015cbdf7a0d06ec5b64c7f54bd4958" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="ial11_8c.html#a72015cbdf7a0d06ec5b64c7f54bd4958">errs</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+<dl><dt><b>Hodnoty výčtu: </b></dt><dd><table border="0" cellspacing="2" cellpadding="0">
+<tr><td valign="top"><em><a class="anchor" id="a72015cbdf7a0d06ec5b64c7f54bd4958a1c6a3022e8b55d43daf722d13d7e0669"></a><!-- doxytag: member="EOK" ref="a72015cbdf7a0d06ec5b64c7f54bd4958a1c6a3022e8b55d43daf722d13d7e0669" args="" -->EOK</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="a72015cbdf7a0d06ec5b64c7f54bd4958a60ad4e9e08d2f606cd6a3f233c7c3777"></a><!-- doxytag: member="EVAL" ref="a72015cbdf7a0d06ec5b64c7f54bd4958a60ad4e9e08d2f606cd6a3f233c7c3777" args="" -->EVAL</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="a72015cbdf7a0d06ec5b64c7f54bd4958a30fe4a5a383a5773d503be6f92d1438c"></a><!-- doxytag: member="EMEM" ref="a72015cbdf7a0d06ec5b64c7f54bd4958a30fe4a5a383a5773d503be6f92d1438c" args="" -->EMEM</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="a72015cbdf7a0d06ec5b64c7f54bd4958a2c61ec8dd7aa38949a58788a6524729c"></a><!-- doxytag: member="EFILE" ref="a72015cbdf7a0d06ec5b64c7f54bd4958a2c61ec8dd7aa38949a58788a6524729c" args="" -->EFILE</em>&nbsp;</td><td>
+</td></tr>
+<tr><td valign="top"><em><a class="anchor" id="a72015cbdf7a0d06ec5b64c7f54bd4958a5dce1caf4a01e3393fbf32acf03e1432"></a><!-- doxytag: member="ERUN" ref="a72015cbdf7a0d06ec5b64c7f54bd4958a5dce1caf4a01e3393fbf32acf03e1432" args="" -->ERUN</em>&nbsp;</td><td>
+</td></tr>
+</table>
+</dd>
+</dl>
+
+</div>
+</div>
+<hr/><h2>Dokumentace funkcí</h2>
+<a class="anchor" id="a36027fe848768547eb67e0673079a4bb"></a><!-- doxytag: member="ial11.c::load_input" ref="a36027fe848768547eb67e0673079a4bb" args="(const char *file, bool **mat, vertex_ptr **vertices, size_t *size)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="ial11_8c.html#a7f014c5514ec2e73ba93db931358ccea">err_t</a> <a class="el" href="ial11_8c.html#a36027fe848768547eb67e0673079a4bb">load_input</a> </td>
+          <td>(</td>
+          <td class="paramtype">const char *&#160;</td>
+          <td class="paramname"><em>file</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool **&#160;</td>
+          <td class="paramname"><em>mat</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="ial11_8c.html#a2f0826edb83b9228095e957dcc20a6b5">vertex_ptr</a> **&#160;</td>
+          <td class="paramname"><em>vertices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t *&#160;</td>
+          <td class="paramname"><em>size</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Nacte matici sousednosti ze souboru. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">file</td><td>Soubor, ze ktereho ma cist. </td></tr>
+    <tr><td class="paramname">mat</td><td>Ukazatel na ctvercovou matici, do ktere se ulozi jednotlive prvky. </td></tr>
+    <tr><td class="paramname">vertices</td><td>Ukazatel na pole vrcholu. </td></tr>
+    <tr><td class="paramname">size</td><td>Predava pocet vrcholu. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Pri uspechu EOK; jinak cislo chyby <a class="el" href="ial11_8c.html#a7f014c5514ec2e73ba93db931358ccea">err_t</a>. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a0ddf1224851353fc92bfbff6f499fa97"></a><!-- doxytag: member="ial11.c::main" ref="a0ddf1224851353fc92bfbff6f499fa97" args="(int argc, char *argv[])" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="ial11_8c.html#a0ddf1224851353fc92bfbff6f499fa97">main</a> </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>argc</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">char *&#160;</td>
+          <td class="paramname"><em>argv</em>[]&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="a9fadda4d5761e32204987e223b4a3838"></a><!-- doxytag: member="ial11.c::print_graph" ref="a9fadda4d5761e32204987e223b4a3838" args="(graph_t *graph)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="ial11_8c.html#a9fadda4d5761e32204987e223b4a3838">print_graph</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *&#160;</td>
+          <td class="paramname"><em>graph</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+<a class="anchor" id="afa38baccbcea66f8d0484922c52b7b52"></a><!-- doxytag: member="ial11.c::print_matrix" ref="afa38baccbcea66f8d0484922c52b7b52" args="(matrix_t *matrix)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="ial11_8c.html#afa38baccbcea66f8d0484922c52b7b52">print_matrix</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+</div>
+</div>
+</div><!-- contents -->
+
+
+<hr class="footer"/><address class="footer"><small>
+Generováno programem &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.7.6.1
+</small></address>
+
+</body>
+</html>

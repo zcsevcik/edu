@@ -1,0 +1,1421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibtexml.dtd" >
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="alonso2000interpretacion">
+<bibtex:phdthesis>
+<bibtex:title>Interpretaci\'on tabular de aut\'omatas para lenguajes de adjunci\'on de &#225;rboles</bibtex:title>
+<bibtex:author>Alonso, MA</bibtex:author>
+<bibtex:year>2000</bibtex:year>
+<bibtex:school>Tesis doctoral</bibtex:school>
+</bibtex:phdthesis>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2000interpretacion">
+<bibtex:phdthesis>
+<bibtex:title>Interpretaci\'on tabular de aut\'omatas para lenguajes de adjunci\'on de &#225;rboles</bibtex:title>
+<bibtex:author>Alonso, MA</bibtex:author>
+<bibtex:year>2000</bibtex:year>
+<bibtex:school>Tesis doctoral</bibtex:school>
+</bibtex:phdthesis>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2006introduccion">
+<bibtex:article>
+<bibtex:title>Introducci\'on a la programaci\'on l\'ogica con Prolog.► Cap. 0:“Introducci\'on”</bibtex:title>
+<bibtex:author>Alonso, JA</bibtex:author>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2006introduccion">
+<bibtex:article>
+<bibtex:title>Introducci\'on a la programaci\'on l\'ogica con Prolog.► Cap. 0:“Introducci\'on”</bibtex:title>
+<bibtex:author>Alonso, JA</bibtex:author>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="Alo94">
+<bibtex:mastersthesis>
+<bibtex:author>Alonso Pardo</bibtex:author>
+ {Miguel Angel}},
+<bibtex:title>Edici\'on Interactiva en Entornos Incrementales</bibtex:title>
+<bibtex:school>Facultade de Inform&#225;tica, Universidade da Coru\ na</bibtex:school>
+<bibtex:year>1994</bibtex:year>
+<bibtex:address>Corunna, Spain</bibtex:address>
+<bibtex:month>October</bibtex:month>
+</bibtex:mastersthesis>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2013supervised">
+<bibtex:inproceedings>
+<bibtex:title>Supervised polarity classification of Spanish tweets based on linguistic knowledge</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, David</bibtex:person>
+<bibtex:person>Alonso, Miguel \'Angel</bibtex:person>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the 2013 ACM symposium on Document engineering</bibtex:booktitle>
+<bibtex:pages>169-172</bibtex:pages>
+<bibtex:year>2013</bibtex:year>
+<bibtex:organization>ACM</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2013aproximacion">
+<bibtex:article>
+<bibtex:title>Una aproximaci\'on supervisada para la miner\'\ia de opiniones sobre tuits en espa\ nol en base a conocimiento ling&#252;\'\istico</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares Calvo, David</bibtex:person>
+<bibtex:person>Alonso Pardo, Miguel \'Angel</bibtex:person>
+<bibtex:person>G\'omez Rodr\'\iguez, Carlos</bibtex:person>
+</bibtex:author>
+<bibtex:year>2013</bibtex:year>
+<bibtex:publisher>Sociedad Espa\ nola para el Procesamiento del Lenguaje Natural</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilaresprototipado">
+<bibtex:article>
+<bibtex:title>Prototipado R&#225;pido de un Sistema de Normalizaci\'on de Tuits: Una Aproximaci\'on L\'exica</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, David</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilaressyntactic">
+<bibtex:article>
+<bibtex:title>A syntactic approach for opinion mining on Spanish reviews</bibtex:title>
+<bibtex:author>
+<bibtex:person>VILARES, DAVID</bibtex:person>
+<bibtex:person>ALONSO, MIGUEL A</bibtex:person>
+<bibtex:person>G\'OMEZ-RODR\'IGUEZ, CARLOS</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Natural Language Engineering</bibtex:journal>
+<bibtex:pages>1-25</bibtex:pages>
+<bibtex:publisher>Cambridge Univ Press</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2013clasificacion">
+<bibtex:article>
+<bibtex:title>Clasificaci\'on de polaridad en textos con opiniones en espa\ nol mediante an&#225;lisis sint&#225;ctico de dependencias.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, David</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del Lenguaje Natural</bibtex:journal>
+<bibtex:volume>50</bibtex:volume>
+<bibtex:pages>13-20</bibtex:pages>
+<bibtex:year>2013</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilaresri">
+<bibtex:article>
+<bibtex:title>RI con n-gramas: tolerancia a errores y multiling&#252;ismo</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>G\'omez-Rodr\iguez, Carlos</bibtex:person>
+<bibtex:person>Grana, Jorge</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2008extraction">
+<bibtex:article>
+<bibtex:title>Extraction of complex index terms in non-English IR: A shallow parsing based approach</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Information Processing &amp; Management</bibtex:journal>
+<bibtex:volume>44</bibtex:volume>
+<bibtex:number>4</bibtex:number>
+<bibtex:pages>1517-1537</bibtex:pages>
+<bibtex:year>2008</bibtex:year>
+<bibtex:publisher>Elsevier</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2005managing">
+<bibtex:inproceedings>
+<bibtex:title>Managing syntactic variation in text retrieval</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the 2005 ACM symposium on Document engineering</bibtex:booktitle>
+<bibtex:pages>162-164</bibtex:pages>
+<bibtex:year>2005</bibtex:year>
+<bibtex:organization>ACM</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2004morphological">
+<bibtex:inproceedings>
+<bibtex:title>Morphological and syntactic processing for text retrieval</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Database and Expert Systems Applications</bibtex:booktitle>
+<bibtex:pages>371-380</bibtex:pages>
+<bibtex:year>2004</bibtex:year>
+<bibtex:organization>Springer</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2003grammatical">
+<bibtex:inproceedings>
+<bibtex:title>A grammatical approach to the extraction of index terms</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>International Conference on Recent Advances in Natural Language Processing, Proceedings</bibtex:booktitle>
+<bibtex:pages>500-504</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="ribadas2005integrating">
+<bibtex:incollection>
+<bibtex:title>Integrating syntactic information by means of data fusion techniques</bibtex:title>
+<bibtex:author>
+<bibtex:person>Ribadas, Francisco J</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computer Aided Systems Theory-EUROCAST 2005</bibtex:booktitle>
+<bibtex:pages>169-178</bibtex:pages>
+<bibtex:year>2005</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2003enfoque">
+<bibtex:article>
+<bibtex:title>Un enfoque gramatical para la extracci\'on de t\'erminos \'\indice</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares Ferro, Jes\'us</bibtex:person>
+<bibtex:person>Alonso Pardo, Miguel \'Angel</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural, n\textordmasculine 31 (septiembre 2003); pp. 243-250</bibtex:journal>
+<bibtex:year>2003</bibtex:year>
+<bibtex:publisher>Sociedad Espa\ nola para el Procesamiento del Lenguaje Natural</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2002usefulness">
+<bibtex:incollection>
+<bibtex:title>On the usefulness of extracting syntactic dependencies for text indexing</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Darriba, Victor M</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Artificial Intelligence and Cognitive Science</bibtex:booktitle>
+<bibtex:pages>3-11</bibtex:pages>
+<bibtex:year>2002</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2002using">
+<bibtex:incollection>
+<bibtex:title>Using syntactic dependency-pairs conflation to improve retrieval performance in Spanish</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Barcala, Fco Mario</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computational Linguistics and Intelligent Text Processing</bibtex:booktitle>
+<bibtex:pages>381-390</bibtex:pages>
+<bibtex:year>2002</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="VilBarAlo2001a">
+<bibtex:article>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Jes\'us and {Barcala Rodr\'{\i}guez},
+ {Fco. Mario} and {Alonso Pardo},
+ Miguel A.",
+<bibtex:title>Normalizaci\'on de t\'erminos multipalabra mediante pares de dependencia sint&#225;ctica</bibtex:title>
+<bibtex:journal>Procesamiento del Lenguaje Natural</bibtex:journal>
+<bibtex:year>2001</bibtex:year>
+<bibtex:volume>27</bibtex:volume>
+<bibtex:pages>123-130</bibtex:pages>
+<bibtex:month>September</bibtex:month>
+<bibtex:issn>1135-5948</bibtex:issn>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2004dealing">
+<bibtex:inproceedings>
+<bibtex:title>Dealing with syntactic variation through a locality-based approach</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>String Processing and Information Retrieval</bibtex:booktitle>
+<bibtex:pages>255-266</bibtex:pages>
+<bibtex:year>2004</bibtex:year>
+<bibtex:organization>Springer</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="vilaressyntactic">
+<bibtex:inproceedings>
+<bibtex:title>Syntactic and pseudo-syntactic approaches for text retrieval</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>First Int. Conf. on Multidisciplinary Information Sciences and Technologies</bibtex:booktitle>
+<bibtex:pages>104-108</bibtex:pages>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2006tratamiento">
+<bibtex:article>
+<bibtex:title>Tratamiento de la variaci\'on sint&#225;ctica mediante un modelo de recuperaci\'on basado en localidad</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>36</bibtex:volume>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2006enfoques">
+<bibtex:article>
+<bibtex:title>Enfoques sint&#225;ctico y pseudo-sint&#225;ctico para la recuperaci\'on de informaci\'on en espa\ nol</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Recuperaci\'on de informaci\'on textual: aspectos l\'ogicos y ecol\'ogicos</bibtex:journal>
+<bibtex:number>165</bibtex:number>
+<bibtex:pages>127</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+<bibtex:publisher>Univ Santiago de Compostela</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="barcala2002tokenization">
+<bibtex:inproceedings>
+<bibtex:title>Tokenization and proper noun recognition for information retrieval</bibtex:title>
+<bibtex:author>
+<bibtex:person>Barcala, Francisco-Mario</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Grana, Jorge</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Database and Expert Systems Applications, 2002. Proceedings. 13th International Workshop on</bibtex:booktitle>
+<bibtex:pages>246-250</bibtex:pages>
+<bibtex:year>2002</bibtex:year>
+<bibtex:organization>IEEE</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilCabAlo2001a">
+<bibtex:incollection>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Jes\'us and {Cabrero Souto},
+ David and {Alonso Pardo},
+ Miguel A.",
+<bibtex:title>Applying Productive Derivational Morphology to Term Indexing of Spanish Texts</bibtex:title>
+<bibtex:booktitle>Computational Linguistics and Intelligent Text Processing</bibtex:booktitle>
+<bibtex:publisher>Springer-Verlag</bibtex:publisher>
+<bibtex:year>2001</bibtex:year>
+<bibtex:editor>Gelbukh, Alexander</bibtex:editor>
+<bibtex:volume>2004</bibtex:volume>
+<bibtex:series>Lecture Notes in Computer Science</bibtex:series>
+<bibtex:pages>336-348</bibtex:pages>
+<bibtex:address>Berlin-Heidelberg-New York</bibtex:address>
+<bibtex:isbn>3-540-41687-0</bibtex:isbn>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="VilCabAlo2001b">
+<bibtex:article>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Jes\'us and {Cabrero Souto},
+ David and {Alonso Pardo},
+ Miguel A.",
+<bibtex:title>Generaci\'on autom&#225;tica de familias morfol\'ogicas mediante morfolog\'\ia derivativa productiva</bibtex:title>
+<bibtex:journal>Procesamiento del Lenguaje Natural</bibtex:journal>
+<bibtex:year>2001</bibtex:year>
+<bibtex:volume>27</bibtex:volume>
+<bibtex:pages>181-188</bibtex:pages>
+<bibtex:month>September</bibtex:month>
+<bibtex:issn>1135-5948</bibtex:issn>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2004cole">
+<bibtex:incollection>
+<bibtex:title>COLE experiments at CLEF 2003 in the Spanish monolingual track</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Ribadas, Francisco J</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Comparative Evaluation of Multilingual Information Access Systems</bibtex:booktitle>
+<bibtex:pages>345-357</bibtex:pages>
+<bibtex:year>2004</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2003grammatical">
+<bibtex:inproceedings>
+<bibtex:title>A grammatical approach to the extraction of index terms</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>International Conference on Recent Advances in Natural Language Processing, Proceedings</bibtex:booktitle>
+<bibtex:pages>500-504</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilVilAlo2001a">
+<bibtex:incollection>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Jes\'us and {Vilares Ferro},
+ Manuel and {Alonso Pardo},
+ Miguel A.",
+<bibtex:title>Towards the development of heuristics for automatic query expansion</bibtex:title>
+<bibtex:booktitle>Database and Expert Systems Applications</bibtex:booktitle>
+<bibtex:publisher>Springer-Verlag</bibtex:publisher>
+<bibtex:year>2001</bibtex:year>
+<bibtex:editor>Mayr, Heinrich C. and Lazansky, Jiri and Quirchmayr, Gerald and Vogel, Pavel</bibtex:editor>
+<bibtex:volume>2113</bibtex:volume>
+<bibtex:series>Lecture Notes in Computer Science</bibtex:series>
+<bibtex:pages>887-896</bibtex:pages>
+<bibtex:address>Berlin-Heidelberg-New York</bibtex:address>
+<bibtex:isbn>3-540-42527-6</bibtex:isbn>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2002practical">
+<bibtex:incollection>
+<bibtex:title>Practical NLP-based text indexing</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, J\'esus</bibtex:person>
+<bibtex:person>Barcala, F Mario</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Grana, Jorge</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Advances in Artificial Intelligence—IBERAMIA 2002</bibtex:booktitle>
+<bibtex:pages>635-644</bibtex:pages>
+<bibtex:year>2002</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="pardo2004experiencias">
+<bibtex:article>
+<bibtex:title>Experiencias del grupo COLE en la aplicaci\'on de t\'ecnicas de Procesamiento del Lenguaje Natural a la Recuperaci\'on de Informaci\'on en espa\ nol</bibtex:title>
+<bibtex:author>
+<bibtex:person>Pardo, Miguel Angel Alonso</bibtex:person>
+<bibtex:person>Pena, Francisco Jos\'e Ribadas</bibtex:person>
+<bibtex:person>Ferro, Jes\'us Vilares</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Inteligencia artificial: Revista Iberoamericana de Inteligencia Artificial</bibtex:journal>
+<bibtex:volume>8</bibtex:volume>
+<bibtex:number>22</bibtex:number>
+<bibtex:pages>123-134</bibtex:pages>
+<bibtex:year>2004</bibtex:year>
+<bibtex:publisher>Asociaci\'on Espa\ nola para la Inteligencia Artificial (AEPIA)</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2010error">
+<bibtex:article>
+<bibtex:title>Error-repair parsing schemata</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Theoretical Computer Science</bibtex:journal>
+<bibtex:volume>411</bibtex:volume>
+<bibtex:number>7</bibtex:number>
+<bibtex:pages>1121-1139</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+<bibtex:publisher>Elsevier</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2009general">
+<bibtex:incollection>
+<bibtex:title>A general method for transforming standard parsers into error-repair parsers</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computational Linguistics and Intelligent Text Processing</bibtex:booktitle>
+<bibtex:pages>207-219</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2007tecnicas">
+<bibtex:article>
+<bibtex:title>T\'ecnicas deductivas para el an&#225;lisis sint&#225;ctico con correcci\'on de errores</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del Lenguaje Natural</bibtex:journal>
+<bibtex:volume>39</bibtex:volume>
+<bibtex:pages>13-20</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2009compiler">
+<bibtex:article>
+<bibtex:title>A compiler for parsing schemata</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Software: Practice and Experience</bibtex:journal>
+<bibtex:volume>39</bibtex:volume>
+<bibtex:number>5</bibtex:number>
+<bibtex:pages>441-470</bibtex:pages>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>Wiley Online Library</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2007compiling">
+<bibtex:inproceedings>
+<bibtex:title>Compiling declarative specifications of parsing algorithms</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Database and Expert Systems Applications</bibtex:booktitle>
+<bibtex:pages>529-538</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+<bibtex:organization>Springer</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2007generation">
+<bibtex:incollection>
+<bibtex:title>Generation of indexes for compiling efficient parsers from formal specifications</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computer Aided Systems Theory-EUROCAST 2007</bibtex:booktitle>
+<bibtex:pages>257-264</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2007prototyping">
+<bibtex:inproceedings>
+<bibtex:title>Prototyping efficient natural language parsers</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\iguez, Carlos</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of Recent Advances in Natural Language Processing (International Conference RANLP 2007), ISBN</bibtex:booktitle>
+<bibtex:pages>978-954</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2007generation">
+<bibtex:incollection>
+<bibtex:title>Generation of indexes for compiling efficient parsers from formal specifications</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computer Aided Systems Theory-EUROCAST 2007</bibtex:booktitle>
+<bibtex:pages>257-264</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2007generation">
+<bibtex:incollection>
+<bibtex:title>Generation of indexes for compiling efficient parsers from formal specifications</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computer Aided Systems Theory-EUROCAST 2007</bibtex:booktitle>
+<bibtex:pages>257-264</bibtex:pages>
+<bibtex:year>2007</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="rodriguezcompilacion">
+<bibtex:article>
+<bibtex:title>Compilaci\'on eficiente de esquemas de an&#225;lisis sint&#225;ctico</bibtex:title>
+<bibtex:author>
+<bibtex:person>Rodr\'\iguez, Carlos G\'omez</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="rodriguezgeneracion">
+<bibtex:article>
+<bibtex:title>Generaci\'on autom&#225;tica de analizadores sint&#225;cticos a partir de esquemas de an&#225;lisis</bibtex:title>
+<bibtex:author>
+<bibtex:person>Rodr\iguez, Carlos G\'omez</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="AloCabVil99a">
+<bibtex:incollection>
+<bibtex:author>"Alonso Pardo</bibtex:author>
+ {Miguel A.} and {Cabrero Souto},
+ David and {Vilares Ferro},
+ Manuel",
+<bibtex:title>Generalized LR Parsing for Extensions of Context-Free Grammars</bibtex:title>
+<bibtex:booktitle>Recent Advances in Natural Language Processing II</bibtex:booktitle>
+<bibtex:publisher>John Benjamins Publishing Company</bibtex:publisher>
+<bibtex:year>2000</bibtex:year>
+<bibtex:editor>Nicolov, Nicolas and Mitkov, Ruslan</bibtex:editor>
+<bibtex:volume>189</bibtex:volume>
+<bibtex:series>Current Issues in Linguistic Theory</bibtex:series>
+<bibtex:pages>81-92</bibtex:pages>
+<bibtex:address>Amsterdam &amp; Philadelphia</bibtex:address>
+<bibtex:isbn>90-272-3695-X</bibtex:isbn>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="AloCabVil98a">
+<bibtex:incollection>
+<bibtex:author>"Alonso Pardo</bibtex:author>
+ {Miguel A.} and {Cabrero Souto},
+ David and {Vilares Ferro},
+ Manuel",
+<bibtex:title>Construction of Efficient Generalized LR Parsers</bibtex:title>
+<bibtex:booktitle>Automata Implementation</bibtex:booktitle>
+<bibtex:publisher>Springer-Verlag</bibtex:publisher>
+<bibtex:year>1998</bibtex:year>
+<bibtex:editor>Wood, Derick and Yu, Sheng</bibtex:editor>
+<bibtex:volume>1436</bibtex:volume>
+<bibtex:series>Lecture Notes in Computer Science</bibtex:series>
+<bibtex:pages>7-24</bibtex:pages>
+<bibtex:address>Berlin-Heidelberg-New York</bibtex:address>
+<bibtex:isbn>3-540-64694-9</bibtex:isbn>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="AloCabVil97b">
+<bibtex:inproceedings>
+<bibtex:author>"Alonso Pardo</bibtex:author>
+ {Miguel Angel} and {Cabrero Souto},
+ David and {Vilares Ferro},
+ Manuel",
+<bibtex:title>A New Approach to the Construction of Generalized LR Parsing Algorithms</bibtex:title>
+<bibtex:editor>Mitkov, Ruslan and Nicolov, Nicolas and Nikolov, Nikolai</bibtex:editor>
+<bibtex:pages>171-178</bibtex:pages>
+<bibtex:booktitle>Proc. of Recent Advances in Natural Language Processing (RANLP'97)</bibtex:booktitle>
+<bibtex:year>1997</bibtex:year>
+<bibtex:address>Tzigov Chark, Bulgaria</bibtex:address>
+<bibtex:month>September</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="AloCabVil97a">
+<bibtex:inproceedings>
+<bibtex:author>"Alonso Pardo</bibtex:author>
+ {Miguel Angel} and {Cabrero Souto},
+ David and {Vilares Ferro},
+ Manuel",
+<bibtex:title>Construction of Efficient Generalized LR Parsers</bibtex:title>
+<bibtex:pages>131-140</bibtex:pages>
+<bibtex:booktitle>Proc. of Second International Workshop on Implementing Automata (WIA'97)</bibtex:booktitle>
+<bibtex:year>1997</bibtex:year>
+<bibtex:address>London, Ontario, Canada</bibtex:address>
+<bibtex:month>September</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="vilares2003generation">
+<bibtex:incollection>
+<bibtex:title>Generation of incremental parsers</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Darriba, Victor M</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computational Linguistics and Intelligent Text Processing</bibtex:booktitle>
+<bibtex:pages>191-202</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="VilAlo95a">
+<bibtex:inproceedings>
+<bibtex:author>Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel}},
+<bibtex:title>Friendly Incremental Prototyping</bibtex:title>
+<bibtex:booktitle>Proc. of ASF+SDF'95 Workshop on Generating Tools from Algebraic Specifications</bibtex:booktitle>
+<bibtex:editor>van den Brand, M. and van Deursen, A. and Dinesh, T. B. and Kamperman, J. and Visser, E.</bibtex:editor>
+<bibtex:series>Technical report P9504, Programming Research Group, University of Amsterdam</bibtex:series>
+<bibtex:year>1995</bibtex:year>
+<bibtex:address>Amsterdam, The Netherlands</bibtex:address>
+<bibtex:tmonth>May</bibtex:tmonth>
+<bibtex:pages>127-142</bibtex:pages>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAlo95b">
+<bibtex:article>
+<bibtex:author>Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel}},
+<bibtex:title>Exploring Interactive Chart Parsing</bibtex:title>
+<bibtex:journal>Procesamiento del Lenguaje Natural</bibtex:journal>
+<bibtex:year>1995</bibtex:year>
+<bibtex:volume>17</bibtex:volume>
+<bibtex:month>September</bibtex:month>
+<bibtex:pages>158-170</bibtex:pages>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="VilValGraAlo95">
+<bibtex:inproceedings>
+<bibtex:author>Vilares Ferro</bibtex:author>
+ Manuel and {Valderruten Vidal},
+ Alberto and {Gra\ na Gil},
+ Jorge and {Alonso Pardo},
+ {Miguel Angel} },
+<bibtex:title>Une Approche Formelle pour la G\'en\'eration d'Analyseurs de Langages Naturels</bibtex:title>
+<bibtex:booktitle>Actes de la Seconde Conf\'erence Annuelle sur le Traitement Automatique du Langage Naturel</bibtex:booktitle>
+<bibtex:editor>Blache, P.</bibtex:editor>
+<bibtex:year>1995</bibtex:year>
+<bibtex:address>Marseille, France</bibtex:address>
+<bibtex:month>June</bibtex:month>
+<bibtex:pages>246-255</bibtex:pages>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="nicolas2009towards">
+<bibtex:article>
+<bibtex:title>Towards efficient production of linguistic resources: the Victoria Project</bibtex:title>
+<bibtex:author>
+<bibtex:person>Nicolas, Lionel</bibtex:person>
+<bibtex:person>Molinero, Miguel A</bibtex:person>
+<bibtex:person>Sagot, Beno\it</bibtex:person>
+<bibtex:person>Trigo, Elena S&#225;nchez</bibtex:person>
+<bibtex:person>de La Clergerie, Eric</bibtex:person>
+<bibtex:person>Pardo, Miguel Alonso</bibtex:person>
+<bibtex:person>Farr\'e</bibtex:person>
+</bibtex:author>
+ Jacques and Verg{\'e}s, Joan Miquel},
+<bibtex:journal>Proceedings of Recent Advances in Natural Language Processing (RANLP 09)</bibtex:journal>
+<bibtex:year>2009</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="grana2002compilation">
+<bibtex:incollection>
+<bibtex:title>Compilation methods of minimal acyclic finite-state automata for large dictionaries</bibtex:title>
+<bibtex:author>
+<bibtex:person>Grana, Jorge</bibtex:person>
+<bibtex:person>Barcala, Fco Mario</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Implementation and Application of Automata</bibtex:booktitle>
+<bibtex:pages>135-148</bibtex:pages>
+<bibtex:year>2002</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="grana2002common">
+<bibtex:inproceedings>
+<bibtex:title>A common solution for tokenization and part-of-speech tagging</bibtex:title>
+<bibtex:author>
+<bibtex:person>Grana, Jorge</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Text, Speech and Dialogue</bibtex:booktitle>
+<bibtex:pages>3-10</bibtex:pages>
+<bibtex:year>2002</bibtex:year>
+<bibtex:organization>Springer</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="grana2002compilation">
+<bibtex:incollection>
+<bibtex:title>Compilation methods of minimal acyclic finite-state automata for large dictionaries</bibtex:title>
+<bibtex:author>
+<bibtex:person>Grana, Jorge</bibtex:person>
+<bibtex:person>Barcala, Fco Mario</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Implementation and Application of Automata</bibtex:booktitle>
+<bibtex:pages>135-148</bibtex:pages>
+<bibtex:year>2002</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="GraAloVal94">
+<bibtex:techreport>
+<bibtex:author>Gra\ na Gil</bibtex:author>
+ Jorge and {Alonso Pardo},
+ {Miguel Angel} and {Valderruten Vidal},
+ Alberto},
+<bibtex:title>An&#225;lisis L\'exico no Determinista: Etiquetaci\'on Eficiente del Lenguaje Natural</bibtex:title>
+<bibtex:institution>Departamento de Computaci\'on, Facultade de Inform&#225;tica, Universidade da Coru\ na</bibtex:institution>
+<bibtex:year>1994</bibtex:year>
+<bibtex:number>16</bibtex:number>
+<bibtex:address>Campus de Elvi\ na s/n, 15071 La Coru\ na, Spain</bibtex:address>
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2006theoretical">
+<bibtex:article>
+<bibtex:title>On theoretical and practical complexity of TAG parsers</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Monachesi, P. Penn, G., Satta, G., Wintner, S.(eds.) FG</bibtex:journal>
+<bibtex:pages>29-30</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2006generating">
+<bibtex:inproceedings>
+<bibtex:title>Generating XTAG parsers from algebraic specifications</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\'\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Proceedings of the Eighth International Workshop on Tree Adjoining Grammar and Related Formalisms</bibtex:booktitle>
+<bibtex:pages>103-108</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+<bibtex:organization>Association for Computational Linguistics</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="gomez2006estudio">
+<bibtex:article>
+<bibtex:title>Estudio comparativo del rendimiento de analizadores sint&#225;cticos para gram&#225;ticas de adjunci\'on de &#225;rboles</bibtex:title>
+<bibtex:author>
+<bibtex:person>G\'omez-Rodr\iguez, Carlos</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:volume>37</bibtex:volume>
+<bibtex:pages>179-186</bibtex:pages>
+<bibtex:year>2006</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2005relating">
+<bibtex:incollection>
+<bibtex:title>Relating tabular parsing algorithms for LIG and TAG</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>De la Clergerie, Eric</bibtex:person>
+<bibtex:person>D\'\iaz, V\'\ictor J</bibtex:person>
+<bibtex:person>Vilares, Manuel</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>New developments in parsing technology</bibtex:booktitle>
+<bibtex:pages>157-184</bibtex:pages>
+<bibtex:year>2005</bibtex:year>
+<bibtex:publisher>Springer</bibtex:publisher>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2003variants">
+<bibtex:article>
+<bibtex:title>Variants of mixed parsing of TAG and TIG</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>D\'\iaz, V\'\ictor J</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Traitement Automatique des Langues (TAL)</bibtex:journal>
+<bibtex:volume>44</bibtex:volume>
+<bibtex:number>3</bibtex:number>
+<bibtex:pages>41-165</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2003variants">
+<bibtex:article>
+<bibtex:title>Variants of mixed parsing of TAG and TIG</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>D\'\iaz, V\'\ictor J</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Traitement Automatique des Langues (TAL)</bibtex:journal>
+<bibtex:volume>44</bibtex:volume>
+<bibtex:number>3</bibtex:number>
+<bibtex:pages>41-165</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2003variants">
+<bibtex:article>
+<bibtex:title>Variants of mixed parsing of TAG and TIG</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>D\'\iaz, V\'\ictor J</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Traitement Automatique des Langues (TAL)</bibtex:journal>
+<bibtex:volume>44</bibtex:volume>
+<bibtex:number>3</bibtex:number>
+<bibtex:pages>41-165</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="carrillo2003analisis">
+<bibtex:article>
+<bibtex:title>An&#225;lisis ascendente bidireccional de TAG dirigido por el n\'ucleo TIG</bibtex:title>
+<bibtex:author>
+<bibtex:person>Carrillo, Vicente</bibtex:person>
+<bibtex:person>D\iaz, V\ictor J</bibtex:person>
+<bibtex:person>Alonso, Miguel Angel</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Procesamiento del lenguaje natural</bibtex:journal>
+<bibtex:number>31</bibtex:number>
+<bibtex:pages>151-158</bibtex:pages>
+<bibtex:year>2003</bibtex:year>
+<bibtex:publisher>Sociedad Espanola para el Procesamiento del Lenguaje Natural</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="carrillo2002predictive">
+<bibtex:article>
+<bibtex:title>A predictive left-corner parser for tree adjoining grammars</bibtex:title>
+<bibtex:author>
+<bibtex:person>Carrillo, Vicente</bibtex:person>
+<bibtex:person>D\iaz, V\ictor J</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+<bibtex:journal>Revista electr\'onica de Tecnolog\ia del Habla</bibtex:journal>
+<bibtex:year>2002</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="CarDiaAlo2001a">
+<bibtex:article>
+<bibtex:author>"Carrillo Montero</bibtex:author>
+ Vicente and {D\'{\i}az Madrigal},
+ {V\'{\i}ctor J.} and {Alonso Pardo},
+ {Miguel A.}",
+<bibtex:title>An&#225;lisis sint&#225;ctico ascendente de TAGs guiado por la esquina izquierda</bibtex:title>
+<bibtex:journal>Procesamiento del Lenguaje Natural</bibtex:journal>
+<bibtex:year>2001</bibtex:year>
+<bibtex:volume>27</bibtex:volume>
+<bibtex:pages>47-54</bibtex:pages>
+<bibtex:month>September</bibtex:month>
+<bibtex:issn>1135-5948</bibtex:issn>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="AloDiaVil2001a">
+<bibtex:inproceedings>
+<bibtex:author>"Alonso Pardo</bibtex:author>
+ {Miguel A.} and {D\'{\i}az Madrigal},
+ {V\'{\i}ctor J.} and {Vilares Ferro},
+ Manuel",
+<bibtex:title>Bidirectional Automata for Tree Adjoining Grammars</bibtex:title>
+<bibtex:pages>42-53</bibtex:pages>
+<bibtex:booktitle>Proc. of the Seventh International Workshop on Parsing Technologies (IWPT-2001)</bibtex:booktitle>
+<bibtex:year>2001</bibtex:year>
+<bibtex:publisher>Tsinghua University Press</bibtex:publisher>
+<bibtex:address>Beijing, China</bibtex:address>
+<bibtex:month>October</bibtex:month>
+<bibtex:isbn>7-302-04925-4</bibtex:isbn>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="AloCleVil97a">
+<bibtex:inproceedings>
+<bibtex:author>"Alonso Pardo</bibtex:author>
+ {Miguel Angel} and {de la Clergerie},
+ Eric and {Vilares Ferro},
+ Manuel",
+<bibtex:title>Automata-based Parsing in Dynamic Programming for Linear Indexed Grammars</bibtex:title>
+<bibtex:editor>Narin'yani, A. S.</bibtex:editor>
+<bibtex:pages>22-27</bibtex:pages>
+<bibtex:booktitle>Proc. of DIALOGUE'97 Computational Linguistics and its Applications International Workshop</bibtex:booktitle>
+<bibtex:year>1997</bibtex:year>
+<bibtex:address>Moscow, Russia</bibtex:address>
+<bibtex:month>June</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="AloCleVil2001a">
+<bibtex:incollection>
+<bibtex:author>"Alonso Pardo</bibtex:author>
+ Miguel A. and {de la Clergerie},
+ Eric and {Vilares Ferro},
+ Manuel",
+<bibtex:title>A formal definition of Bottom-up Embedded Push-Down Automata and their tabulation technique</bibtex:title>
+<bibtex:booktitle>Logical Aspects of Computational Linguistics</bibtex:booktitle>
+<bibtex:publisher>Springer-Verlag</bibtex:publisher>
+<bibtex:year>2001</bibtex:year>
+<bibtex:editor>"de Groote</bibtex:editor>
+ Philippe and Morril, Glyn and Retor\'e, Christian",
+<bibtex:volume>2099</bibtex:volume>
+<bibtex:series>Lecture Notes in Artificial Intelligence</bibtex:series>
+<bibtex:pages>44-61</bibtex:pages>
+<bibtex:address>Berlin-Heidelberg-New York</bibtex:address>
+<bibtex:isbn>3-540-42273-0</bibtex:isbn>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="CleAlo98a">
+<bibtex:inproceedings>
+<bibtex:author>"de la Clergerie</bibtex:author>
+ Eric and {Alonso Pardo},
+ {Miguel A.}",
+<bibtex:title>A tabular interpretation of a class of 2-Stack Automata</bibtex:title>
+<bibtex:volume>II</bibtex:volume>
+<bibtex:pages>1333-1339</bibtex:pages>
+<bibtex:booktitle>COLING-ACL'98, 36th Annual Meeting of the Association for Computational Linguistics and 17th International Conference on Computational Linguistics, Proceedings of the Conference</bibtex:booktitle>
+<bibtex:year>1998</bibtex:year>
+<bibtex:organization>ACL</bibtex:organization>
+<bibtex:address>Montreal, Canada</bibtex:address>
+<bibtex:month>August</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="CleAloCAb98a">
+<bibtex:inproceedings>
+<bibtex:author>"de la Clergerie</bibtex:author>
+ Eric and {Alonso Pardo},
+ {Miguel A.} and {Cabrero Souto},
+ David",
+<bibtex:title>A Tabular Interpretation of Bottom-up Automata for TAG</bibtex:title>
+<bibtex:pages>42-45</bibtex:pages>
+<bibtex:booktitle>Proc. of Fourth International Workshop on Tree-Adjoining Grammars and Related Frameworks (TAG+4)</bibtex:booktitle>
+<bibtex:year>1998</bibtex:year>
+<bibtex:address>Philadelphia, PA, USA</bibtex:address>
+<bibtex:month>August</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAlo97a">
+<bibtex:incollection>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel A.}",
+<bibtex:title>An LALR Extension for DCGs in Dynamic Programming</bibtex:title>
+<bibtex:booktitle>Mathematical and Computational Analysis of Natural Language</bibtex:booktitle>
+<bibtex:editor>Mart\'\in Vide</bibtex:editor>
+ Carlos},
+<bibtex:publisher>John Benjamins Publishing Company</bibtex:publisher>
+<bibtex:year>1998</bibtex:year>
+<bibtex:volume>45</bibtex:volume>
+<bibtex:series>Studies in Functional and Structural Linguistics</bibtex:series>
+<bibtex:pages>267-278</bibtex:pages>
+<bibtex:address>Amsterdam &amp; Philadelphia</bibtex:address>
+<bibtex:isbn>90-272-1554-5</bibtex:isbn>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="VilAloGraCab98a">
+<bibtex:inproceedings>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel} and {Gra\ na Gil},
+ Jorge and {Cabrero Souto},
+ David",
+<bibtex:title>GALENA: Tabular DCG Parsing for Natural Languages</bibtex:title>
+<bibtex:pages>44-51</bibtex:pages>
+<bibtex:booktitle>Proc. of First Workshop on Tabulation in Parsing and Deduction (TAPD'98)</bibtex:booktitle>
+<bibtex:year>1998</bibtex:year>
+<bibtex:address>Paris, France</bibtex:address>
+<bibtex:month>April</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAlo96b">
+<bibtex:inproceedings>
+<bibtex:author>Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel}},
+<bibtex:title>An LALR Extension for DCGs in Dynamic Programming</bibtex:title>
+<bibtex:booktitle>Proc. of APPIA-GULP-PRODE'96 Joint Conference on Declarative Programming</bibtex:booktitle>
+<bibtex:editor>Lucio, P. and Martelli, M. and Navarro, M.</bibtex:editor>
+<bibtex:year>1996</bibtex:year>
+<bibtex:address>San Sebasti&#225;n, Spain</bibtex:address>
+<bibtex:month>July</bibtex:month>
+<bibtex:pages>79-88</bibtex:pages>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAlo96a">
+<bibtex:inproceedings>
+<bibtex:author>Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel}},
+<bibtex:title>Towards Analyzers Based on Efficient Logical Frames</bibtex:title>
+<bibtex:booktitle>II International Conference on Mathematical Linguistics (ICML'96): abstracts</bibtex:booktitle>
+<bibtex:series>Report 7/96, Grup de Recerca en Ling&#252;\'\istica Matem&#225;tica i Enginyeria del Llenguatge, Universitat Rovira i Virgili</bibtex:series>
+<bibtex:year>1996</bibtex:year>
+<bibtex:address>Tarragona, Spain</bibtex:address>
+<bibtex:month>June</bibtex:month>
+<bibtex:pages>97-98</bibtex:pages>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAlo95c">
+<bibtex:article>
+<bibtex:author>Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel}},
+<bibtex:title>A Predictive Bottom-up Evaluator</bibtex:title>
+<bibtex:journal>Logic Programming Newsletter</bibtex:journal>
+<bibtex:year>1995</bibtex:year>
+<bibtex:volume>8</bibtex:volume>
+<bibtex:number>4</bibtex:number>
+<bibtex:pages>9-10</bibtex:pages>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="VilAloCab96a">
+<bibtex:inproceedings>
+<bibtex:author>Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel} and {Cabrero Souto},
+ David},
+<bibtex:title>Aut\'omatas L\'ogicos y Lenguaje Natural</bibtex:title>
+<bibtex:pages>341-351</bibtex:pages>
+<bibtex:booktitle>V Congreso Iberoamericano de Inteligencia Artificial. Iberamia'96</bibtex:booktitle>
+<bibtex:year>1996</bibtex:year>
+<bibtex:publisher>Editorial Limusa, S. A. de C. V.</bibtex:publisher>
+<bibtex:address>Puebla. Clolula, M\'exico</bibtex:address>
+<bibtex:month>November</bibtex:month>
+<bibtex:isbn>968-18-5429-2</bibtex:isbn>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAloCab96b">
+<bibtex:inproceedings>
+<bibtex:author>Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel} and {Cabrero Souto},
+ D.},
+<bibtex:title>An Experience on Natural Language Parsing</bibtex:title>
+<bibtex:booktitle>Lenguajes Naturales y Lenguajes Formales</bibtex:booktitle>
+<bibtex:editor>Mart\'\in Vide</bibtex:editor>
+ C.},
+<bibtex:volume>XII</bibtex:volume>
+<bibtex:year>1996</bibtex:year>
+<bibtex:publisher>PPU</bibtex:publisher>
+<bibtex:address>Barcelona, Spain</bibtex:address>
+<bibtex:month>September</bibtex:month>
+<bibtex:pages>555-562</bibtex:pages>
+<bibtex:isbn>84-477-0575-7</bibtex:isbn>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAloCab99a">
+<bibtex:incollection>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel A.} and {Cabrero Souto},
+ David",
+<bibtex:title>An Operational Model for Parsing Definite Clause Grammars with Infinite Terms</bibtex:title>
+<bibtex:booktitle>Logical Aspects of Computational Linguistics</bibtex:booktitle>
+<bibtex:publisher>Springer-Verlag</bibtex:publisher>
+<bibtex:year>1999</bibtex:year>
+<bibtex:editor>Lecomte, Alain and Lamarche, Fran\ccois and Perrier, Guy</bibtex:editor>
+<bibtex:volume>1582</bibtex:volume>
+<bibtex:series>Lecture Notes in Artificial Intelligence</bibtex:series>
+<bibtex:optpages>212-230</bibtex:optpages>
+<bibtex:address>Berlin-Heidelberg-New York</bibtex:address>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="vilaresinon">
+<bibtex:article>
+<bibtex:title>On Non-Termination in DCGs Manuel Vilaresi, David Cabrero2, and Miguel A. Alonso2 1 Department of Informatics University of Vigo, Campus As Lagoas, s/n</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilaresi, Manuel</bibtex:person>
+<bibtex:person>Cabrero, David</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="vilaresinon">
+<bibtex:article>
+<bibtex:title>On Non-Termination in DCGs Manuel Vilaresi, David Cabrero2, and Miguel A. Alonso2 1 Department of Informatics University of Vigo, Campus As Lagoas, s/n</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilaresi, Manuel</bibtex:person>
+<bibtex:person>Cabrero, David</bibtex:person>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="ferro1999some">
+<bibtex:inproceedings>
+<bibtex:title>Some questions about non-termination in DCGs.</bibtex:title>
+<bibtex:author>
+<bibtex:person>Ferro, Manuel Vilares</bibtex:person>
+<bibtex:person>Souto, David Cabrero</bibtex:person>
+<bibtex:person>Pardo, Miguel Angel Alonso</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>APPIA-GULP-PRODE</bibtex:booktitle>
+<bibtex:pages>545-558</bibtex:pages>
+<bibtex:year>1999</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAloCab97a">
+<bibtex:inproceedings>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel} and {Cabrero Souto},
+ David",
+<bibtex:title>Efficient Parsing of Fixed-Mode DCGs</bibtex:title>
+<bibtex:chapter>17</bibtex:chapter>
+<bibtex:editor>Kruijff, Geert-Jan M. and Morrill, Glyn V. and Oehrle, Richard T.</bibtex:editor>
+<bibtex:optpages>199-209</bibtex:optpages>
+<bibtex:booktitle>Proc. of Formal Grammar'97</bibtex:booktitle>
+<bibtex:year>1997</bibtex:year>
+<bibtex:address>Aix-en-Provence, France</bibtex:address>
+<bibtex:month>September</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilCabAlo97a">
+<bibtex:inproceedings>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Manuel and {Cabrero Souto},
+ David and {Alonso Pardo},
+ {Miguel Angel}",
+<bibtex:title>An Approach to Infinite Term Traversal in DCGs</bibtex:title>
+<bibtex:editor>Falaschi, M. and Navarro, M. and Policriti, A.</bibtex:editor>
+<bibtex:pages>307-317</bibtex:pages>
+<bibtex:booktitle>Proc. of APPIA-GULP-PRODE'97 Joint Conference on Declarative Programming</bibtex:booktitle>
+<bibtex:year>1997</bibtex:year>
+<bibtex:address>Grado, Italy</bibtex:address>
+<bibtex:month>June</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilAloCab97b">
+<bibtex:inproceedings>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Manuel and {Alonso Pardo},
+ {Miguel Angel} and {Cabrero Souto},
+ David",
+<bibtex:title>An Operational Model for Parsing Fixed-Mode DCGs</bibtex:title>
+<bibtex:pages>61-64</bibtex:pages>
+<bibtex:booktitle>Proc. of Logical Aspects of Computational Linguistics (LACL'97)</bibtex:booktitle>
+<bibtex:year>1997</bibtex:year>
+<bibtex:address>Nancy, France</bibtex:address>
+<bibtex:month>September</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="vilares1999dealing">
+<bibtex:inproceedings>
+<bibtex:title>Dealing with non-termination in DCGs</bibtex:title>
+<bibtex:author>
+<bibtex:person>Vilares Ferro, M</bibtex:person>
+<bibtex:person>Cabrero Souto, D</bibtex:person>
+<bibtex:person>Alonso Pardo, MA</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>V Congreso Argentino de Ciencias de la Computaci\'on</bibtex:booktitle>
+<bibtex:year>1999</bibtex:year>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="ferro1998dynamic">
+<bibtex:inproceedings>
+<bibtex:title>Dynamic programming as frame for efficient parsing</bibtex:title>
+<bibtex:author>
+<bibtex:person>Ferro, Manuel Vilares</bibtex:person>
+<bibtex:person>Souto, David Cabrero</bibtex:person>
+<bibtex:person>Pardo, Miguel A Alonso</bibtex:person>
+</bibtex:author>
+<bibtex:booktitle>Computer Science, 1998. SCCC'98. XVIII International Conference of the Chilean Society of</bibtex:booktitle>
+<bibtex:pages>68-75</bibtex:pages>
+<bibtex:year>1998</bibtex:year>
+<bibtex:organization>IEEE</bibtex:organization>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="VilCabAlo98a">
+<bibtex:inproceedings>
+<bibtex:author>"Vilares Ferro</bibtex:author>
+ Manuel and {Cabrero Souto},
+ David and {Alonso Pardo},
+ {Miguel A.}",
+<bibtex:title>A Comparison for Unification-Based Parsers</bibtex:title>
+<bibtex:editor>Falaschi, M. and Freire, J. L. and Vilares, M.</bibtex:editor>
+<bibtex:pages>113-123</bibtex:pages>
+<bibtex:booktitle>Proc. of APPIA-GULP-PRODE'98 Joint Conference on Declarative Programming</bibtex:booktitle>
+<bibtex:year>1998</bibtex:year>
+<bibtex:address>A Coru\ na, Spain</bibtex:address>
+<bibtex:month>July</bibtex:month>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="canosaanalizando">
+<bibtex:article>
+<bibtex:title>Analizando los resultados acad\'emicos en una materia de programaci\'on</bibtex:title>
+<bibtex:author>
+<bibtex:person>Canosa, M Cabrero</bibtex:person>
+<bibtex:person>R\'\ios, D Alonso</bibtex:person>
+<bibtex:person>Rodr\'\iguez, N Barreira</bibtex:person>
+<bibtex:person>G\'omez, C</bibtex:person>
+<bibtex:person>Rodr\'\iguez, B</bibtex:person>
+<bibtex:person>Maro\ no, N S&#225;nchez</bibtex:person>
+<bibtex:person>Pereira, E Hern&#225;ndez</bibtex:person>
+<bibtex:person>Pardo, M Alonso</bibtex:person>
+<bibtex:person>Berdi\ nas, B Guijarro</bibtex:person>
+<bibtex:person>Ferro, J Vilares</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="pardoensenanza">
+<bibtex:article>
+<bibtex:title>La ense\ nanza del Procesamiento del Lenguaje Natural en facultades de Inform&#225;tica y Filolog\'\ia</bibtex:title>
+<bibtex:author>
+<bibtex:person>Pardo, Miguel A Alonso</bibtex:person>
+<bibtex:person>Ramos, Margarita Alonso</bibtex:person>
+<bibtex:person>Rodr\'\iguez, Carlos G\'omez</bibtex:person>
+<bibtex:person>Gil, Jorge Gra\ na</bibtex:person>
+<bibtex:person>Ferro, Jes\'us Vilares</bibtex:person>
+<bibtex:person>Crespo, Oswaldo Garc\'\ia</bibtex:person>
+<bibtex:person>Silva, Xos\'e Baamonde</bibtex:person>
+<bibtex:person>Mir\'on, Silvia Garc\'\ia</bibtex:person>
+<bibtex:person>Galv\'\in, Miguel \'Angel Cepillo</bibtex:person>
+<bibtex:person>Mu\ noz-Crego, \'Angeles</bibtex:person>
+<bibtex:person>others</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="pardoensenanza">
+<bibtex:article>
+<bibtex:title>La ense\ nanza del Procesamiento del Lenguaje Natural en facultades de Inform&#225;tica y Filolog\'\ia</bibtex:title>
+<bibtex:author>
+<bibtex:person>Pardo, Miguel A Alonso</bibtex:person>
+<bibtex:person>Ramos, Margarita Alonso</bibtex:person>
+<bibtex:person>Rodr\'\iguez, Carlos G\'omez</bibtex:person>
+<bibtex:person>Gil, Jorge Gra\ na</bibtex:person>
+<bibtex:person>Ferro, Jes\'us Vilares</bibtex:person>
+<bibtex:person>Crespo, Oswaldo Garc\'\ia</bibtex:person>
+<bibtex:person>Silva, Xos\'e Baamonde</bibtex:person>
+<bibtex:person>Mir\'on, Silvia Garc\'\ia</bibtex:person>
+<bibtex:person>Galv\'\in, Miguel \'Angel Cepillo</bibtex:person>
+<bibtex:person>Mu\ noz-Crego, \'Angeles</bibtex:person>
+<bibtex:person>others</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alonso2010evaluacion">
+<bibtex:article>
+<bibtex:title>Evaluaci\'on sin ex&#225;menes. Conclusiones de 10 a\ nos de experiencia en una asignatura optativa</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Fern&#225;ndez, Milagros</bibtex:person>
+<bibtex:person>G\'omez-Rodr\'\iguez, C</bibtex:person>
+<bibtex:person>Gra\ na, Jorge</bibtex:person>
+<bibtex:person>Molinero, Miguel A</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+</bibtex:author>
+<bibtex:journal>La innovaci\'on educativa en el contexto actual de la educaci\'on superior. A innovaci\'on educativa no contexto actual da educaci\'on superior</bibtex:journal>
+<bibtex:pages>515-518</bibtex:pages>
+<bibtex:year>2010</bibtex:year>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="alonsoexperiencia">
+<bibtex:article>
+<bibtex:title>Una Experiencia de Ense\ nanza Multidisciplinar en el Marco de los Nuevos M&#225;steres Oficiales</bibtex:title>
+<bibtex:author>
+<bibtex:person>Alonso, Miguel A</bibtex:person>
+<bibtex:person>Fern&#225;ndez, Milagros</bibtex:person>
+<bibtex:person>G\'omez, Carlos</bibtex:person>
+<bibtex:person>Gra\ na, Jorge</bibtex:person>
+<bibtex:person>Vilares, Jes\'us</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="pardoexperiencias">
+<bibtex:article>
+<bibtex:title>Dos experiencias de ense\ nanza interdisciplinar entre inform&#225;tica y humanidades</bibtex:title>
+<bibtex:author>
+<bibtex:person>Pardo, Miguel A Alonso</bibtex:person>
+<bibtex:person>Gavilanes, Milagros Fern&#225;ndez</bibtex:person>
+<bibtex:person>Rodr\'\iguez, Carlos G\'omez</bibtex:person>
+<bibtex:person>Gil, Jorge Gra\ na</bibtex:person>
+<bibtex:person>Ferro, Jes\'us Vilares</bibtex:person>
+</bibtex:author>
+</bibtex:article>
+</bibtex:entry>
+
+  <!-- manual cleanup may be required... -->
+</bibtex:file>
+

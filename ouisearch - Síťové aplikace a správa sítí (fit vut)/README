@@ -1,0 +1,145 @@
+
+ ouisearch  21 Rij 2012
+ Mapovani adresoveho prostoru IPv6 pomoci OUI
+
+ Radek Sevcik
+ Fakulta informacnich technologii
+ Vysokeho uceni technickeho v Brne
+
+ POPIS APLIKACE
+ --------------
+
+ Program ouisearch slouzi k vyhledani prirazenych modifikovanych EUI-64
+ adres v ramci zadane IPv6 site a vsech podsitich. Tyto EUI-64 adresy
+ jsou tvoreny na zaklade konfiguracniho souboru, ktery obsahuje seznam OUI.
+
+ ouisearch je command-line utilita.
+
+ PREHLED
+ -------
+
+ Program je napsan v jazyce C a je urcen pro pouziti na FreeBSD.
+ Na systemech GNU/Linux program funguje, avsak je nesmirne pomaly.
+
+ Program pouziva RAW sokety protokolu ICMPv6, proto je ke spusteni treba
+ administratorskeho opravneni.
+
+ Pro skenovani jedne podsite pro jedno zadane OUI musi program odeslat
+ ~70B ICMPv6 Echo Request pro 2^24 (~17 mil.) ip adres, tj. ~1GB dat
+ v malych paketech. A to bez uvazeni rezie na siti prijemce v podobe
+ ICMPv6 Neighbor Solicitation. Nespravnym pouzitim dokaze program
+ zahltit sit a jevit se jako DoS utok typu ICMP Ping-flood.
+
+ Tento program pouzivate na vlastni riziko, je urcen pouze pro testovani
+ v laboratornich podminkach na izolovane siti.
+
+ Autor nenese zadnou odpovednost za skody, zpusobene jejim pouzivanim.
+
+ IMPLEMENTACNI ROZSIRENI/OMEZENI
+ -------------------------------
+
+ Tento program implementuje vsechny pozadavky ze zadani.
+
+ Implementace omezovace rychlosti paketu/s, zapina se parametrem
+   --bandwidth packets_per_sec
+
+ Navic je implementovan vypis rozsahu prohledavanych podsiti a aktualne
+ prohledavana sit. Zapina se parametrem -v
+
+ KOMPILACE PROGRAMU
+ ------------------
+
+ $ make
+
+ PRIKLAD SPUSTENI
+ ----------------
+
+ FreeBSD:/# ifconfig
+ em0: ether 08:00:27:2a:20:9b
+      inet6 fe80::a00:27ff:fe2a:209b%em0 prefixlen 64 scopeid 0x1
+      inet6 fd00::a00:27ff:fe2a:209b prefixlen 64 autoconf
+
+ em1: ether 08:00:27:4f:a1:53
+      inet6 fe80::a00:27ff:fe4f:a153%em1 prefixlen 64 scopeid 0x2
+      inet6 fd00::a00:27ff:fe4f:a153 prefixlen 64 autoconf
+
+ em2: ether 08:00:27:c2:6c:17
+      inet6 fe80::a00:27ff:fec2:6c17%em2 prefixlen 64 scopeid 0x3
+      inet6 fd00::a00:27ff:fec2:6c17 prefixlen 64 autoconf
+
+ em3: ether 08:00:27:31:28:c7
+      inet6 fe80::a00:27ff:fe31:28c7%em3 prefixlen 64 scopeid 0x4
+      inet6 fd00::a00:27ff:fe31:28c7 prefixlen 64 autoconf
+
+ Ubuntu:/# ifconfig
+ eth1      Link encap:Ethernet  HWaddr 08:00:27:f4:f3:9b
+           inet6 addr: fd00::a00:27ff:fef4:f39b/64 Scope:Global
+           inet6 addr: fe80::a00:27ff:fef4:f39b/64 Scope:Link
+
+ eth2      Link encap:Ethernet  HWaddr 08:00:27:5d:8c:b4
+           inet6 addr: fd00::a00:27ff:fe5d:8cb4/64 Scope:Global
+           inet6 addr: fe80::a00:27ff:fe5d:8cb4/64 Scope:Link
+
+ eth3      Link encap:Ethernet  HWaddr 08:00:27:b2:9c:23
+           inet6 addr: fd00::a00:27ff:feb2:9c23/64 Scope:Global
+           inet6 addr: fe80::a00:27ff:feb2:9c23/64 Scope:Link
+
+ eth4      Link encap:Ethernet  HWaddr 08:00:27:6a:5f:b9
+           inet6 addr: fd00::a00:27ff:fe6a:5fb9/64 Scope:Global
+           inet6 addr: fe80::a00:27ff:fe6a:5fb9/64 Scope:Link
+
+ $ cat ./ouis
+ 08:00:27 VirtualBox
+
+ # ./ouisearch -d ouis -p fd00::/64
+ fd00::a00:27ff:fe2a:209b VirtualBox
+ fd00::a00:27ff:fe31:28c7 VirtualBox
+ fd00::a00:27ff:fe4f:a153 VirtualBox
+ fd00::a00:27ff:fe5d:8cb4 VirtualBox
+ fd00::a00:27ff:fe6a:5fb9 VirtualBox
+ fd00::a00:27ff:feb2:9c23 VirtualBox
+ fd00::a00:27ff:fec2:6c17 VirtualBox
+ fd00::a00:27ff:fef4:f39b VirtualBox
+
+ ODEVZDANE SOUBORY
+ -----------------
+
+ $ tar tf xsevci44.tar
+ AUTHORS
+ BSDmakefile
+ config.h
+ Makefile
+ manual.pdf
+ oui_internal.c
+ oui_internal.h
+ ouidb.c
+ ouidb.h
+ ouinetwork.c
+ ouinetwork.h
+ ouiqueue.cpp
+ ouiqueue.h
+ ouisearch.c
+ README
+
+ TESTOVANI
+ ---------
+
+ Tento program byl uspesne otestovan na systemu FreeBSD ve virtualnim
+ prostredi VirtualBox s vnitrni siti. Program nebyl testovan na fyzickem
+ pocitaci, ale jeho rychlost by se nemela vyrazne lisit.
+
+ ZNAME PROBLEMY
+ --------------
+
+ Na Ubuntu GNU/Linux je vyrazne pomale skenovani oproti FreeBSD.
+
+ Na FreeBSD pri pokusu skenovat link-local adresu fe80::/64 skonci s chybou
+ Network is unreachable, na Ubuntu GNU/Linux v poradku skenuje. System nevi,
+ ktery sitovy interface ma pouzit.
+
+ Na systemu CentOS nejsou v hlavickovem souboru <endian.h> definovane funkce
+ htobe32, be32toh, htobe16, be16toh. Je nutne zapsat do config.h radky
+ #define htobe32 htonl
+ #define be32toh ntohl
+ #define htobe16 htons
+ #define be16toh ntohs

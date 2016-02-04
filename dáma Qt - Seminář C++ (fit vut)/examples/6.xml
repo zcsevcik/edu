@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Project: Navrhněte a implementujte aplikaci pro hru Dáma,
+         projekt pro předmět ICP
+Date:    2013/03/25
+Team:    Radek Ševčík <xsevci44@stud.fit.vutbr.cz>
+         Zbyněk Malinkovič <xmalin22@stud.fit.vutbr.cz>
+-->
+<root xmlns="urn:cz-vutbr-fit:icp:x-dama">
+    <turn white="c3-d4" black="h6-g5"/>
+    <turn white="g3-h4" black="f6-e5"/>
+    <turn white="d4xf6" black="g7xe5"/>
+    <turn white="h4xf6" black="e7xg5"/>
+    <turn white="h2-g3" black="d6-c5"/>
+    <turn white="b2-c3" black="b6-a5"/>
+    <turn white="a1-b2" black="a5-b4"/>
+    <turn white="c3xa5" black="c5-b4"/>
+    <turn white="a3xc5" black="d8-e7"/>
+    <turn white="g3-f4" black="e5xg3"/>
+    <turn white="f2xh4xf6xd8" black="f8-e7"/>
+    <turn white="d8xb6" black="b8-c7"/>
+    <turn white="b6xd8xf6" black="a7-b6"/>
+    <turn white="c5xa7" black="h8-g7"/>
+    <turn white="f6xh8" black=""/>
+</root>

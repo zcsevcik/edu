@@ -1,0 +1,72 @@
+[url]/~zendulka/pubs.php.en?id=10343[/url]BENDL Jaroslav, ŠTOURAČ Jan, ŠALANDA Ondřej, PAVELKA Antonín, WIEBEN Eric, ZENDULKA Jaroslav, BREZOVSKÝ Jan and DAMBORSKÝ Jiří. PredictSNP: Robust and Accurate Consensus Classifier for Prediction of Disease-Related Mutations. PLoS Computational Biology. 2014, vol. 2014, no. 10, pp. 1-11. ISSN 1553-7358.
+
+[url]/~zendulka/pubs.php.en?id=10412[/url]BROMOVÁ Pavla, BAŘINA David, ŠKODA Petr, VÁŽNÝ Jaroslav and ZENDULKA Jaroslav. Classification of Spectra of Emission-line Stars Using Feature Extraction Based on Wavelet Transform. In: Proceedings of 23rd Annual Astronomical Data Analysis Software and Systems (ADASS) Conference. Hawaii, 2013, pp. 1-9999.
+
+[url]/~zendulka/pubs.php.en?id=10416[/url]BROMOVÁ Pavla, BAŘINA David, ŠKODA Petr, ZENDULKA Jaroslav and VÁŽNÝ Jaroslav. Classification of Be Stars Using Feature Extraction Based on Discrete Wavelet Transform. In: Proceedings of conferences Datakon and Znalosti 2013. Ostrava: VŠB-Technical University of Ostrava, 2013, pp. 95-102. ISBN 978-80-248-3189-3.
+
+[url]/~zendulka/pubs.php.en?id=10307[/url]BROMOVÁ Pavla, ŠKODA Petr and ZENDULKA Jaroslav. Wavelet Based Feature Extraction for Clustering of Be Stars. In: Nostradamus 2013: Prediction, Modeling and Analysis of Complex Systems. New York: Springer US, 2013, pp. 467-474. ISBN 978-3-319-00541-6.
+
+[url]/~zendulka/pubs.php.en?id=10485[/url]CHMELAŘ Petr, MLÍCH Jozef, PEŠEK Martin, VOLF Tomáš, ZEMČÍK Pavel and ZENDULKA Jaroslav. Brno University of Technology at TRECVid 2013: Interactive Surveillance Event Detection. In: 2013 TREC Video Retrieval Evaluation Notebook Papers and Slides. Gaithersburg, 2013, pp. 1-9.
+
+[url]/~zendulka/pubs.php.en?id=10320[/url]CHMELAŘ Petr, PEŠEK Martin, VOLF Tomáš, ZENDULKA Jaroslav and FRÖML Vojtěch. VTApi: an Efficient Framework for Computer Vision Data Management and Analytics. In: Advanced Concepts for Intelligent Vision Systems (ACIVS) - Proceedings of the 15th International Conference, ACIVS 2013. Poznań: Springer London, 2013, pp. 378-388. ISBN 978-3-319-02894-1.
+
+[url]/~zendulka/pubs.php.en?id=10277[/url]HLOSTA Martin, STRÍŽ Rostislav, KUPČÍK Jan, ZENDULKA Jaroslav and HRUŠKA Tomáš. Constrained Classification of Large Imbalanced Data by Logistic Regression and Genetic Algorithm. International Journal of Machine Learning and Computing. Singapore:  of Computer Science and Information Technology Press, 2013, vol. 2013, no. 3, pp. 214-218. ISSN 2010-3700.
+
+[url]/~zendulka/pubs.php.en?id=10438[/url]HLOSTA Martin, STRÍŽ Rostislav, ZENDULKA Jaroslav and HRUŠKA Tomáš. PSO-based Constrained Imbalanced Data Classification. In: Proceedings of the Twelth International Conference on Informatics INFORMATICS'2013. Spišská Nová Ves: The University of Technology Košice, 2013, pp. 234-239. ISBN 978-80-8143-127-2.
+
+[url]/~zendulka/pubs.php.en?id=10418[/url]HLOSTA Martin, ŠEBEK Michal and ZENDULKA Jaroslav. Approach to Visualisation of Evolving Association Rule Models. In: Proceedings of The Second International Conference on Informatics & Applications (ICIA 2013). Łódź: The Society of Digital Information and Wireless Communications, 2013, pp. 47-52. ISBN 978-1-4673-5255-0.
+
+[url]/~zendulka/pubs.php.en?id=10435[/url]ŠEBEK Michal and ZENDULKA Jaroslav. Generator of Synthetic Datasets for Hierarchical Sequential Pattern Mining Evaluation. In: Proceedings of the Twelfth International Conference on Informatics 2013. Košice: The University of Technology Košice, 2013, pp. 289-292. ISBN 978-80-8143-127-2.
+
+[url]/~zendulka/pubs.php.en?id=10403[/url]ŠEBEK Michal, HLOSTA Martin, ZENDULKA Jaroslav and HRUŠKA Tomáš. MLSP: Mining Hierarchically-Closed Multi-Level Sequential Patterns. In: 9th International Conference, ADMA 2013. Hangzhou: Springer Verlag, 2013, pp. 157-168. ISBN 978-3-642-53913-8.
+
+[url]/~zendulka/pubs.php.en?id=9929[/url]BENDL Jaroslav and ZENDULKA Jaroslav. Integration System for Functional Annotation of Single Nucleotide Polymorphism. ElectroScope. Plzeň: University of West Bohemia in Pilsen, 2012, vol. 2012, no. 5, p. 5. ISSN 1802-4564.
+
+[url]/~zendulka/pubs.php.en?id=10192[/url]CHMELAŘ Petr, MLÍCH Jozef, PEŠEK Martin, VOLF Tomáš, ZEMČÍK Pavel and ZENDULKA Jaroslav. Brno University of Technology at TRECVid 2012: Interactive Surveillance Event Detection Pilot. In: 2012 TREC Video Retrieval Evaluation Notebook Papers and Slides. Gaithersburg: National Institute of Standards and Technology, 2012, pp. 1-9.
+
+[url]/~zendulka/pubs.php.en?id=9547[/url]CHMELAŘ Petr, ŠEBEK Michal and ZENDULKA Jaroslav. ReTIN: Indexing Schema for Soft Real-Time Data Streams. In: CISSE Conference 2012. Bridgeport, 2012, pp. 1-6.
+
+[url]/~zendulka/pubs.php.en?id=9879[/url]ZENDULKA Jaroslav and PEŠEK Martin. Mining Moving Object Data. Central European Journal of Computer Science. 2012, vol. 2, no. 3, pp. 183-193. ISSN 1896-1533.
+
+[url]/~zendulka/pubs.php.en?id=9874[/url]ŠEBEK Michal, HLOSTA Martin, KUPČÍK Jan, ZENDULKA Jaroslav and HRUŠKA Tomáš. Multi-level Sequence Mining Based on GSP. Acta Electrotechnica et Informatica. 2012, vol. 2012, no. 2, pp. 31-38. ISSN 1335-8243.
+
+[url]/~zendulka/pubs.php.en?id=10061[/url]ŠKODA Petr, BROMOVÁ Pavla and ZENDULKA Jaroslav. Feature Extraction Using Wavelet Power Spectrum for Stellar Spectra Clustering. In: Proceedings of the 11th annual conference Znalosti 2012. Praha, 2012, pp. 31-40. ISBN 978-80-7378-220-7.
+
+[url]/~zendulka/pubs.php.en?id=9819[/url]ZENDULKA Jaroslav and RYCHLÝ Marek, ed. Datakon 2011, příspěvky. Brno: Brno University of Technology, 2011. ISBN 978-80-214-4329-7.
+
+[url]/~zendulka/pubs.php.en?id=9820[/url]ZENDULKA Jaroslav and RYCHLÝ Marek, ed. Datakon 2011, tutoriály. Brno: Brno University of Technology, 2011. ISBN 978-80-214-4330-3.
+
+[url]/~zendulka/pubs.php.en?id=9799[/url]ZENDULKA Jaroslav. Mining Moving Object Data. In: Proceedings of the Eleventh International Conference on Informatics. Košice: Faculty of Electrical Engineering and Informatics, University of Technology Košice, 2011, pp. 16-21. ISBN 978-80-89284-94-8.
+
+[url]/~zendulka/pubs.php.en?id=9474[/url]ŠEBEK Michal, HLOSTA Martin and ZENDULKA Jaroslav. Knowledge Discovery in Data with FIT-Miner. In: Znalosti 2011: Sborník příspěvků 10. ročníku konference. Stará Lesná: VŠB-Technical University of Ostrava, 2011, pp. 182-193. ISBN 978-80-248-2369-0.
+
+[url]/~zendulka/pubs.php.en?id=9647[/url]ŠEBEK Michal, HLOSTA Martin, KUPČÍK Jan, ZENDULKA Jaroslav and HRUŠKA Tomáš. Multi-level Sequence Mining Based on GSP. In: Proceedings of the Eleventh International Conference on Informatics INFORMATICS'2011. Košice: Faculty of Electrical Engineering and Informatics, University of Technology Košice, 2011, pp. 185-190. ISBN 978-80-89284-94-8.
+
+[url]/~zendulka/pubs.php.en?id=9504[/url]BURGETOVÁ Ivana, ZENDULKA Jaroslav and LEXA Matej. Clustering Techniques for Protein Fragments Analysis. Brno: Faculty of Information Technology BUT, 2010. ISBN 978-80-214-4207-8.
+
+[url]/~zendulka/pubs.php.en?id=9313[/url]DVOŘÁK Radim, KRAJÍČEK Jiří, ZENDULKA Jaroslav and ZBOŘIL František V. The Design of Self-Developmental Model of Atmospheric Pollutant Dispersion. In: Proceedings of the 7th EUROSIM Congress on Modelling and Simulation. Praha: Czech Technical University Publishing House, 2010, p. 6. ISBN 978-80-01-04589-3.
+
+[url]/~zendulka/pubs.php.en?id=9338[/url]RUDOLFOVÁ Ivana, ZENDULKA Jaroslav and LEXA Matej. Clustering of Protein Substructures for Discovery of a Novel Class of Sequence-Structure Fragments. In: Information Technology in Bio- and Medical Informatics, ITBAM 2010. Heidelberg: Springer Verlag, 2010, pp. 94-101. ISBN 978-3-642-15019-7.
+
+[url]/~zendulka/pubs.php.en?id=9466[/url]RYCHLÝ Marek and ZENDULKA Jaroslav. Modelling of Component-Based Systems with Mobile Architecture. Brno: Faculty of Information Technology BUT, 2010. ISBN 978-80-214-4211-5.
+
+[url]/~zendulka/pubs.php.en?id=8965[/url]CHMELAŘ Petr, RUDOLFOVÁ Ivana and ZENDULKA Jaroslav. Clustering for Video Retrieval. In: Data Warehousing and Knowledge Discovery. Heidelberg: Springer Verlag, 2009, pp. 390-401. ISBN 978-3-642-03729-0.
+
+[url]/~zendulka/pubs.php.en?id=9026[/url]ZENDULKA Jaroslav. Object-Relational Modeling. Handbook of Research on Innovations in Database Technologies and Applications. Volume 1.. Hershey, New York: IGI Global, 2009, pp. 162-170. ISBN 978-1-60566-242-8.
+
+[url]/~zendulka/pubs.php.en?id=8774[/url]BARTÍK Vladimír and ZENDULKA Jaroslav. Distance-Based Methods for Association Rules Mining. Encyclopedia of Data Warehousing and Mining. Volume 2.. Hershey, New York: IGI Global, 2008, pp. 689-694. ISBN 978-1-60566-010-3.
+
+[url]/~zendulka/pubs.php.en?id=8425[/url]CHMELAŘ Petr and ZENDULKA Jaroslav. Distributed Visual Sensor Network Fusion. 4th Joint Workshop on Multimodal Interaction and Related Machine Learning Algorithms. Brno, 2007.
+
+[url]/~zendulka/pubs.php.en?id=8426[/url]CHMELAŘ Petr and ZENDULKA Jaroslav. Visual Surveillance Metadata Management. In: Eighteenth International Workshop on Database and Expert Systems Applications. Regensburg: IEEE Computer Society Press, 2007, pp. 79-83. ISBN 978-0-7695-2932-5.
+
+[url]/~zendulka/pubs.php.en?id=8311[/url]WEISS Petr and ZENDULKA Jaroslav. Modeling of Services and Service Collaboration in UML 2.0. In: Information Systems and Formal Models. Opava: Faculty of Philosophy and Science in Opava, Silesian university in Opava, 2007, pp. 29-36. ISBN 978-80-7248-006-7.
+
+[url]/~zendulka/pubs.php.en?id=8254[/url]OPRŠAL Zdeněk, FIEDLER Zdeněk and ZENDULKA Jaroslav. Jak získávat a uplatňovat znalosti při rozvoji IS. In: DATAKON 2006 Proceedings of the Annual Database conference. Brno: Masaryk University, 2006, pp. 149-158. ISBN 80-210-4102-1.
+
+[url]/~zendulka/pubs.php.en?id=8058[/url]RUDOLFOVÁ Ivana and ZENDULKA Jaroslav. Clustering of Protein Sequences. In: Proceedings of 1st International Workshop WFM'06. Přerov, 2006, pp. 71-78. ISBN 80-86840-20-4.
+
+[url]/~zendulka/pubs.php.en?id=8195[/url]RYCHLÝ Marek and ZENDULKA Jaroslav. Distributed Information System as a System of Asynchronous Concurrent Processes. In: MEMICS 2006 Second Doctoral Workshop on Mathematical and Engineering Methods in Computer Science. Mikulov: Faculty of Information Technology BUT, 2006, pp. 206-213. ISBN 80-214-3287-X.
+
+[url]/~zendulka/pubs.php.en?id=8255[/url]ZENDULKA Jaroslav, ed. Proceedings of 9th International Conference ISIM'06. Ostrava, 2006. ISBN 80-86840-19-0.
+

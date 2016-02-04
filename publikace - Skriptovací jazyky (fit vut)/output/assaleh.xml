@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE bibtex:file PUBLIC
+    "-//BibTeXML//DTD XML for BibTeX v1.0//EN"
+    "bibtexml.dtd" >
+<bibtex:file xmlns:bibtex="http://bibtexml.sf.net/">
+
+<bibtex:entry id="Abou-Assaleh2009b">
+<bibtex:book>
+<bibtex:title>Quantifying Uncertainty in Reasoning and Question Answering: Probabilistic Relaxed Unification Formalism and Applications in Automated Question-Answering Systems</bibtex:title>
+<bibtex:author>Tony Abou-Assaleh</bibtex:author>
+<bibtex:year>2009</bibtex:year>
+<bibtex:publisher>VDM Verlag Dr. M&#252;ller</bibtex:publisher>
+<bibtex:address>Saarbr&#252;cken, Germany</bibtex:address>
+<bibtex:isbn>978-3-639-17140-2</bibtex:isbn>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2009.10.02</bibtex:timestamp>
+</bibtex:book>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2004d">
+<bibtex:proceedings>
+<bibtex:title>Proceedings of the 3rd Dalhousie Computer Science In-house Conference (DCSI'04)</bibtex:title>
+<bibtex:year>2004</bibtex:year>
+<bibtex:editor>Tony Abou-Assaleh</bibtex:editor>
+<bibtex:address>Dalhousie University, Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>October</bibtex:month>
+<bibtex:file>Proceedings:/papers/abou-assaleh_dcsi04_proceedings.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:proceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2008a">
+<bibtex:incollection>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Tapajyoti Das</bibtex:person>
+</bibtex:author>
+<bibtex:title>Combating Spamdexing: Incorporating Heuristics in Link-Based Ranking</bibtex:title>
+<bibtex:booktitle>Algorithms and Models for the Web-Graph: Fourth International Workshop, WAW 2006, Banff, Canada, November 30 - December 1, 2006, Revised Papers</bibtex:booktitle>
+<bibtex:publisher>Springer-Verlag</bibtex:publisher>
+<bibtex:year>2008</bibtex:year>
+<bibtex:editor>Aiello, William and Broder, Andrei and Janssen, Jeannette and Milios, Evangelos</bibtex:editor>
+<bibtex:volume>4936</bibtex:volume>
+<bibtex:series>Lecture Notes in Computer Science</bibtex:series>
+<bibtex:pages>97-106</bibtex:pages>
+<bibtex:address>Berlin Heidelberg</bibtex:address>
+<bibtex:month>May</bibtex:month>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.05</bibtex:timestamp>
+</bibtex:incollection>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2003">
+<bibtex:article>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+</bibtex:author>
+<bibtex:title>Relaxed Unification - Proposal</bibtex:title>
+<bibtex:journal>Applied Mathematics Letters</bibtex:journal>
+<bibtex:year>2003</bibtex:year>
+<bibtex:volume>16</bibtex:volume>
+<bibtex:pages>747-751</bibtex:pages>
+<bibtex:number>5</bibtex:number>
+<bibtex:month>July</bibtex:month>
+<bibtex:note>Accepted May 2002</bibtex:note>
+<bibtex:file>Article:/papers/abou-assaleh_aml.ps:PostScript</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:publisher>New York, NY: Elsevier Science</bibtex:publisher>
+</bibtex:article>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2009">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Philip O'Brien</bibtex:person>
+<bibtex:person>Xiao Luo</bibtex:person>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Weizheng Gao</bibtex:person>
+<bibtex:person>Shujie Li</bibtex:person>
+</bibtex:author>
+<bibtex:title>Personalization of Content Ranking in the Context of Local Search</bibtex:title>
+<bibtex:booktitle>Proceedings of the 2009 IEEE/WIC/ACM international conference on Web Intelligence (WI2009)</bibtex:booktitle>
+<bibtex:year>2009</bibtex:year>
+<bibtex:month>September 15-18</bibtex:month>
+<bibtex:publisher>ACM</bibtex:publisher>
+<bibtex:address>New York, NY, USA</bibtex:address>
+<bibtex:location>Milan, Italy</bibtex:location>
+<bibtex:file>Slides (PPT):/papers/abou-assaleh_wi2009.ppt:PowerPoint;Slides (PDF):/papers/abou-assaleh_wi2009.pdf:PDF</bibtex:file>
+<bibtex:owner>taa timestamp = 2009.09.24</bibtex:owner>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2007a">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Weizheng Gao</bibtex:person>
+</bibtex:author>
+<bibtex:title>Geographic ranking for a local search engine</bibtex:title>
+<bibtex:booktitle>SIGIR '07: Proceedings of the 30th annual international ACM SIGIR conference on Research and development in information retrieval</bibtex:booktitle>
+<bibtex:year>2007</bibtex:year>
+<bibtex:pages>911-911</bibtex:pages>
+<bibtex:address>New York, NY, USA</bibtex:address>
+<bibtex:month>July 23-27</bibtex:month>
+<bibtex:organization>SIGIR</bibtex:organization>
+<bibtex:publisher>ACM</bibtex:publisher>
+<bibtex:doi>http://doi.acm.org/10.1145/1277741.1277979</bibtex:doi>
+<bibtex:isbn>978-1-59593-597-7</bibtex:isbn>
+<bibtex:location>Amsterdam, The Netherlands</bibtex:location>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.05</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="O'Brien2007">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Philip O'Brien</bibtex:person>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+</bibtex:author>
+<bibtex:title>Focused ranking in a vertical search engine</bibtex:title>
+<bibtex:booktitle>SIGIR '07: Proceedings of the 30th annual international ACM SIGIR conference on Research and development in information retrieval</bibtex:booktitle>
+<bibtex:year>2007</bibtex:year>
+<bibtex:pages>912-912</bibtex:pages>
+<bibtex:address>New York, NY, USA</bibtex:address>
+<bibtex:month>July 23-27</bibtex:month>
+<bibtex:organization>SIGIR</bibtex:organization>
+<bibtex:publisher>ACM</bibtex:publisher>
+<bibtex:doi>http://doi.acm.org/10.1145/1277741.1277980</bibtex:doi>
+<bibtex:isbn>978-1-59593-597-7</bibtex:isbn>
+<bibtex:location>Amsterdam, The Netherlands</bibtex:location>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2007">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Tapajyoti Das</bibtex:person>
+<bibtex:person>Weizheng Gao</bibtex:person>
+<bibtex:person>Yingbo Miao</bibtex:person>
+<bibtex:person>Philip O'Brien</bibtex:person>
+<bibtex:person>Zhen Zhen</bibtex:person>
+</bibtex:author>
+<bibtex:title>A Link-Based Ranking Scheme for Focused Search</bibtex:title>
+<bibtex:booktitle>Proceedings of the 16th international conference on World Wide Web (WWW2007)</bibtex:booktitle>
+<bibtex:year>2007</bibtex:year>
+<bibtex:pages>1125-1126</bibtex:pages>
+<bibtex:address>New York, NY, USA</bibtex:address>
+<bibtex:month>May 8-12</bibtex:month>
+<bibtex:publisher>ACM</bibtex:publisher>
+<bibtex:doi>http://doi.acm.org/10.1145/1242572.1242727</bibtex:doi>
+<bibtex:isbn>978-1-59593-654-7</bibtex:isbn>
+<bibtex:location>Banff, Alberta, Canada</bibtex:location>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.05</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2005b">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+</bibtex:author>
+<bibtex:title>Question-Answering with Relaxed Unification</bibtex:title>
+<bibtex:booktitle>Proceedings of the Conference of the Pacific Association for Computational Linguistics, PACLING'05</bibtex:booktitle>
+<bibtex:year>2005</bibtex:year>
+<bibtex:address>Tokyo, Japan</bibtex:address>
+<bibtex:month>August 24-27</bibtex:month>
+<bibtex:file>Paper:/papers/abou-assaleh_pacling05.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2005d">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Jon Doyle</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+<bibtex:person>Chris Whidden</bibtex:person>
+</bibtex:author>
+<bibtex:title>DalTREC 2005 QA System Jellyfish: Mark-and-Match Approach to Question Answering</bibtex:title>
+<bibtex:booktitle>Proceedings of the Fourtheenth Text REtrieval Conference (TREC 2005)</bibtex:booktitle>
+<bibtex:year>2005</bibtex:year>
+<bibtex:address>Gaithersburg, Maryland</bibtex:address>
+<bibtex:month>November</bibtex:month>
+<bibtex:organization>National Institute of Standards and Technology (NIST)</bibtex:organization>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2005c">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+</bibtex:author>
+<bibtex:title>A Probabilistic Evaluation Function for Relaxed Unification</bibtex:title>
+<bibtex:booktitle>Proceedings of the 29th IEEE Annual International Computer Software and Applications Conference, COMPSAC 2005</bibtex:booktitle>
+<bibtex:year>2005</bibtex:year>
+<bibtex:address>Edinburgh, Scotland</bibtex:address>
+<bibtex:month>July 25-28</bibtex:month>
+<bibtex:file>Paper:/papers/abou-assaleh_compsac2005.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2004e">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+</bibtex:author>
+<bibtex:title>Applying HPSG with Relaxed Unification to Question Answering</bibtex:title>
+<bibtex:booktitle>Proceedings of the Third Dalhousie Computer Science In-house Conference (DCSI'04)</bibtex:booktitle>
+<bibtex:year>2004</bibtex:year>
+<bibtex:address>Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>October</bibtex:month>
+<bibtex:organization>Dalhousie University</bibtex:organization>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2004f">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+</bibtex:author>
+<bibtex:title>Applying HPSG with Relaxed Unification to Question Answering</bibtex:title>
+<bibtex:booktitle>MITACS 5th Annual Conference and Atlantic Interchange</bibtex:booktitle>
+<bibtex:year>2004</bibtex:year>
+<bibtex:address>Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>June</bibtex:month>
+<bibtex:organization>Dalhousie University</bibtex:organization>
+<bibtex:note>Second Place Award in the Poster Competition</bibtex:note>
+<bibtex:file>Slides:/papers/abou-assaleh_mitacs04.ppt:PowerPoint;Photo:/papers/abou-assaleh_mitacs04.png:PNG</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2004c">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+<bibtex:person>Ray Sweidan</bibtex:person>
+</bibtex:author>
+<bibtex:title>N-gram-based Detection of New Malicious Code</bibtex:title>
+<bibtex:booktitle>Proceedings of the 28th IEEE Annual International Computer Software and Applications Conference, COMPSAC 2004</bibtex:booktitle>
+<bibtex:year>2004</bibtex:year>
+<bibtex:address>Hong Kong</bibtex:address>
+<bibtex:month>September 28-30</bibtex:month>
+<bibtex:file>Paper:/papers/abou-assaleh_compsac2004.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2004b">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+<bibtex:person>Ray Sweidan</bibtex:person>
+</bibtex:author>
+<bibtex:title>Detection of New Malicious Code Using N-grams Signatures</bibtex:title>
+<bibtex:booktitle>Proceedings of the Second Annual Conference on Privacy, Security and Trust (PST'04)</bibtex:booktitle>
+<bibtex:year>2004</bibtex:year>
+<bibtex:pages>193-196</bibtex:pages>
+<bibtex:address>Fredericton, New Brunswick, Canada</bibtex:address>
+<bibtex:month>October 13-15</bibtex:month>
+<bibtex:file>Slides:/papers/abou-assaleh_pst04.ppt:PowerPoint;Paper:/papers/abou-assaleh_pst04.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Cox2004">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Anthony Cox</bibtex:person>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Wei Ai</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+</bibtex:author>
+<bibtex:title>Lexical Source-Code Transformation</bibtex:title>
+<bibtex:booktitle>Proceedings of the Software Transformation Systems Workshop (STSW'04) at the Third International Conference on Generative Programming and Component Engineering (GPCE'04)</bibtex:booktitle>
+<bibtex:year>2004</bibtex:year>
+<bibtex:address>Vancouver, British Colombia, Canada</bibtex:address>
+<bibtex:month>October</bibtex:month>
+<bibtex:file>Paper:/papers/abou-assaleh_stsw04.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2003b">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+</bibtex:author>
+<bibtex:title>Towards the Theory of Relaxed Unification</bibtex:title>
+<bibtex:booktitle>Proceedings of the 14th International Symposium on Methodologies for Intelligent Systems, ISMIS 2003</bibtex:booktitle>
+<bibtex:year>2003</bibtex:year>
+<bibtex:address>Maebashi City, Japan</bibtex:address>
+<bibtex:month>October 28-31</bibtex:month>
+<bibtex:file>Paper:/papers/abou-assaleh_ismis03.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2003a">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+</bibtex:author>
+<bibtex:title>An Overview of the Theory of Relaxed Unification</bibtex:title>
+<bibtex:booktitle>Proceedings of the International Conference on Advances in the Internet, Processing, Systems, Interdisciplinary Research, IPSI-2003</bibtex:booktitle>
+<bibtex:year>2003</bibtex:year>
+<bibtex:address>Sveti Stefan, Montenegro, Former Yugoslavia</bibtex:address>
+<bibtex:month>October 5-11</bibtex:month>
+<bibtex:file>Slides:/papers/abou-assaleh_ipsi03-ru.ppt:PowerPoint;Paper:/papers/abou-assaleh_ipsi03-ru.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Tanta-ngai2003">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Hathai Tanta-ngai</bibtex:person>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Sittichai Jiampojamarn</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+</bibtex:author>
+<bibtex:title>Secure Mail Transfer Protocol (SecMTP)</bibtex:title>
+<bibtex:booktitle>Proceedings of the International Conference on Advances in the Internet, Processing, Systems, and Interdisciplinary Research, IPSI-2003</bibtex:booktitle>
+<bibtex:year>2003</bibtex:year>
+<bibtex:address>Sveti Stefan, Montenegro, Former Yugoslavia</bibtex:address>
+<bibtex:month>October 5-11</bibtex:month>
+<bibtex:file>Slides:/papers/abou-assaleh_ipsi03-secmtp.ppt:PowerPoint;Paper:/papers/abou-assaleh_ipsi03-secmtp.pdf:PDF:</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2003c">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+<bibtex:person>Vlado Kešelj</bibtex:person>
+</bibtex:author>
+<bibtex:title>Expressing Probabilistic Context-Free Grammars in the Relaxed Unification Formalism</bibtex:title>
+<bibtex:booktitle>Proceedings of the Conference of the Pacific Association for Computational Linguistics, PACLING'03</bibtex:booktitle>
+<bibtex:year>2003</bibtex:year>
+<bibtex:address>Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>August 22-25</bibtex:month>
+<bibtex:organization>Dalhousie University</bibtex:organization>
+<bibtex:file>Slides:/papers/abou-assaleh_pacling03.ppt:PowerPoint;Paper:/papers/abou-assaleh_pacling03.pdf:PDF</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2001b">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Jianna Zhang</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+</bibtex:author>
+<bibtex:title>Evolution of Recurrent Neural Networks to Control Autonomous Life Agents</bibtex:title>
+<bibtex:booktitle>Proceedings of 2001 Genetic and Evolutionary Computation Conference Workshop Program: Graduate Student Workshop</bibtex:booktitle>
+<bibtex:year>2001</bibtex:year>
+<bibtex:editor>L. Spector and E. Goodman and A. Wu and W.B. Langdon and H.-M. Voigt and M. Gen and S. Sen and M. Dorigo and S. Pezeshk and M. Garzon and E. Burke</bibtex:editor>
+<bibtex:pages>385-388</bibtex:pages>
+<bibtex:address>San Francisco, California</bibtex:address>
+<bibtex:month>July 7-11</bibtex:month>
+<bibtex:file>Paper:/papers/abou-assaleh_gecco01-gsw.pdf:PDF:</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2001a">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Jianna Zhang</bibtex:person>
+<bibtex:person>Nick Cercone</bibtex:person>
+</bibtex:author>
+<bibtex:title>Evolution of Recurrent Neural Networks to Control Autonomous Life Agents</bibtex:title>
+<bibtex:booktitle>Proceedings of the Genetic and Evolutionary Computation Conference, GECCO-2001</bibtex:booktitle>
+<bibtex:year>2001</bibtex:year>
+<bibtex:editor>L. Spector and E. Goodman and A. Wu and W.B. Langdon and H.-M. Voigt and M. Gen and S. Sen and M. Dorigo and S. Pezeshk and M. Garzon and E. Burke</bibtex:editor>
+<bibtex:pages>903</bibtex:pages>
+<bibtex:address>San Francisco, California</bibtex:address>
+<bibtex:month>July 7-11</bibtex:month>
+<bibtex:publisher>Morgan Kaufmann Publishers</bibtex:publisher>
+<bibtex:file>Paper:/papers/abou-assaleh_gecco01.pdf:PDF:</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2000a">
+<bibtex:inproceedings>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Jianna Zhang</bibtex:person>
+</bibtex:author>
+<bibtex:title>Autonomous Life Agent Using Recurrent Neural Networks and Genetic Algorithms</bibtex:title>
+<bibtex:booktitle>Proceedings of Late Breaking Papers at the Genetic and Evolutionary Computation Conference, GECCO-2000</bibtex:booktitle>
+<bibtex:year>2000</bibtex:year>
+<bibtex:pages>1-5</bibtex:pages>
+<bibtex:address>Las Vegas, Nevada, USA</bibtex:address>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:inproceedings>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2008b">
+<bibtex:phdthesis>
+<bibtex:author>Abou-Assaleh, Tony</bibtex:author>
+<bibtex:title>Probabilistic Relaxed Unification Formalism and Its Application to Question Answering</bibtex:title>
+<bibtex:school>Faculty of Computer Science, Dalhousie University</bibtex:school>
+<bibtex:year>2008</bibtex:year>
+<bibtex:type>Ph.D. Thesis</bibtex:type>
+<bibtex:address>Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>August</bibtex:month>
+<bibtex:file>Thesis:/papers/abou-assaleh_phd-thesis08.pdf:PDF;Slides:/papers/abou-assaleh_phd-slides08.pdf:PDF</bibtex:file>
+<bibtex:#file>Slides:/papers/abou-assaleh_phd-slides08.pdf:PDF</bibtex:#file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.09.01</bibtex:timestamp>
+</bibtex:phdthesis>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2005">
+<bibtex:phdthesis>
+<bibtex:author>Abou-Assaleh, Tony</bibtex:author>
+<bibtex:title>Applying Head-driven Phrase Structure Grammar With Relaxed Unification to Question Answering</bibtex:title>
+<bibtex:school>Faculty of Computer Science, Dalhousie University</bibtex:school>
+<bibtex:year>2005</bibtex:year>
+<bibtex:type>Ph.D. Thesis Proposal</bibtex:type>
+<bibtex:address>Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>April</bibtex:month>
+<bibtex:file>Slides:/papers/abou-assaleh_phd-proposal05.ppt:PowerPoint</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:phdthesis>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2002">
+<bibtex:mastersthesis>
+<bibtex:author>Tony Abou-Assaleh</bibtex:author>
+<bibtex:title>Theory of Relaxed Unification - Proposal</bibtex:title>
+<bibtex:school>School of Computer Science, University of Waterloo</bibtex:school>
+<bibtex:year>2002</bibtex:year>
+<bibtex:type>Master's Thesis</bibtex:type>
+<bibtex:address>Waterloo, Ontario, Canada</bibtex:address>
+<bibtex:month>December</bibtex:month>
+<bibtex:file>Thesis:/papers/abou-assaleh_master_thesis.ps:PostScript:</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+</bibtex:mastersthesis>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2006a">
+<bibtex:techreport>
+<bibtex:author>Tony Abou-Assaleh</bibtex:author>
+<bibtex:title>Grep and Regular Expressions</bibtex:title>
+<bibtex:institution>Toronto Linux User Group (TLUG)</bibtex:institution>
+<bibtex:year>2006</bibtex:year>
+<bibtex:type>Invited Presentation</bibtex:type>
+<bibtex:address>Toronto, Ontario</bibtex:address>
+<bibtex:month>March</bibtex:month>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.02</bibtex:timestamp>
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2006">
+<bibtex:techreport>
+<bibtex:author>Tony Abou-Assaleh</bibtex:author>
+<bibtex:title>Building a Web Search Engine</bibtex:title>
+<bibtex:institution>Burapha University</bibtex:institution>
+<bibtex:year>2006</bibtex:year>
+<bibtex:type>Invited presentation</bibtex:type>
+<bibtex:address>Chonburi, Thailand</bibtex:address>
+<bibtex:month>December</bibtex:month>
+<bibtex:note>Invited Presentation</bibtex:note>
+<bibtex:howpublished>Invited presentation, Burapha University, Chonburi, Thailand</bibtex:howpublished>
+<bibtex:organization>Burapha University</bibtex:organization>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2005a">
+<bibtex:techreport>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Oliver Baltzer</bibtex:person>
+<bibtex:person>Chris Jordan</bibtex:person>
+<bibtex:person>Philip O'Brien</bibtex:person>
+<bibtex:person>and Hathai Tanta-ngai</bibtex:person>
+</bibtex:author>
+<bibtex:title>Collaborative, Distributed Information Management and Retrieval Architecture for the Enterprises</bibtex:title>
+<bibtex:institution>Faculty of Computer Science, Dalhousie University</bibtex:institution>
+<bibtex:year>2005</bibtex:year>
+<bibtex:type>Technical Report</bibtex:type>
+<bibtex:number>CS2005-13</bibtex:number>
+<bibtex:address>Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>August</bibtex:month>
+<bibtex:file>Report:/papers/abou-assaleh_CS-2005-13.pdf:PDF:</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2004">
+<bibtex:techreport>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Wei Ai</bibtex:person>
+</bibtex:author>
+<bibtex:title>Survey of Global Regular Expression Print (GREP) Tools</bibtex:title>
+<bibtex:institution>Faculty of Computer Science, Dalhousie University</bibtex:institution>
+<bibtex:year>2004</bibtex:year>
+<bibtex:type>Topics in Program Comprehension (CSCI 6306)</bibtex:type>
+<bibtex:address>Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>March</bibtex:month>
+<bibtex:edition>Topics in Program Comprehension (CSCI 6306)</bibtex:edition>
+<bibtex:howpublished>Topics in Program Comprehension (CSCI 6306)</bibtex:howpublished>
+<bibtex:organization>Faculty of Computer Science, Dalhousie University</bibtex:organization>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2004a">
+<bibtex:techreport>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Wei Ai</bibtex:person>
+</bibtex:author>
+<bibtex:title>Enhancing GNU grep</bibtex:title>
+<bibtex:institution>Faculty of Computer Science, Dalhousie University</bibtex:institution>
+<bibtex:year>2004</bibtex:year>
+<bibtex:type>Final Project Report, Topics in Program Comprehension (CSCI 6306)</bibtex:type>
+<bibtex:address>Halifax, Nova Scotia, Canada</bibtex:address>
+<bibtex:month>April</bibtex:month>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2001">
+<bibtex:techreport>
+<bibtex:author>Abou-Assaleh, Tony</bibtex:author>
+<bibtex:title>Evolution of Recurrent Neural Networks to Control Autonomous Life Agents</bibtex:title>
+<bibtex:institution>Department of Computer Science, University of Waterloo</bibtex:institution>
+<bibtex:year>2001</bibtex:year>
+<bibtex:type>Technical Report</bibtex:type>
+<bibtex:number>CS-2001-22</bibtex:number>
+<bibtex:address>Waterloo, Ontario, Canada</bibtex:address>
+<bibtex:month>October</bibtex:month>
+<bibtex:file>Report:/papers/abou-assaleh_CS-2001-22.pdf:PDF:</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:techreport>
+</bibtex:entry>
+
+<bibtex:entry id="Abou-Assaleh2000">
+<bibtex:techreport>
+<bibtex:author>
+<bibtex:person>Tony Abou-Assaleh</bibtex:person>
+<bibtex:person>Jianna Zhang</bibtex:person>
+</bibtex:author>
+<bibtex:title>Autonomous Life Agent Using Recurrent Neural Networks and Genetic Algorithms</bibtex:title>
+<bibtex:institution>Department of Computer Science, Brock University</bibtex:institution>
+<bibtex:year>2000</bibtex:year>
+<bibtex:type>Technical Report</bibtex:type>
+<bibtex:number>CS-00-03</bibtex:number>
+<bibtex:address>St. Catharines, Ontario, Canada</bibtex:address>
+<bibtex:month>November</bibtex:month>
+<bibtex:file>Report:/papers/abou-assaleh_cs0003.pdf:PDF:</bibtex:file>
+<bibtex:owner>taa</bibtex:owner>
+<bibtex:timestamp>2008.03.01</bibtex:timestamp>
+</bibtex:techreport>
+</bibtex:entry>
+
+  <!-- manual cleanup may be required... -->
+</bibtex:file>
+

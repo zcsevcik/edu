@@ -1,0 +1,363 @@
+#!/bin/bash
+
+# ===================================================================
+# Soubor:  ardiff.sh
+# Datum:   2011/02/27
+# Autor:   Radek Sevcik, xsevci44@stud.fit.vutbr.cz
+# Projekt: Prace s archivy, projekt c. 1 pro predmet IOS
+# Popis:   Rozsireni nastroje diff pro praci s archivy
+# ===================================================================
+
+readonly ACTION_LIST=1;
+readonly ACTION_DIFF=2;
+readonly ACTION_PATCH=3;
+readonly MIME_BZIP2='application/x-bzip2';
+readonly MIME_GZIP='application/x-gzip';
+readonly MIME_TAR='application/x-tar';
+readonly MIME_ZIP='application/zip';
+readonly ERROR_EXTRACT=1;
+readonly ERROR_CREATE=2;
+readonly ERROR_MIME_NOT_SUPPORTED=3;
+readonly ERROR_PROGRAM_REQUIRED=4;
+readonly ERROR_FILE_READ=5;
+
+ACTION=0;
+MODE_REVERSE=false;
+
+function print_usage {
+    echo "ardiff vypisuje zmeny archivu, vytvari rozdilovy archiv nebo aplikuje rozdilovy archiv na zdrojovy archiv.";
+    echo "Pouziti: ardiff [volby] archiv1 archiv2";
+    echo "Volby:";
+    echo "  -o SOUBOR  Pokud je cilem skriptu vytvorit archiv, bude vytvoren do souboru";
+    echo "             se jmenem SOUBOR (plati pro -c a -p).";
+    echo "  -l         Vypis seznamu souboru, ktere se v zadanych archivech lisi.";
+    echo "  -c         Vytvoreni rozdiloveho archivu.";
+    echo "  -p         Aplikace rozdiloveho archivu (argument archiv2) na zdrojovy archiv";
+    echo "             (argument archiv1).";
+    echo "  -r         Prepnuti do reverzniho rezimu (plati pro -p).";
+}
+
+function check {
+    type -P 'tar' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'tar';
+    type -P 'gzip' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'gzip';
+    type -P 'bzip2' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'bzip2';
+    type -P 'unzip' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'unzip';
+    type -P 'zip' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'zip';
+    type -P 'diff' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'diff';
+    type -P 'patch' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'patch';
+    type -P 'grep' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'grep';
+    type -P 'sed' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'sed';
+    type -P 'find' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'find';
+    type -P 'file' >/dev/null || error $ERROR_PROGRAM_REQUIRED 'file';
+}
+
+function error {
+    case $1 in
+        $ERROR_EXTRACT)
+            echo "Nastala chyba pri rozbalovani archivu $2." >&2;;
+        $ERROR_CREATE)
+            echo "Nastala chyba pri vytvareni archivu $2." >&2;;
+        $ERROR_MIME_NOT_SUPPORTED)
+            echo "Soubor $3 je typu $2, ktery neni podporovan." >&2;;
+        $ERROR_PROGRAM_REQUIRED)
+            echo "Tento skript ke svemu behu vyzaduje program $2." >&2;;
+        $ERROR_FILE_READ)
+            echo "Soubor $2 se neda otevrit pro cteni." >&2;;
+    esac
+
+    temp_clean;
+    exit 1;
+}
+
+function temp_create {
+    if [ -d "$DIR_ARCHIVE_1" ] || [ -d "$DIR_ARCHIVE_2" ] || [ -d "$DIR_ARCHIVE_3" ]; then
+        temp_clean;
+    fi
+
+    mkdir -p "$DIR_ARCHIVE_1" "$DIR_ARCHIVE_2" "$DIR_ARCHIVE_3" || exit 1;
+}
+
+function temp_clean {
+    rm -f -r "$DIR_ARCHIVE_1" "$DIR_ARCHIVE_2" "$DIR_ARCHIVE_3" || exit 1;
+}
+
+function archive_extract {
+    case $1 in
+        $MIME_TAR)
+            tar xf "$2" -C "$3" >/dev/null 2>/dev/null || error $ERROR_EXTRACT "$2";;
+        $MIME_GZIP)
+            tar xzf "$2" -C "$3" >/dev/null 2>/dev/null || error $ERROR_EXTRACT "$2";;
+        $MIME_BZIP2)
+            tar xjf "$2" -C "$3" >/dev/null 2>/dev/null || error $ERROR_EXTRACT "$2";;
+        $MIME_ZIP)
+            unzip "$2" -d "$3" >/dev/null 2>/dev/null || error $ERROR_EXTRACT "$2";;
+        *)
+            error $ERROR_MIME_NOT_SUPPORTED "$1" "$2";;
+    esac
+}
+
+function archive_create {
+    case $1 in
+        $MIME_TAR)
+            tar cf "$2" -C "$3" . >/dev/null 2>/dev/null || error $ERROR_CREATE "$2";;
+        $MIME_GZIP)
+            tar czf "$2" -C "$3" . >/dev/null 2>/dev/null || error $ERROR_CREATE "$2";;
+        $MIME_BZIP2)
+            tar cjf "$2" -C "$3" . >/dev/null 2>/dev/null || error $ERROR_CREATE "$2";;
+        $MIME_ZIP)
+            rm -f "$2";
+            zip -r "$2" "$3" >/dev/null 2>/dev/null || error $ERROR_CREATE "$2";
+            ;;
+        *)
+            error $ERROR_MIME_NOT_SUPPORTED $1 "$2";;
+    esac
+}
+
+function make_list {
+    DIFFOUT=`diff -qrN "$DIR_ARCHIVE_1" "$DIR_ARCHIVE_2"`;
+    FILES=`echo "$DIFFOUT" | grep -e "^Files $DIR_ARCHIVE_1/.* and $DIR_ARCHIVE_2/.* differ$" | sed -e "s=^Files $DIR_ARCHIVE_1/\(.*\) and $DIR_ARCHIVE_2/.* differ$=\1="`;
+    MISMATCHED_DIRS=`echo "$DIFFOUT" | grep -e "^File $DIR_ARCHIVE_1/.* is a .* while file $DIR_ARCHIVE_2/.* is a .*$" | sed -e "s=^File $DIR_ARCHIVE_1/\(.*\) is a .* while file $DIR_ARCHIVE_2/.* is a .*$=\1="`;
+    MISMATCHED_FILES='';
+    
+    IFS=$'\n';
+    for i in $MISMATCHED_DIRS; do
+        if [ -d "$DIR_ARCHIVE_1/$i" ]; then
+            DIR_ARCHIVE="$DIR_ARCHIVE_1";
+        elif [ -d "$DIR_ARCHIVE_2/$i" ]; then
+            DIR_ARCHIVE="$DIR_ARCHIVE_2";
+        else
+            continue;
+        fi
+
+        SUBFILES=`find "${DIR_ARCHIVE}/${i}" 2>/dev/null | sed -e "s=^$DIR_ARCHIVE/=="`;
+        MISMATCHED_FILES="${MISMATCHED_FILES}${SUBFILES}";
+    done
+    unset IFS;
+
+    echo -e "${MISMATCHED_FILES}\n${FILES}" | sort -;
+}
+
+function make_diff {
+    FILES=`find "$DIR_ARCHIVE_1" "$DIR_ARCHIVE_2" -type f | sed -e "s=^$DIR_ARCHIVE_1==" -e "s=^$DIR_ARCHIVE_2==" | sort -u -`;
+
+    IFS=$'\n';
+    for i in $FILES; do
+        DIRNAME="${DIR_ARCHIVE_3}${i%/*}";
+        DIFF_FILE_1="${DIR_ARCHIVE_1}${i}";
+        DIFF_FILE_2="${DIR_ARCHIVE_2}${i}";
+        OUTFILE="${DIR_ARCHIVE_3}${i}.patch";
+        REGEXP_1="1s=^\([+\-]\{3\}\) ${DIR_ARCHIVE_1}=\1 a=";
+        REGEXP_2="2s=^\([+\-]\{3\}\) ${DIR_ARCHIVE_2}=\1 b=";
+
+        PATCH=`diff -uN "${DIFF_FILE_1}" "${DIFF_FILE_2}" 2>/dev/null`;
+        case $? in
+            0)
+                continue;;
+            1)
+                [ -d "$DIRNAME" ] || mkdir -p "$DIRNAME" || exit 1;
+                echo "$PATCH" | sed -e "$REGEXP_1" -e "$REGEXP_2" >"$OUTFILE";;
+            2)
+                if [ -d "$DIFF_FILE_1" ]; then
+                    ISDIR=1;
+                elif [ -d "$DIFF_FILE_2" ]; then
+                    ISDIR=2;
+                else
+                    ISDIR=0;
+                fi
+
+                if [ $ISDIR -ne 0 ]; then
+                    DIRNAME="${DIR_ARCHIVE_3}${i}";
+                    mkdir -p "$DIRNAME" || exit 1;
+                else
+                    DIRNAME_FILE_1="${DIFF_FILE_1%/*}"
+                    DIRNAME_FILE_2="${DIFF_FILE_2%/*}"
+
+                    if [ -d "$DIRNAME_FILE_1" ]; then
+                        ISDIR=2;
+                    elif [ -d "$DIRNAME_FILE_2" ]; then
+                        ISDIR=1;
+                    else
+                        echo ERROR with ISDIR;
+                        continue;
+                    fi
+                fi
+
+                if [ $ISDIR -eq 1 ]; then
+                    DIFF_FILE_1='';
+                    REGEXP_1="1s=^\([+\-]\{3\}\) =\1 a${i}=";
+                elif [ $ISDIR -eq 2 ]; then
+                    DIFF_FILE_2='';
+                    REGEXP_2="2s=^\([+\-]\{3\}\) =\1 b${i}=";
+                else
+                    echo ERROR with ISDIR;
+                    continue;
+                fi
+
+                PATCH=`diff -uN "$DIFF_FILE_1" "$DIFF_FILE_2"`;
+                echo "$PATCH" | sed -e "$REGEXP_1" -e "$REGEXP_2" >"$OUTFILE";
+                ;;
+        esac
+    done
+    unset IFS;
+}
+
+function make_patch {
+    # $ARCHIVE_1 je zdrojovy archiv
+    # $ARCHIVE_2 je rozdilovy archiv
+    # $ARCHIVE_3 je cilovy archiv
+
+    #cp -LRf "$DIR_ARCHIVE_1/" "$DIR_ARCHIVE_3" || exit 1;
+    FILES=`find "$DIR_ARCHIVE_2" -type f -name '*.patch'`;
+    if $MODE_REVERSE; then
+        PATCH_REVERSE='-R';
+        FILES=`echo "$FILES" | sort -r -`;
+    else
+        PATCH_REVERSE=''
+        FILES=`echo "$FILES" | sort -`;
+    fi
+
+    IFS=$'\n';
+    for i in $FILES; do
+        APPLYTO="${i/#$DIR_ARCHIVE_2/$DIR_ARCHIVE_1}";
+        APPLYTO="${APPLYTO%.patch}"
+        # APPLYTO=`grep -e '^-\{3\} [ab]/' "$i" | sed -e '1s=^-\{3\} [ab]/\(.*\)[ \t]\{1,\}\([0-9\-]\{1,\}\)[ \t]\{1,\}\([0-9:.]\{1,\}\)[ \t].*$=\1='`;
+
+        # oprava pro freebsd: patch nemaze prazdne adresare
+        if [ -d "$APPLYTO" ]; then
+            rmdir "$APPLYTO" 2>/dev/null;
+        fi
+
+        # bug freebsd: pri reverse si neumi vytvorit puvodni soubor
+        patch -uEsf $PATCH_REVERSE -i "$i" "$APPLYTO";
+
+        # oprava pro freebsd: patch vzdy vytvori backup soubor
+        rm -f "$APPLYTO.orig" 2>/dev/null
+    done
+    unset IFS;
+}
+
+# ===================================================================
+# function main()
+# ===================================================================
+while getopts "o:lcprh" arg; do
+    case $arg in
+        "o")
+            ARCHIVE_3=$OPTARG;;
+        "l")
+            ACTION=$ACTION_LIST;;
+        "c")
+            ACTION=$ACTION_DIFF;;
+        "p")
+            ACTION=$ACTION_PATCH;;
+        "r")
+            MODE_REVERSE=true;;
+        "h")
+            print_usage
+            exit 0;;
+        "?")
+            print_usage
+            exit 1;;
+    esac
+done
+shift $(($OPTIND - 1))
+
+if [ $# -ne 2 ]; then
+    print_usage;
+    exit 1;
+fi
+
+export LANG=C;
+export LC_COLLATE=C;
+
+check
+
+ARCHIVE_1=$1
+ARCHIVE_2=$2
+#ARCHIVE_3
+DIR_ARCHIVE_1="${ARCHIVE_1// /_}"
+DIR_ARCHIVE_2="${ARCHIVE_2// /_}"
+DIR_ARCHIVE_3="${ARCHIVE_3// /_}"
+DIR_ARCHIVE_1="/tmp/ardiff-${DIR_ARCHIVE_1##*/}-1"
+DIR_ARCHIVE_2="/tmp/ardiff-${DIR_ARCHIVE_2##*/}-2"
+DIR_ARCHIVE_3="/tmp/ardiff-${DIR_ARCHIVE_3##*/}-3"
+TYPE_ARCHIVE_1=''
+TYPE_ARCHIVE_2=''
+TYPE_ARCHIVE_3=''
+REGEXP_MIME='s=^\([0-9a-zA-Z+\-]\{1,\}/[0-9a-zA-Z+\-]\{1,\}\).*$=\1='
+
+if [ $ACTION -eq 0 ]; then
+    print_usage;
+    exit 1;
+fi
+
+if $MODE_REVERSE && [ $ACTION -ne $ACTION_PATCH ]; then
+    print_usage;
+    exit 1;
+fi
+
+if [ -z "$ARCHIVE_3" ] && ( [ $ACTION -eq $ACTION_PATCH ] || [ $ACTION -eq $ACTION_DIFF ] ); then
+    print_usage;
+    exit 1;
+fi
+
+if [ ! -z "$ARCHIVE_3" ]; then
+    case ${ARCHIVE_3##*.} in
+        'gz')
+            TYPE_ARCHIVE_3=$MIME_GZIP;;
+        'tgz')
+            TYPE_ARCHIVE_3=$MIME_GZIP;;
+        'bz2')
+            TYPE_ARCHIVE_3=$MIME_BZIP2;;
+        'tar')
+            TYPE_ARCHIVE_3=$MIME_TAR;;
+        'zip')
+            TYPE_ARCHIVE_3=$MIME_ZIP;;
+        *)
+            error $ERROR_MIME_NOT_SUPPORTED unknown "$ARCHIVE_3";;
+    esac
+fi
+
+if [ ! -r "$ARCHIVE_1" ]; then
+    error $ERROR_FILE_READ "$ARCHIVE_1"
+else
+    TYPE_ARCHIVE_1=`file -bi "$ARCHIVE_1" | sed -e "$REGEXP_MIME"`
+fi
+
+if [ ! -r "$ARCHIVE_2" ]; then
+    error $ERROR_FILE_READ "$ARCHIVE_2"
+else
+    TYPE_ARCHIVE_2=`file -bi "$ARCHIVE_2" | sed -e "$REGEXP_MIME"`
+fi
+
+trap 'temp_clean; exit 1;' 2
+
+case $ACTION in
+    $ACTION_LIST)
+        temp_create
+        archive_extract $TYPE_ARCHIVE_1 "$ARCHIVE_1" "$DIR_ARCHIVE_1"
+        archive_extract $TYPE_ARCHIVE_2 "$ARCHIVE_2" "$DIR_ARCHIVE_2"
+        make_list
+        temp_clean
+        ;;
+    $ACTION_DIFF)
+        temp_create
+        archive_extract $TYPE_ARCHIVE_1 "$ARCHIVE_1" "$DIR_ARCHIVE_1"
+        archive_extract $TYPE_ARCHIVE_2 "$ARCHIVE_2" "$DIR_ARCHIVE_2"
+        make_diff
+        archive_create $TYPE_ARCHIVE_3 "$ARCHIVE_3" "$DIR_ARCHIVE_3"
+        temp_clean
+        ;;
+    $ACTION_PATCH)
+        temp_create
+        archive_extract $TYPE_ARCHIVE_1 "$ARCHIVE_1" "$DIR_ARCHIVE_1"
+        archive_extract $TYPE_ARCHIVE_2 "$ARCHIVE_2" "$DIR_ARCHIVE_2"
+        make_patch
+        archive_create $TYPE_ARCHIVE_3 "$ARCHIVE_3" "$DIR_ARCHIVE_1"
+        temp_clean
+        ;;
+    *)
+        exit 1;;
+esac
+
+exit 0;
+

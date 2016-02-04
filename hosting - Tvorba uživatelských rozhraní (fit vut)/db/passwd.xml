@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+    <user login="admin" role="supervisor" name="Administrator" surname="" company="">
+        c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec
+    </user>
+    <user login="test@test.cz" role="customer" name="Ludolf" surname="Testík" company="Testování s.r.o.">
+        c7ad44cbad762a5da0a452f9e854fdc1e0e7a52a38015f23f3eab1d80b931dd472634dfac71cd34ebc35d16ab7fb8a90c81f975113d6c7538dc69dd8de9077ec
+    </user>
+</users>

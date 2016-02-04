@@ -1,0 +1,63 @@
+
+
+"NewsViews: An Automated Pipeline for Creating Custom Geovisualizations for News" Tong Gao, Jessica Hullman, Eytan Adar, Brent Hecht, and Nicholas Diakopoulos, to appear, CHI'14
+
+"A Deeper Understanding of Sequence in Narrative Visualization" Jessica Hullman, Steven Drucker, Nathalie Henry Riche, Bongshin Lee, Danyel Fisher, and Eytan Adar, IEEE InfoVis'13, Oct 13-18, Atlanta, GA.
+
+"Leveraging Noisy Lists for Social Feed Ranking" Matthew Burgess, Alessandra Mazzia, Eytan Adar, Michael Cafarella, ICWSM'13, July 8-10, 2013, Boston, MA.
+
+"Benevolent Deception in Human Computer Interaction" Eytan Adar, Desney Tan and Jaime Teevan, CHI'13, Apr. 27-May 2, 2013, Paris, France (Honorable Mentionpaper).
+
+"Contextifier: Automatic Generation of Annotated Stock Visualizations" Jessica Hullman, Nicholas Diakopoulos, and Eytan Adar, CHI'13, Apr. 27-May 2, 2013, Paris, France.
+
+"PixelTone: A Multimodal Interface for Image Editing" Gierad Laput, Mira Dontcheva, Gregg Wilensky, Walter Chang, Aseem Agarwala, Jason Linder, and Eytan Adar, CHI'13, Apr. 27-May 2, 2013, Paris, France.
+
+"Predicting Citation Counts Using Text and Graph Mining" Avishay Livne, Eytan Adar, Jaime Teevan, and Susan Dumais, to appear, iConference 2013 Workshop on Computational Scientometrics: Theory and Applications
+
+"Tutorial-based Interfaces for Cloud-enabled Applications" Gierad Laput, Eytan Adar, Mira Dontcheva, and Wilmot Li, UIST'12.
+
+"Personalized Online EducationA Crowdsourcing Challenge " Daniel S. Weld, Eytan Adar, Lydia Chilton, Raphael Hoffmann, Eric Horvitz, Mitchell Koch, James Landay, Christopher H. Lin, Mausam, HCOMP '12, Toronto, Canada, July 23, 2012
+
+"The PViz Comprehension Tool for Social Network Privacy Settings" Alessandra Mazzia, Kristen LeFevre, Eytan Adar, SOUPS'12, Washington DC, July 11-13, 2012.
+
+"Searching for Statistical Diagrams" Shirley Zhe Chen, Michael J. Cafarella, and Eytan Adar,Frontiers of Engineering, National Academy of Engineering, Washington DC, 2012
+
+"Benefiting InfoVis with Visual Difficulties" Jessica Hullman, Eytan Adar, and Priti Shah, InfoVis'11, Providence, RI, Oct 23-28, 2011 (Honorable Mentionpaper)
+
+"The Party is Over Here: Structure and Content in the 2010 Election" Avishay Livne, Matthew P. Simmons, Eytan Adar, Lada A. Adamic, ICWSM'11, Barcelona, Spain, July 17-21, 2011.
+
+"Memes Online: Extracted, Subtracted, Injected, and Recollected" Matthew P. Simmons, Lada A. Adamic, Eytan Adar, ICWSM'11, Barcelona, Spain, July 17-21, 2011.
+
+"The Impact of Social Information on Visual Judgments" Jessica Hullman, Eytan Adar, and Priti Shah, CHI'11, Vancouver, Canada, May 7-11, 2011.
+
+"Why I Hate Mechanical Turk Research (and Workshops)" Eytan Adar, CHI'11 Workshop on Crowdsourcing and Human Computation, Vancouver, Canada, May 7, 2011.
+
+"A Tool for Policy Comprehension" Alessandra Mazzia, Kristen LeFevre, Eytan Adar, CHI'11 Workshop on Networked Privacy, Vancouver, Canada, May 7, 2011.
+
+"The temporal dimension in end user programming for the Web" Eytan Adar, Mira Dontcheva, James Fogarty, Daniel S. Weld, Chapter inNo Code Required, Morgan Kaufmann, 2010
+
+"Resonance on the Web: Web Dynamics and Revisitation Patterns" Eytan Adar, Jaime Teevan, and Susan Dumais, CHI 2009, Boston, MA, April 4-9, 2009.
+
+"The Temporal Dimension in End User Web Programming " Eytan Adar, Mira Dontcheva, James Fogarty, Daniel S. Weld, Workshop on End User Programming for the Web, CHI 2009, Boston, MA, April 4-9,2009
+
+"Information Arbitrage in Multi-Lingual Wikipedia" Eytan Adar, Michael Skinner, Dan Weld, WSDM'09, Barcelona, Spain, Feb. 9-12, 2009.
+
+"The Web Changes Everything: Understanding the Dynamics of Web Content" Eytan Adar, Jaime Teevan, Susan Dumais, Jonathan Elsas, WSDM'09, Barcelona, Spain, Feb. 9-12, 2009. (Best Student Paper).
+
+"Zoetrope: Interacting with the Ephemeral Web" Eytan Adar, Mira Dontcheva, James Fogarty, Daniel S. Weld, UIST'08, Monterey, CA, October 19-22, 2008.
+
+"Intelligence in Wikipedia" Daniel S. Weld, Fei Wu, Eytan Adar, Saleema Amershi, James Fogarty, Raphael Hoffmann, Kayur Patel and Michael Skinner, AAAI'08, Chicago, IL, July 13-17, 2008.
+
+"Large Scale Analysis of Web Revisitation Patterns" Eytan Adar, Jaime Teevan, and Susan Dumais, CHI 2008, Florence, Italy, April 5-10, 2008 (Best of CHI).
+
+"Managing Uncertainty in Social Networks" Eytan Adar and Christopher Ré,Data Engineering Bulletin, 30(2):23-31, July, 2007.
+
+"Information Re-Retrieval: Repeat Queries in Yahoo's Logs" Jaime Teevan, Eytan Adar, Rosie Jones, and Michael Potts, SIGIR'07, Amsterdam, The Netherlands, July 2007
+
+"User 4XXXXX9: Anonymizing Query Logs" Eytan Adar, Query Logs Workshop, WWW'07, Banff, Canada, May 2007
+
+"Why We Search: Visualizing and Predicting User Behavior" Eytan Adar, Daniel Weld, Brian Bershad, and Steven Gribble, WWW'07, Banff, Canada, May 2007
+
+"SoftGUESS: Visualization and Exploration of Code Clones in Context" Eytan Adar and Miryung Kim, ICSE 2007 (formal demo), Minneapolis, MN, May 2007.
+
+All...

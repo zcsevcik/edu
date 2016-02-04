@@ -1,0 +1,15 @@
+/* DO NOT EDIT! GENERATED AUTOMATICALLY! */
+
+/* #define _XTAL_FREQ 3686400 */
+
+/* #undef X(Bd, SPBRG, BRGH, BRG16, pctERROR) */
+#define X_SPBRG \
+X(CBR_300 /* 300 Bd */, 0xBF, 0, 0, 0.00) \
+X(CBR_1200 /* 1200 Bd */, 0x2F, 0, 0, 0.00) \
+X(CBR_2400 /* 2400 Bd */, 0x17, 0, 0, 0.00) \
+X(CBR_4800 /* 4800 Bd */, 0x0B, 0, 0, 0.00) \
+X(CBR_9600 /* 9600 Bd */, 0x05, 0, 0, 0.00) \
+X(CBR_19200 /* 19200 Bd */, 0x02, 0, 0, 0.00) \
+X(CBR_38400 /* 38400 Bd */, 0x05, 1, 0, 0.00) \
+X(CBR_115200 /* 115200 Bd */, 0x01, 1, 0, 0.00)
+

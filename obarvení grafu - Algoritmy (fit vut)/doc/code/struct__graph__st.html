@@ -1,0 +1,312 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<title>Obarvení grafů: Dokumentace struktury _graph_st</title>
+
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+
+
+
+</head>
+<body>
+<div id="top"><!-- do not remove this div! -->
+
+
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  
+  
+  <td style="padding-left: 0.5em;">
+   <div id="projectname">Obarvení grafů
+   &#160;<span id="projectnumber">2011</span>
+   </div>
+   <div id="projectbrief">IAL - náhradní projekt č. 6</div>
+  </td>
+  
+  
+  
+ </tr>
+ </tbody>
+</table>
+</div>
+
+<!-- Generováno programem Doxygen 1.7.6.1 -->
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Hlavní&#160;stránka</span></a></li>
+      <li class="current"><a href="annotated.html"><span>Třídy</span></a></li>
+      <li><a href="files.html"><span>Soubory</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="annotated.html"><span>Datové&#160;struktury</span></a></li>
+      <li><a href="classes.html"><span>Rejstřík&#160;datových&#160;struktur</span></a></li>
+      <li><a href="functions.html"><span>Datové&#160;položky</span></a></li>
+    </ul>
+  </div>
+</div>
+<div class="header">
+  <div class="summary">
+<a href="#pub-attribs">Datové položky</a> &#124;
+<a href="#related">Související funkce</a>  </div>
+  <div class="headertitle">
+<div class="title">Dokumentace struktury _graph_st</div>  </div>
+</div><!--header-->
+<div class="contents">
+<!-- doxytag: class="_graph_st" -->
+<p>Struktura grafu.  
+ <a href="struct__graph__st.html#details">...</a></p>
+<table class="memberdecls">
+<tr><td colspan="2"><h2><a name="pub-attribs"></a>
+Datové položky</h2></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#a32e65d4168db47337a612249ed41be29">matrix</a></td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Matice sousednosti.  <a href="#a32e65d4168db47337a612249ed41be29"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> **&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#a42b1673f09591fa6270e6cf58ce97d94">vertices</a></td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrcholy grafu.  <a href="#a42b1673f09591fa6270e6cf58ce97d94"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#ae7a00c2f895ed17ca72ee60a3ee4bf06">numvertices</a></td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Pocet vrcholu grafu.  <a href="#ae7a00c2f895ed17ca72ee60a3ee4bf06"></a><br/></td></tr>
+<tr><td colspan="2"><h2><a name="related"></a>
+Související funkce</h2></td></tr>
+<tr><td class="ititle" colspan="2"><p>(Uvedené funkce nejsou členskými funkcemi.) </p>
+</td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#a1d0d5780819124ed14a241ff7c6e160a">ial_graph_new</a> (size_t <a class="el" href="struct__graph__st.html#ae7a00c2f895ed17ca72ee60a3ee4bf06">numvertices</a>, <a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> **<a class="el" href="struct__graph__st.html#a42b1673f09591fa6270e6cf58ce97d94">vertices</a>, <a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *<a class="el" href="struct__graph__st.html#a32e65d4168db47337a612249ed41be29">matrix</a>)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vytvori novy graf.  <a href="#a1d0d5780819124ed14a241ff7c6e160a"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#aa32953e3ec19add0bb42e9a0bc7c66b9">ial_graph_free</a> (<a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *graph)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Uvolni graf, matici a jednotlive vrcholy.  <a href="#aa32953e3ec19add0bb42e9a0bc7c66b9"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#a4f21fbfae63cb6c57fbfce400b813df7">ial_graph_count_vertices</a> (const <a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *graph)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrati pocet vrcholu v grafu.  <a href="#a4f21fbfae63cb6c57fbfce400b813df7"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#a3b1b1ac6a78fb61eac70ad86e45a036f">ial_graph_get_vertex</a> (const <a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *graph, size_t vertex)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrati vazany seznam i-teho vrcholu.  <a href="#a3b1b1ac6a78fb61eac70ad86e45a036f"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#abb868665f1592776312ac87e63c527d1">ial_graph_get_matrix</a> (const <a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *graph)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Vrati matici sousednosti spojenou s grafem.  <a href="#abb868665f1592776312ac87e63c527d1"></a><br/></td></tr>
+<tr><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct__graph__st.html#ac61448d3e557e122a020deee8af67e7a">ial_graph_complete</a> (<a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *graph)</td></tr>
+<tr><td class="mdescLeft">&#160;</td><td class="mdescRight">Prevede neuplny graf na uplny spojenim nesousedicich vrcholu.  <a href="#ac61448d3e557e122a020deee8af67e7a"></a><br/></td></tr>
+</table>
+<hr/><a name="details" id="details"></a><h2>Detailní popis</h2>
+<div class="textblock"><p>Struktura grafu. </p>
+</div><hr/><h2>Dokumentace k friends</h2>
+<a class="anchor" id="ac61448d3e557e122a020deee8af67e7a"></a><!-- doxytag: member="_graph_st::ial_graph_complete" ref="ac61448d3e557e122a020deee8af67e7a" args="(graph_t *graph)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int <a class="el" href="struct__graph__st.html#ac61448d3e557e122a020deee8af67e7a">ial_graph_complete</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *&#160;</td>
+          <td class="paramname"><em>graph</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Prevede neuplny graf na uplny spojenim nesousedicich vrcholu. </p>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>true pri uspechu; jinak false. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a4f21fbfae63cb6c57fbfce400b813df7"></a><!-- doxytag: member="_graph_st::ial_graph_count_vertices" ref="a4f21fbfae63cb6c57fbfce400b813df7" args="(const graph_t *graph)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">size_t <a class="el" href="struct__graph__st.html#a4f21fbfae63cb6c57fbfce400b813df7">ial_graph_count_vertices</a> </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *&#160;</td>
+          <td class="paramname"><em>graph</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrati pocet vrcholu v grafu. </p>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Pocet vrcholu; vrati 0 pri chybe. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="aa32953e3ec19add0bb42e9a0bc7c66b9"></a><!-- doxytag: member="_graph_st::ial_graph_free" ref="aa32953e3ec19add0bb42e9a0bc7c66b9" args="(graph_t *graph)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="struct__graph__st.html#aa32953e3ec19add0bb42e9a0bc7c66b9">ial_graph_free</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *&#160;</td>
+          <td class="paramname"><em>graph</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Uvolni graf, matici a jednotlive vrcholy. </p>
+
+</div>
+</div>
+<a class="anchor" id="abb868665f1592776312ac87e63c527d1"></a><!-- doxytag: member="_graph_st::ial_graph_get_matrix" ref="abb868665f1592776312ac87e63c527d1" args="(const graph_t *graph)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> * <a class="el" href="struct__graph__st.html#abb868665f1592776312ac87e63c527d1">ial_graph_get_matrix</a> </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *&#160;</td>
+          <td class="paramname"><em>graph</em></td><td>)</td>
+          <td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrati matici sousednosti spojenou s grafem. </p>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Matici sousednosti v pripade uspechu; jinak NULL. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a3b1b1ac6a78fb61eac70ad86e45a036f"></a><!-- doxytag: member="_graph_st::ial_graph_get_vertex" ref="a3b1b1ac6a78fb61eac70ad86e45a036f" args="(const graph_t *graph, size_t vertex)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> * <a class="el" href="struct__graph__st.html#a3b1b1ac6a78fb61eac70ad86e45a036f">ial_graph_get_vertex</a> </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> *&#160;</td>
+          <td class="paramname"><em>graph</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>vertex</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrati vazany seznam i-teho vrcholu. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">vertex</td><td>Vrchol. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Linearni seznam spojenych vrcholu v pripade uspechu; jinak NULL. </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a1d0d5780819124ed14a241ff7c6e160a"></a><!-- doxytag: member="_graph_st::ial_graph_new" ref="a1d0d5780819124ed14a241ff7c6e160a" args="(size_t numvertices, vertex_t **vertices, matrix_t *matrix)" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="graph_8h.html#a58382ffcbc031be11c914e953af8b7ac">graph_t</a> * <a class="el" href="struct__graph__st.html#a1d0d5780819124ed14a241ff7c6e160a">ial_graph_new</a> </td>
+          <td>(</td>
+          <td class="paramtype">size_t&#160;</td>
+          <td class="paramname"><em>numvertices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a> **&#160;</td>
+          <td class="paramname"><em>vertices</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a> *&#160;</td>
+          <td class="paramname"><em>matrix</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [related]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vytvori novy graf. </p>
+<dl class="params"><dt><b>Parametry:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">numvertices</td><td>Pocet vrcholu grafu. </td></tr>
+    <tr><td class="paramname">vertices</td><td>Pole vrcholu. </td></tr>
+    <tr><td class="paramname">matrix</td><td>Matice sousednosti. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="return"><dt><b>Návratová hodnota:</b></dt><dd>Graf nebo NULL. </dd></dl>
+
+</div>
+</div>
+<hr/><h2>Dokumentace k položkám</h2>
+<a class="anchor" id="a32e65d4168db47337a612249ed41be29"></a><!-- doxytag: member="_graph_st::matrix" ref="a32e65d4168db47337a612249ed41be29" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="matrix_8h.html#a3287e23589a222018f3e27fed9222146">matrix_t</a>* <a class="el" href="struct__graph__st.html#a32e65d4168db47337a612249ed41be29">_graph_st::matrix</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Matice sousednosti. </p>
+
+</div>
+</div>
+<a class="anchor" id="ae7a00c2f895ed17ca72ee60a3ee4bf06"></a><!-- doxytag: member="_graph_st::numvertices" ref="ae7a00c2f895ed17ca72ee60a3ee4bf06" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">size_t <a class="el" href="struct__graph__st.html#ae7a00c2f895ed17ca72ee60a3ee4bf06">_graph_st::numvertices</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Pocet vrcholu grafu. </p>
+
+</div>
+</div>
+<a class="anchor" id="a42b1673f09591fa6270e6cf58ce97d94"></a><!-- doxytag: member="_graph_st::vertices" ref="a42b1673f09591fa6270e6cf58ce97d94" args="" -->
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="vertex_8h.html#a8bb6ae70be2e19ce582b3c35ca2398ba">vertex_t</a>** <a class="el" href="struct__graph__st.html#a42b1673f09591fa6270e6cf58ce97d94">_graph_st::vertices</a></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Vrcholy grafu. </p>
+
+</div>
+</div>
+<hr/>Dokumentace pro tuto strukturu (struct) byla generována z následujícího souboru:<ul>
+<li><a class="el" href="graph_8c.html">graph.c</a></li>
+</ul>
+</div><!-- contents -->
+
+
+<hr class="footer"/><address class="footer"><small>
+Generováno programem &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.7.6.1
+</small></address>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<email>
+  <domain name="mojefirma" login="test@test.cz" capacity="1000">
+    <user name="test1" quota="10"></user>
+    <user name="test2" quota="10"></user>
+    <user name="test3" quota="10"></user>
+    <user name="test4" quota="10"></user>
+  </domain>
+</email>

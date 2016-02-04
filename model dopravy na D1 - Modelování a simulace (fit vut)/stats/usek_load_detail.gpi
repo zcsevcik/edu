@@ -1,0 +1,16 @@
+#!/bin/bash
+gnuplot <<EOF
+set terminal pngcairo size 800,600 enhanced
+set output "$1.png"
+
+set yrange [0:*]
+set xlabel "simulacni cas [min]"
+set ylabel "pocet aut"
+set zeroaxis
+
+set style data histogram
+set style fill transparent solid 0.5 border -1
+set style histogram cluster gap 1
+
+plot "$1.dat" u 4:xtic(1) title columnhead(7)
+EOF
